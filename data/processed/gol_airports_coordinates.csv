@@ -1,0 +1,77 @@
+code,icao,name,latitude,longitude,elevation,url,time_zone,city_code,country,city,state,county,type
+AEP,SABE,Jorge Newbery Airport,-34.55622,-58.41667,42,,America/Argentina/Buenos_Aires,BUE,AR,Colegiales,Buenos Aires F.D.,,AP
+AJU,SBAR,Aracaju Airport,-10.98281225,-37.07602527743482,42,https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-santa-maria-aracaju/,America/Maceio,AJU,BR,Aracaju,Sergipe,Aracaju,AP
+ARU,SBAU,Aracatuba Airport,-21.140815,-50.425139094792286,1341,http://www.daesp.sp.gov.br/aeroporto-estadual-de-aracatuba-dario-guarita/,America/Sao_Paulo,ARU,BR,Aracatuba,Sao Paulo,Aracatuba,AP
+ASU,SGAS,Silvio Pettirossi International Airport,-25.2355931,-57.51563884189728,232,,America/Asuncion,ASU,PY,Limpio,Central,,AP
+AUA,TNCA,Reina Beatrix International Airport,12.502222,-70.013885,36,,America/Aruba,AUA,AW,Oranjestad,,,AP
+BEL,SBBE,Val De Cans International Airport,-1.3798578,-48.47964610194296,19,http://www.infraero.gov.br/index.php/br/aeroportos/para/aeroporto-internacional-de-belem.html,America/Belem,BEL,BR,Belem,Para,Belem,AP
+BOG,SKBO,El Dorado International Airport,4.7028947500000005,-74.1487499180044,8382,,America/Bogota,BOG,CO,Funza,Cundinamarca,,AP
+BPS,SBPS,Porto Seguro Airport,-16.4389835,-39.08336724314525,134,,America/Bahia,BPS,BR,Porto Seguro,Bahia,Porto Seguro,AP
+BRC,SAZS,San Carlos de Bariloche International Airport,-41.145966,-71.16109,2788,http://www.aa2000.com.ar/bariloche,America/Argentina/Salta,BRC,AR,San Carlos de Bariloche,Rio Negro,Departamento de Bariloche,AP
+BSB,SBBR,Brasilia International Airport,-15.87174755,-47.91172169662855,3471,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=146,America/Sao_Paulo,BSB,BR,Brasilia,Federal District,Brasilia,AP
+BVB,SBBV,Boa Vista Airport,2.833333,-60.666668,242,,America/Boa_Vista,BVB,BR,Boa Vista,Roraima,Boa Vista,AP
+BYO,SBDB,Bonito Airport,-21.24942965,-56.45190863172819,1122,,America/Campo_Grande,BYO,BR,Bonito,Mato Grosso do Sul,Bonito,AP
+CAC,SBCA,Cascavel Airport,-24.95,-53.466667,2417,,America/Sao_Paulo,CAC,BR,Cascavel,Parana,Cascavel,AP
+CGB,SBCY,Marechal Rondon International Airport,-15.651725,-56.120266,629,http://www.infraero.gov.br/index.php/aeroportos/mato-grosso/aeroporto-internacional-marechal-rondon,America/Cuiaba,CGB,BR,Varzea Grande,Mato Grosso,Varzea Grande,AP
+CGH,SBSP,Sao Paulo/Congonhas Airport,-23.626902,-46.659557,2627,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=219,America/Sao_Paulo,SAO,BR,Diadema,Sao Paulo,Diadema,AP
+CGR,SBCG,Campo Grande International Airport,-20.47157685,-54.68224625125994,1788,,America/Campo_Grande,CGR,BR,Campo Grande,Mato Grosso do Sul,Campo Grande,AP
+CKS,SBCJ,Carajas Airport,-6.11655575,-49.99774268663904,2063,http://www.infraero.gov.br/index.php/us/airports/para/carajas-airport.html,America/Belem,CKS,BR,,,,AP
+CLV,SBCN,Caldas Novas,-17.7247899,-48.6081742294032,2276,,America/Sao_Paulo,CLV,BR,Caldas Novas,Goias,Caldas Novas,AP
+CNF,SBCF,Tancredo Neves International Airport,-19.63339785,-43.96836942393943,2713,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=207,America/Sao_Paulo,BHZ,BR,Lagoa Santa,Minas Gerais,Lagoa Santa,AP
+COR,SACO,Ingeniero Aeronautico Ambrosio L.V. Taravella International Airport,-31.31548,-64.21377,1584,,America/Argentina/Cordoba,COR,AR,Villa Allende,Cordoba,,AP
+CPV,SBKG,Joao Suassuna Airport,-7.27016065,-35.89609699581786,1561,,America/Fortaleza,CPV,BR,Campina Grande,Paraiba,Campina Grande,AP
+CUN,MMUN,Cancun International Airport,21.0407394,-86.8818149087711,72,http://www.asur.com.mx/asur/ingles/aeropuertos/cancun/cancun.asp,America/Cancun,CUN,MX,Alfredo V. Bonfil,Quintana Roo,,AP
+CWB,SBCT,Afonso Pena International Airport,-25.5322,-49.176544,2956,,America/Sao_Paulo,CWB,BR,Sao Jose dos Pinhais,Parana,Sao Jose Dos Pinhais,AP
+CXJ,SBCX,Hugo Cantergiani Regional Airport,-29.19705975,-51.1861647969846,2424,,America/Sao_Paulo,CXJ,BR,Caxias do Sul,Rio Grande do Sul,Caxias Do Sul,AP
+CZS,SBCZ,Campo Internacional Airport,-7.583333,-72.78333,646,http://www.infraero.gov.br/index.php/aeroportos/acre/aeroporto-cruzeiro-do-sul.html,America/Rio_Branco,CZS,BR,Cruzeiro do Sul,Acre,Cruzeiro Do Sul,AP
+EZE,SAEZ,Ministro Pistarini Airport,-34.81681415,-58.54742335052262,65,http://www.aa2000.com.ar/index.php,America/Argentina/Buenos_Aires,BUE,AR,Ezeiza,Buenos Aires,Partido de Ezeiza,AP
+FEN,SBFN,Fernando De Noronha Airport,-3.8546858,-32.4227495764598,150,,America/Noronha,FEN,BR,Fernando de Noronha (Distrito Estadual),Pernambuco,Fernando De Noronha,AP
+FLN,SBFL,Hercilio Luz International Airport,-27.67011345,-48.54468648648172,19,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=228,America/Sao_Paulo,FLN,BR,Carianos,Santa Catarina,Florianopolis,AP
+FOR,SBFZ,Pinto Martins Airport,-3.779073,-38.540836,141,,America/Fortaleza,FOR,BR,Fortaleza,Ceara,Fortaleza,AP
+GEL,SBNM,Sepe Tiaraju,-28.28341965,-54.16561195879408,1013,,America/Sao_Paulo,GEL,BR,Santo Angelo,Rio Grande do Sul,Santo Angelo,AP
+GIG,SBGL,Galeao Antonio Carlos Jobim International Airport,-22.81122025,-43.258620204081936,32,,America/Sao_Paulo,RIO,BR,Duque de Caxias,Rio de Janeiro,Duque De Caxias,AP
+GRU,SBGR,Sao Paulo-Guarulhos International Airport,-23.43779495,-46.4813205288006,2460,http://www.infraero.gov.br/,America/Sao_Paulo,SAO,BR,Guarulhos,Sao Paulo,Guarulhos,AP
+GYN,SBGO,Santa Genoveva Airport,-16.632631,-49.226624,2440,,America/Sao_Paulo,GYN,BR,Goiania,Goias,Goiania,AP
+IGU,SBFI,Cataratas International Airport,-25.5930616,-54.49060873125,757,,America/Sao_Paulo,IGU,BR,Puerto Iguazu,Misiones,Departamento de Iguazu,AP
+IOS,SBIL,Ilheus/Bahia-Jorge Amado Airport,-14.813889,-39.03,13,,America/Bahia,IOS,BR,Ilheus,Bahia,Ilheus,AP
+IZA,SBZM,Zona da Mata Regional Airport,-21.513056,-43.173058,1318,,America/Sao_Paulo,JDF,BR,Rio Novo,Minas Gerais,Rio Novo,AP
+JDO,SBJU,Orlando Bezerra de Menezes Airport,-7.2,-39.316666,1243,,America/Fortaleza,JDO,BR,Juazeiro do Norte,Ceara,Juazeiro Do Norte,AP
+JJD,SBJE,Jericoacoara,-2.9061463,-40.35715399349103,29,,Brazil/East,JJD,BR,Cruz,Ceara,Cruz,AP
+JOI,SBJV,Joinville-Lauro Carneiro de Loyola Airport,-26.2249688,-48.79862231685878,15,,America/Sao_Paulo,JOI,BR,Joinville,Santa Catarina,Joinville,AP
+JPA,SBJP,Presidente Castro Pinto International Airport,-7.148930699999999,-34.95030583440195,217,,America/Fortaleza,JPA,BR,Bayeux,Paraiba,Bayeux,AP
+LDB,SBLO,Londrina Airport,-23.328457,-51.137714,1867,,America/Sao_Paulo,LDB,BR,Londrina,Parana,Londrina,AP
+MAB,SBMA,Maraba Airport,-5.366667,-49.166668,334,,America/Belem,MAB,BR,,,,AP
+MAO,SBEG,Eduardo Gomes International Airport,-3.03553825,-60.04575303314657,259,https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-de-manaus-eduardo-gomes/,America/Manaus,MAO,BR,,,,AP
+MCO,KMCO,Orlando International Airport,28.412903550000003,-81.30944309752753,82,http://www.orlandoairports.net/,America/New_York,ORL,US,Taft,Florida,Orange County,AP
+MCP,SBMQ,Macapa International Airport,0.0505785,-51.07059996039651,42,,America/Belem,MCP,BR,Macapa,Amapa,Macapa,AP
+MCZ,SBMO,Maceio-Zumbi dos Palmares International Airport,-9.512521,-35.800446,321,,America/Maceio,MCZ,BR,Satuba,Alagoas,Satuba,AP
+MDZ,SAME,El Plumerillo International Airport,-32.8315886,-68.79757765477916,2283,,America/Argentina/Mendoza,MDZ,AR,Las Heras,Mendoza,,AP
+MGF,SBMG,Regional De Maringa,-23.383612,-51.933334,1594,,America/Sao_Paulo,MGF,BR,Maringa,Parana,Maringa,AP
+MIA,KMIA,Miami International Airport,25.7949789,-80.28672341095405,45,http://www.miami-airport.com/,America/New_York,MIA,US,Virginia Gardens,Florida,Miami-Dade County,AP
+MOC,SBMK,Montes Claros Airport,-16.70518095,-43.82008294490494,2139,,America/Sao_Paulo,MOC,BR,Montes Claros,Minas Gerais,Montes Claros,AP
+MVD,SUMU,Carrasco International Airport,-34.830431950000005,-56.02201434471925,52,,America/Montevideo,MVD,UY,Paso de Carrasco,Canelones,,AP
+NAT,SBSG,Sao Goncalo do Amarante-Governador Aluizio Alves Intl Airport,-5.916787,-35.250244,190,http://www.natal.aero,America/Fortaleza,NAT,BR,Parnamirim,Rio Grande do Norte,Parnamirim,AP
+NVT,SBNF,Navegantes Airport,-26.87842885,-48.64935416493447,19,,America/Sao_Paulo,NVT,BR,Navegantes,Santa Catarina,Navegantes,AP
+OPS,SBSI,Sinop Airport,-11.88507355,-55.58558108491808,1240,,America/Cuiaba,OPS,BR,,,,AP
+PET,SBPK,Federal Airport,-31.718056,-52.324444,49,,America/Sao_Paulo,PET,BR,Pelotas,Rio Grande do Sul,Pelotas,AP
+PFB,SBPF,Passo Fundo Airport,-28.2435244,-52.32669864043906,2362,,America/Sao_Paulo,PFB,BR,Passo Fundo,Rio Grande do Sul,Passo Fundo,AP
+PMW,SBPJ,Palmas Airport,-10.241667,-48.35278,757,,America/Araguaina,PMW,BR,,,,AP
+PNZ,SBPL,Petrolina International Airport,-9.393333,-40.490555,1223,,America/Recife,PNZ,BR,Petrolina,Pernambuco,Petrolina,AP
+POA,SBPA,Salgado Filho International Airport,-29.99526845,-51.16747969953305,22,,America/Sao_Paulo,POA,BR,Porto Alegre,Rio Grande do Sul,Porto Alegre,AP
+PPB,SBDN,A. De Barros Airport,-22.1,-51.45,1332,http://www.daesp.sp.gov.br/aeroporto-detalhe/?id=879,America/Sao_Paulo,PPB,BR,Alvares Machado,Sao Paulo,Alvares Machado,AP
+PUJ,MDPC,Punta Cana International Airport,18.5697918,-68.36662616922789,52,,America/Santo_Domingo,PUJ,DO,Punta Cana,San Juan,,AP
+PVH,SBPV,Porto Velho International Airport,-8.70990265,-63.900493918125576,328,,America/Porto_Velho,PVH,BR,Porto Velho,Rondonia,Porto Velho,AP
+RAO,SBRP,Dr. Leite Lopes State Airport,-21.135834,-47.773335,1791,,America/Sao_Paulo,RAO,BR,Ribeirao Preto,Sao Paulo,Ribeirao Preto,AP
+RBR,SBRB,Pres. Medici Airport,-9.966667,-67.8,462,,America/Rio_Branco,RBR,BR,Rio Branco,Acre,Rio Branco,AP
+REC,SBRF,Guararapes-Gilberto Freyre International Airport,-8.1256775,-34.92271835508188,62,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=163,America/Recife,REC,BR,Recife,Pernambuco,Recife,AP
+ROS,SAAR,Fisherton Airport,-32.933334,-60.783333,62,,America/Argentina/Cordoba,ROS,AR,Funes,Santa Fe,,AP
+SDU,SBRJ,Santos Dumont Airport,-22.91044395,-43.16418613781168,49,,America/Sao_Paulo,RIO,BR,Rio de Janeiro,Rio de Janeiro,Rio De Janeiro,AP
+SJK,SBSJ,Sao Jose Dos Campos,-23.183332,-46.11667,2303,,America/Sao_Paulo,SJK,BR,Santa Isabel,Sao Paulo,Santa Isabel,AP
+SJP,SBSR,Sao Jose do Rio Preto Airport,-20.81731545,-49.40846770047455,1755,,America/Sao_Paulo,SJP,BR,Sao Jose do Rio Preto,Sao Paulo,Sao Jose Do Rio Preto,AP
+SLZ,SBSL,Marechal Cunha Machado International Airport,-2.58899115,-44.23940764493366,111,,America/Fortaleza,SLZ,BR,Sao Luis,Maranhao,Sao Luis,AP
+SSA,SBSV,Deputado Luis Eduardo Magalhaes International Airport,-12.91102045,-38.33497451468749,19,,America/Bahia,SSA,BR,Lauro de Freitas,Bahia,Lauro De Freitas,AP
+STM,SBSN,Santarem-Maestro Wilson Fonseca Airport,-2.42713895,-54.80445559036728,206,,America/Santarem,STM,BR,Santarem,Para,Santarem,AP
+THE,SBTE,Teresina Airport,-5.0598744,-42.82351020263352,219,,America/Fortaleza,THE,BR,Teresina,Piaui,Teresina,AP
+VCP,SBKP,Viracopos Airport,-23.00605625,-47.1418432690333,2096,,America/Sao_Paulo,SAO,BR,Indaiatuba,Sao Paulo,Indaiatuba,AP
+VVI,SLVR,Viru Viru International Airport,-17.6594809,-63.13846624460784,1236,,America/La_Paz,SRZ,BO,La Belgica,Santa Cruz,,AP
+XAP,SBCH,Chapeco Airport,-27.088612,-52.629723,2146,,America/Sao_Paulo,XAP,BR,Chapeco,Santa Catarina,Chapeco,AP

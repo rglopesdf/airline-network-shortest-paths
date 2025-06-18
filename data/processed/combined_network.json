@@ -1,0 +1,6448 @@
+{
+  "nodes": [
+    {
+      "id": "AEP",
+      "name": "Jorge Newbery Airport",
+      "city": "Colegiales",
+      "country": "AR",
+      "latitude": -34.55622,
+      "longitude": -58.41667,
+      "icao": "SABE",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "AJU",
+      "name": "Aracaju Airport",
+      "city": "Aracaju",
+      "country": "BR",
+      "latitude": -10.98281225,
+      "longitude": -37.07602527743482,
+      "icao": "SBAR",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ARU",
+      "name": "Aracatuba Airport",
+      "city": "Aracatuba",
+      "country": "BR",
+      "latitude": -21.140815,
+      "longitude": -50.425139094792286,
+      "icao": "SBAU",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ASU",
+      "name": "Silvio Pettirossi International Airport",
+      "city": "Limpio",
+      "country": "PY",
+      "latitude": -25.2355931,
+      "longitude": -57.51563884189728,
+      "icao": "SGAS",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "AUA",
+      "name": "Reina Beatrix International Airport",
+      "city": "Oranjestad",
+      "country": "AW",
+      "latitude": 12.502222,
+      "longitude": -70.013885,
+      "icao": "TNCA",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BEL",
+      "name": "Val De Cans International Airport",
+      "city": "Belem",
+      "country": "BR",
+      "latitude": -1.3798578,
+      "longitude": -48.47964610194296,
+      "icao": "SBBE",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BOG",
+      "name": "El Dorado International Airport",
+      "city": "Funza",
+      "country": "CO",
+      "latitude": 4.7028947500000005,
+      "longitude": -74.1487499180044,
+      "icao": "SKBO",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BPS",
+      "name": "Porto Seguro Airport",
+      "city": "Porto Seguro",
+      "country": "BR",
+      "latitude": -16.4389835,
+      "longitude": -39.08336724314525,
+      "icao": "SBPS",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BRC",
+      "name": "San Carlos de Bariloche International Airport",
+      "city": "San Carlos de Bariloche",
+      "country": "AR",
+      "latitude": -41.145966,
+      "longitude": -71.16109,
+      "icao": "SAZS",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BSB",
+      "name": "Brasilia International Airport",
+      "city": "Brasilia",
+      "country": "BR",
+      "latitude": -15.87174755,
+      "longitude": -47.91172169662855,
+      "icao": "SBBR",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "BVB",
+      "name": "Boa Vista Airport",
+      "city": "Boa Vista",
+      "country": "BR",
+      "latitude": 2.833333,
+      "longitude": -60.666668,
+      "icao": "SBBV",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BYO",
+      "name": "Bonito Airport",
+      "city": "Bonito",
+      "country": "BR",
+      "latitude": -21.24942965,
+      "longitude": -56.45190863172819,
+      "icao": "SBDB",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CAC",
+      "name": "Cascavel Airport",
+      "city": "Cascavel",
+      "country": "BR",
+      "latitude": -24.95,
+      "longitude": -53.466667,
+      "icao": "SBCA",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CGB",
+      "name": "Marechal Rondon International Airport",
+      "city": "Varzea Grande",
+      "country": "BR",
+      "latitude": -15.651725,
+      "longitude": -56.120266,
+      "icao": "SBCY",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CGH",
+      "name": "Sao Paulo/Congonhas Airport",
+      "city": "Diadema",
+      "country": "BR",
+      "latitude": -23.626902,
+      "longitude": -46.659557,
+      "icao": "SBSP",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "CGR",
+      "name": "Campo Grande International Airport",
+      "city": "Campo Grande",
+      "country": "BR",
+      "latitude": -20.47157685,
+      "longitude": -54.68224625125994,
+      "icao": "SBCG",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CKS",
+      "name": "Carajas Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -6.11655575,
+      "longitude": -49.99774268663904,
+      "icao": "SBCJ",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CLV",
+      "name": "Caldas Novas",
+      "city": "Caldas Novas",
+      "country": "BR",
+      "latitude": -17.7247899,
+      "longitude": -48.6081742294032,
+      "icao": "SBCN",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CNF",
+      "name": "Tancredo Neves International Airport",
+      "city": "Lagoa Santa",
+      "country": "BR",
+      "latitude": -19.63339785,
+      "longitude": -43.96836942393943,
+      "icao": "SBCF",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "COR",
+      "name": "Ingeniero Aeronautico Ambrosio L.V. Taravella International Airport",
+      "city": "Villa Allende",
+      "country": "AR",
+      "latitude": -31.31548,
+      "longitude": -64.21377,
+      "icao": "SACO",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CPV",
+      "name": "Joao Suassuna Airport",
+      "city": "Campina Grande",
+      "country": "BR",
+      "latitude": -7.27016065,
+      "longitude": -35.89609699581786,
+      "icao": "SBKG",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CUN",
+      "name": "Cancun International Airport",
+      "city": "Alfredo V. Bonfil",
+      "country": "MX",
+      "latitude": 21.0407394,
+      "longitude": -86.8818149087711,
+      "icao": "MMUN",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CWB",
+      "name": "Afonso Pena International Airport",
+      "city": "Sao Jose dos Pinhais",
+      "country": "BR",
+      "latitude": -25.5322,
+      "longitude": -49.176544,
+      "icao": "SBCT",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": true
+    },
+    {
+      "id": "CXJ",
+      "name": "Hugo Cantergiani Regional Airport",
+      "city": "Caxias do Sul",
+      "country": "BR",
+      "latitude": -29.19705975,
+      "longitude": -51.1861647969846,
+      "icao": "SBCX",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CZS",
+      "name": "Campo Internacional Airport",
+      "city": "Cruzeiro do Sul",
+      "country": "BR",
+      "latitude": -7.583333,
+      "longitude": -72.78333,
+      "icao": "SBCZ",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "EZE",
+      "name": "Ministro Pistarini Airport",
+      "city": "Ezeiza",
+      "country": "AR",
+      "latitude": -34.81681415,
+      "longitude": -58.54742335052262,
+      "icao": "SAEZ",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "FEN",
+      "name": "Fernando De Noronha Airport",
+      "city": "Fernando de Noronha (Distrito Estadual)",
+      "country": "BR",
+      "latitude": -3.8546858,
+      "longitude": -32.4227495764598,
+      "icao": "SBFN",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "FLN",
+      "name": "Hercilio Luz International Airport",
+      "city": "Carianos",
+      "country": "BR",
+      "latitude": -27.67011345,
+      "longitude": -48.54468648648172,
+      "icao": "SBFL",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "FOR",
+      "name": "Pinto Martins Airport",
+      "city": "Fortaleza",
+      "country": "BR",
+      "latitude": -3.779073,
+      "longitude": -38.540836,
+      "icao": "SBFZ",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "GEL",
+      "name": "Sepe Tiaraju",
+      "city": "Santo Angelo",
+      "country": "BR",
+      "latitude": -28.28341965,
+      "longitude": -54.16561195879408,
+      "icao": "SBNM",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "GIG",
+      "name": "Galeao Antonio Carlos Jobim International Airport",
+      "city": "Duque de Caxias",
+      "country": "BR",
+      "latitude": -22.81122025,
+      "longitude": -43.258620204081936,
+      "icao": "SBGL",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "GRU",
+      "name": "Sao Paulo-Guarulhos International Airport",
+      "city": "Guarulhos",
+      "country": "BR",
+      "latitude": -23.43779495,
+      "longitude": -46.4813205288006,
+      "icao": "SBGR",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "GYN",
+      "name": "Santa Genoveva Airport",
+      "city": "Goiania",
+      "country": "BR",
+      "latitude": -16.632631,
+      "longitude": -49.226624,
+      "icao": "SBGO",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IGU",
+      "name": "Cataratas International Airport",
+      "city": "Puerto Iguazu",
+      "country": "BR",
+      "latitude": -25.5930616,
+      "longitude": -54.49060873125,
+      "icao": "SBFI",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IOS",
+      "name": "Ilheus/Bahia-Jorge Amado Airport",
+      "city": "Ilheus",
+      "country": "BR",
+      "latitude": -14.813889,
+      "longitude": -39.03,
+      "icao": "SBIL",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IZA",
+      "name": "Zona da Mata Regional Airport",
+      "city": "Rio Novo",
+      "country": "BR",
+      "latitude": -21.513056,
+      "longitude": -43.173058,
+      "icao": "SBZM",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JDO",
+      "name": "Orlando Bezerra de Menezes Airport",
+      "city": "Juazeiro do Norte",
+      "country": "BR",
+      "latitude": -7.2,
+      "longitude": -39.316666,
+      "icao": "SBJU",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JJD",
+      "name": "Jericoacoara",
+      "city": "Cruz",
+      "country": "BR",
+      "latitude": -2.9061463,
+      "longitude": -40.35715399349103,
+      "icao": "SBJE",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JOI",
+      "name": "Joinville-Lauro Carneiro de Loyola Airport",
+      "city": "Joinville",
+      "country": "BR",
+      "latitude": -26.2249688,
+      "longitude": -48.79862231685878,
+      "icao": "SBJV",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JPA",
+      "name": "Presidente Castro Pinto International Airport",
+      "city": "Bayeux",
+      "country": "BR",
+      "latitude": -7.148930699999999,
+      "longitude": -34.95030583440195,
+      "icao": "SBJP",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "LDB",
+      "name": "Londrina Airport",
+      "city": "Londrina",
+      "country": "BR",
+      "latitude": -23.328457,
+      "longitude": -51.137714,
+      "icao": "SBLO",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MAB",
+      "name": "Maraba Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -5.366667,
+      "longitude": -49.166668,
+      "icao": "SBMA",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MAO",
+      "name": "Eduardo Gomes International Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -3.03553825,
+      "longitude": -60.04575303314657,
+      "icao": "SBEG",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MCO",
+      "name": "Orlando International Airport",
+      "city": "Taft",
+      "country": "US",
+      "latitude": 28.412903550000003,
+      "longitude": -81.30944309752753,
+      "icao": "KMCO",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MCP",
+      "name": "Macapa International Airport",
+      "city": "Macapa",
+      "country": "BR",
+      "latitude": 0.0505785,
+      "longitude": -51.07059996039651,
+      "icao": "SBMQ",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MCZ",
+      "name": "Maceio-Zumbi dos Palmares International Airport",
+      "city": "Satuba",
+      "country": "BR",
+      "latitude": -9.512521,
+      "longitude": -35.800446,
+      "icao": "SBMO",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MDZ",
+      "name": "El Plumerillo International Airport",
+      "city": "Las Heras",
+      "country": "AR",
+      "latitude": -32.8315886,
+      "longitude": -68.79757765477916,
+      "icao": "SAME",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MGF",
+      "name": "Regional De Maringa",
+      "city": "Maringa",
+      "country": "BR",
+      "latitude": -23.383612,
+      "longitude": -51.933334,
+      "icao": "SBMG",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MIA",
+      "name": "Miami International Airport",
+      "city": "Virginia Gardens",
+      "country": "US",
+      "latitude": 25.7949789,
+      "longitude": -80.28672341095405,
+      "icao": "KMIA",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MOC",
+      "name": "Montes Claros Airport",
+      "city": "Montes Claros",
+      "country": "BR",
+      "latitude": -16.70518095,
+      "longitude": -43.82008294490494,
+      "icao": "SBMK",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MVD",
+      "name": "Carrasco International Airport",
+      "city": "Paso de Carrasco",
+      "country": "UY",
+      "latitude": -34.830431950000005,
+      "longitude": -56.02201434471925,
+      "icao": "SUMU",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "NAT",
+      "name": "Sao Goncalo do Amarante-Governador Aluizio Alves Intl Airport",
+      "city": "Parnamirim",
+      "country": "BR",
+      "latitude": -5.916787,
+      "longitude": -35.250244,
+      "icao": "SBSG",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "NVT",
+      "name": "Navegantes Airport",
+      "city": "Navegantes",
+      "country": "BR",
+      "latitude": -26.87842885,
+      "longitude": -48.64935416493447,
+      "icao": "SBNF",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "OPS",
+      "name": "Sinop Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -11.88507355,
+      "longitude": -55.58558108491808,
+      "icao": "SBSI",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PET",
+      "name": "Federal Airport",
+      "city": "Pelotas",
+      "country": "BR",
+      "latitude": -31.718056,
+      "longitude": -52.324444,
+      "icao": "SBPK",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PFB",
+      "name": "Passo Fundo Airport",
+      "city": "Passo Fundo",
+      "country": "BR",
+      "latitude": -28.2435244,
+      "longitude": -52.32669864043906,
+      "icao": "SBPF",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PMW",
+      "name": "Palmas Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -10.241667,
+      "longitude": -48.35278,
+      "icao": "SBPJ",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PNZ",
+      "name": "Petrolina International Airport",
+      "city": "Petrolina",
+      "country": "BR",
+      "latitude": -9.393333,
+      "longitude": -40.490555,
+      "icao": "SBPL",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "POA",
+      "name": "Salgado Filho International Airport",
+      "city": "Porto Alegre",
+      "country": "BR",
+      "latitude": -29.99526845,
+      "longitude": -51.16747969953305,
+      "icao": "SBPA",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "PPB",
+      "name": "A. De Barros Airport",
+      "city": "Alvares Machado",
+      "country": "BR",
+      "latitude": -22.1,
+      "longitude": -51.45,
+      "icao": "SBDN",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PUJ",
+      "name": "Punta Cana International Airport",
+      "city": "Punta Cana",
+      "country": "DO",
+      "latitude": 18.5697918,
+      "longitude": -68.36662616922789,
+      "icao": "MDPC",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PVH",
+      "name": "Porto Velho International Airport",
+      "city": "Porto Velho",
+      "country": "BR",
+      "latitude": -8.70990265,
+      "longitude": -63.900493918125576,
+      "icao": "SBPV",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "RAO",
+      "name": "Dr. Leite Lopes State Airport",
+      "city": "Ribeirao Preto",
+      "country": "BR",
+      "latitude": -21.135834,
+      "longitude": -47.773335,
+      "icao": "SBRP",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "RBR",
+      "name": "Pres. Medici Airport",
+      "city": "Rio Branco",
+      "country": "BR",
+      "latitude": -9.966667,
+      "longitude": -67.8,
+      "icao": "SBRB",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "REC",
+      "name": "Guararapes-Gilberto Freyre International Airport",
+      "city": "Recife",
+      "country": "BR",
+      "latitude": -8.1256775,
+      "longitude": -34.92271835508188,
+      "icao": "SBRF",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "ROS",
+      "name": "Fisherton Airport",
+      "city": "Funes",
+      "country": "AR",
+      "latitude": -32.933334,
+      "longitude": -60.783333,
+      "icao": "SAAR",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SDU",
+      "name": "Santos Dumont Airport",
+      "city": "Rio de Janeiro",
+      "country": "BR",
+      "latitude": -22.91044395,
+      "longitude": -43.16418613781168,
+      "icao": "SBRJ",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "SJK",
+      "name": "Sao Jose Dos Campos",
+      "city": "Santa Isabel",
+      "country": "BR",
+      "latitude": -23.183332,
+      "longitude": -46.11667,
+      "icao": "SBSJ",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SJP",
+      "name": "Sao Jose do Rio Preto Airport",
+      "city": "Sao Jose do Rio Preto",
+      "country": "BR",
+      "latitude": -20.81731545,
+      "longitude": -49.40846770047455,
+      "icao": "SBSR",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SLZ",
+      "name": "Marechal Cunha Machado International Airport",
+      "city": "Sao Luis",
+      "country": "BR",
+      "latitude": -2.58899115,
+      "longitude": -44.23940764493366,
+      "icao": "SBSL",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SSA",
+      "name": "Deputado Luis Eduardo Magalhaes International Airport",
+      "city": "Lauro de Freitas",
+      "country": "BR",
+      "latitude": -12.91102045,
+      "longitude": -38.33497451468749,
+      "icao": "SBSV",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "STM",
+      "name": "Santarem-Maestro Wilson Fonseca Airport",
+      "city": "Santarem",
+      "country": "BR",
+      "latitude": -2.42713895,
+      "longitude": -54.80445559036728,
+      "icao": "SBSN",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "THE",
+      "name": "Teresina Airport",
+      "city": "Teresina",
+      "country": "BR",
+      "latitude": -5.0598744,
+      "longitude": -42.82351020263352,
+      "icao": "SBTE",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "VCP",
+      "name": "Viracopos Airport",
+      "city": "Indaiatuba",
+      "country": "BR",
+      "latitude": -23.00605625,
+      "longitude": -47.1418432690333,
+      "icao": "SBKP",
+      "operator": "Both",
+      "gol_hub": true,
+      "azul_hub": true
+    },
+    {
+      "id": "VVI",
+      "name": "Viru Viru International Airport",
+      "city": "La Belgica",
+      "country": "BO",
+      "latitude": -17.6594809,
+      "longitude": -63.13846624460784,
+      "icao": "SLVR",
+      "operator": "Gol",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "XAP",
+      "name": "Chapeco Airport",
+      "city": "Chapeco",
+      "country": "BR",
+      "latitude": -27.088612,
+      "longitude": -52.629723,
+      "icao": "SBCH",
+      "operator": "Both",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "AAX",
+      "name": "Araxa Airport",
+      "city": "Araxa",
+      "country": "BR",
+      "latitude": -19.563132000000003,
+      "longitude": -46.96040575380038,
+      "icao": "SBAX",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "AFL",
+      "name": "Alta Floresta Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -9.866163,
+      "longitude": -56.10603812089458,
+      "icao": "SBAT",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "AIR",
+      "name": "Aripuana",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -10.25,
+      "longitude": -59.38333,
+      "icao": "SSOU",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "AQA",
+      "name": "Araraquara",
+      "city": "Araraquara",
+      "country": "BR",
+      "latitude": -21.816668,
+      "longitude": -48.13333,
+      "icao": "SBAQ",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ATM",
+      "name": "Altamira Airport",
+      "city": "Altamira",
+      "country": "BR",
+      "latitude": -3.2,
+      "longitude": -52.216667,
+      "icao": "SBHT",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BAT",
+      "name": "Airport Chafei Amsei",
+      "city": "Barretos",
+      "country": "BR",
+      "latitude": -20.55,
+      "longitude": -48.55,
+      "icao": "SNBA",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BPG",
+      "name": "Barra Do Garcas",
+      "city": "Barra do Garcas",
+      "country": "BR",
+      "latitude": -15.8606725,
+      "longitude": -52.39006674230171,
+      "icao": "SBBW",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BRA",
+      "name": "Barreiras Airport",
+      "city": "Barreiras",
+      "country": "BR",
+      "latitude": -12.0794806,
+      "longitude": -45.00970535335743,
+      "icao": "SNBR",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BVH",
+      "name": "Vilhena Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -12.6940825,
+      "longitude": -60.09875397255124,
+      "icao": "SBVH",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "BVS",
+      "name": "Breves",
+      "city": "Breves",
+      "country": "BR",
+      "latitude": -1.6351127,
+      "longitude": -50.44221729198899,
+      "icao": "SNVS",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CAU",
+      "name": "Caruaru",
+      "city": "Caruaru",
+      "country": "BR",
+      "latitude": -8.25,
+      "longitude": -35.916668,
+      "icao": "SNRU",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CIZ",
+      "name": "Coari",
+      "city": "Coari",
+      "country": "BR",
+      "latitude": -4.083333,
+      "longitude": -63.13333,
+      "icao": "SWKO",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CJZ",
+      "name": "Cajazeiras Airport",
+      "city": "Cajazeiras",
+      "country": "BR",
+      "latitude": -6.882778,
+      "longitude": -38.615833,
+      "icao": "SJZA",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CMG",
+      "name": "Corumba Internacional Airport",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -19.0125785,
+      "longitude": -57.66975905679873,
+      "icao": "SBCR",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "CUR",
+      "name": "Curacao International Airport",
+      "city": "Sint Michiel Liber",
+      "country": "CW",
+      "latitude": 12.1890286,
+      "longitude": -68.96216089958281,
+      "icao": "TNCC",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "DIQ",
+      "name": "Divinopolis",
+      "city": "Divinopolis",
+      "country": "BR",
+      "latitude": -20.18147045,
+      "longitude": -44.87004451735432,
+      "icao": "SNDV",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ERN",
+      "name": "Eirunepe",
+      "city": "Eirunepe",
+      "country": "BR",
+      "latitude": -6.583333,
+      "longitude": -69.88333,
+      "icao": "SWEI",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "FLL",
+      "name": "Fort Lauderdale-Hollywood International Airport",
+      "city": NaN,
+      "country": "US",
+      "latitude": 26.072017,
+      "longitude": -80.15099673135214,
+      "icao": "KFLL",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "FRC",
+      "name": "Franca",
+      "city": "Franca",
+      "country": "BR",
+      "latitude": -20.551945,
+      "longitude": -47.4375,
+      "icao": "SIMK",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "GGJ",
+      "name": "Guaíra Airport",
+      "city": "Salto del Guaira",
+      "country": "BR",
+      "latitude": -24.08087945,
+      "longitude": -54.19114629441818,
+      "icao": "SSGY",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "GNM",
+      "name": "Guanambi",
+      "city": "Guanambi",
+      "country": "BR",
+      "latitude": -14.3,
+      "longitude": -42.783333,
+      "icao": "SNGI",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "GPB",
+      "name": "Tancredo Thomaz Faria",
+      "city": "Guarapuava",
+      "country": "BR",
+      "latitude": -25.333332,
+      "longitude": -51.5,
+      "icao": "SSGG",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "GVR",
+      "name": "Governador Valadares Airport",
+      "city": "Governador Valadares",
+      "country": "BR",
+      "latitude": -18.850279,
+      "longitude": -41.933334,
+      "icao": "SBGV",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IAL",
+      "name": "Aeroporto Municipal de Salinas",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -16.208333,
+      "longitude": -42.321944,
+      "icao": NaN,
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IMP",
+      "name": "Imperatriz Airport",
+      "city": "Imperatriz",
+      "country": "BR",
+      "latitude": -5.5301267,
+      "longitude": -47.45800807097166,
+      "icao": "SBIZ",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IPN",
+      "name": "Usiminas Airport",
+      "city": "Ipatinga",
+      "country": "BR",
+      "latitude": -19.5,
+      "longitude": -42.533333,
+      "icao": "SBIP",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "IRZ",
+      "name": "Tapuruquara",
+      "city": "Santa Isabel do Rio Negro",
+      "country": "BR",
+      "latitude": -0.37810525,
+      "longitude": -64.99261880076497,
+      "icao": "SWTP",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ITB",
+      "name": "Itaituba",
+      "city": "Itaituba",
+      "country": "BR",
+      "latitude": -4.283333,
+      "longitude": -55.983334,
+      "icao": "SBIH",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JAW",
+      "name": "Aeroporto de Araripina",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -7.586389,
+      "longitude": -40.535556,
+      "icao": "SNAB",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JMA",
+      "name": "Marriot Astrodome",
+      "city": "Aldine",
+      "country": "US",
+      "latitude": 29.983334,
+      "longitude": -95.34,
+      "icao": NaN,
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JPE",
+      "name": "Nagib Demachki Airport",
+      "city": "Paragominas",
+      "country": "BR",
+      "latitude": -3.019722,
+      "longitude": -47.316389,
+      "icao": "SNEB",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JPO",
+      "name": "Brigadeiro Firmino Ayres Airport",
+      "city": "Patos",
+      "country": "BR",
+      "latitude": -7.037496939556,
+      "longitude": -37.25184761766,
+      "icao": "SNTS",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JPR",
+      "name": "Ji-Parana Airport",
+      "city": "Ji Parana",
+      "country": "BR",
+      "latitude": -10.870556,
+      "longitude": -61.84667,
+      "icao": "SBJI",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "JTC",
+      "name": "Bauru-Arealva Airport",
+      "city": "Bauru",
+      "country": "BR",
+      "latitude": -22.15705835,
+      "longitude": -49.07515943787047,
+      "icao": "SBAE",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "LBR",
+      "name": "Labrea",
+      "city": "Canutama",
+      "country": "BR",
+      "latitude": -7.25,
+      "longitude": -64.85,
+      "icao": "SWLB",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "LEC",
+      "name": "Coronel Horacio de Mattos Airport",
+      "city": "Vera Cruz",
+      "country": "BR",
+      "latitude": -12.48,
+      "longitude": -41.281113,
+      "icao": "SBLE",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "LHN",
+      "name": "Lishan",
+      "city": "Hualian",
+      "country": "TW",
+      "latitude": 23.433332,
+      "longitude": 121.3,
+      "icao": NaN,
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "LIS",
+      "name": "Lisbon Portela Airport",
+      "city": "Moscavide",
+      "country": "PT",
+      "latitude": 38.7809542,
+      "longitude": -9.131900592219496,
+      "icao": "LPPT",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MAD",
+      "name": "Adolfo Suarez Madrid-Barajas Airport",
+      "city": "Barajas de Madrid",
+      "country": "ES",
+      "latitude": 40.4948384,
+      "longitude": -3.574080620681132,
+      "icao": "LEMD",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MBZ",
+      "name": "Maues",
+      "city": "Maues",
+      "country": "BR",
+      "latitude": -3.36992465,
+      "longitude": -57.72495510284816,
+      "icao": "SWMW",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MEU",
+      "name": "Monte Dourado",
+      "city": "Almeirim",
+      "country": "BR",
+      "latitude": -0.8896558000000001,
+      "longitude": -52.60197779839184,
+      "icao": "SBMD",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MII",
+      "name": "Dr Gastao Vidigal Airport",
+      "city": "Marilia",
+      "country": "BR",
+      "latitude": -22.2,
+      "longitude": -49.933334,
+      "icao": "SBML",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "MNX",
+      "name": "Manicore",
+      "city": "Manicore",
+      "country": "BR",
+      "latitude": -5.81173955,
+      "longitude": -61.27874196726444,
+      "icao": "SBMY",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "OAL",
+      "name": "Cacoal Airport",
+      "city": "Cacoal",
+      "country": "BR",
+      "latitude": -11.433889,
+      "longitude": -61.4825,
+      "icao": "SSKW",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "OIA",
+      "name": "Ourilandia",
+      "city": NaN,
+      "country": "BR",
+      "latitude": -6.76392515,
+      "longitude": -51.047096751155294,
+      "icao": "SDOW",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "OPP",
+      "name": "Salinópolis Airport",
+      "city": "Salinópolis",
+      "country": "BR",
+      "latitude": -0.696944,
+      "longitude": -47.337778,
+      "icao": "SNSM",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ORY",
+      "name": "Paris Orly Airport",
+      "city": "Paray-Vieille-Poste",
+      "country": "FR",
+      "latitude": 48.748477050000005,
+      "longitude": 2.35572229362018,
+      "icao": "LFPO",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PDP",
+      "name": "Capitan de Corbeta Carlos A. Curbelo International Airport",
+      "city": "Maldonado",
+      "country": "UY",
+      "latitude": -34.914444,
+      "longitude": -54.919167,
+      "icao": "SULS",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PIN",
+      "name": "Parintins",
+      "city": "Parintins",
+      "country": "BR",
+      "latitude": -2.6731800000000003,
+      "longitude": -56.77727067382461,
+      "icao": "SWPI",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PMG",
+      "name": "International",
+      "city": "Ponta Pora",
+      "country": "BR",
+      "latitude": -22.55,
+      "longitude": -55.7,
+      "icao": "SBPP",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "POJ",
+      "name": "Patos De Minas",
+      "city": "Patos de Minas",
+      "country": "BR",
+      "latitude": -18.67291465,
+      "longitude": -46.4919252194623,
+      "icao": "SNPD",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PTO",
+      "name": "Pato Branco",
+      "city": "Pato Branco",
+      "country": "BR",
+      "latitude": -26.2169937,
+      "longitude": -52.694225841764215,
+      "icao": "SBPO",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PTQ",
+      "name": "Porto de Moz",
+      "city": "Porto de Moz",
+      "country": "BR",
+      "latitude": -1.74273455,
+      "longitude": -52.237087731100814,
+      "icao": "SNMZ",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "PYT",
+      "name": "Pedro Rabelo de Souza Airport",
+      "city": "Paracatu",
+      "country": "BR",
+      "latitude": -17.242778,
+      "longitude": -46.883056,
+      "icao": "SNZR",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "QGP",
+      "name": "Garanhuns Airport",
+      "city": "Garanhuns",
+      "country": "BR",
+      "latitude": -8.834444,
+      "longitude": -36.471389,
+      "icao": "SNGN",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "RBB",
+      "name": "Borba",
+      "city": "Borba",
+      "country": "BR",
+      "latitude": -4.40582015,
+      "longitude": -59.60435028003239,
+      "icao": "SWBR",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "RIA",
+      "name": "Santa Maria Airport",
+      "city": "Santa Maria",
+      "country": "BR",
+      "latitude": -29.710556,
+      "longitude": -53.6875,
+      "icao": "SBSM",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "ROO",
+      "name": "Rondonopolis Airport",
+      "city": "Rondonopolis",
+      "country": "BR",
+      "latitude": -16.433332,
+      "longitude": -54.716667,
+      "icao": "SBRD",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "RRJ",
+      "name": "Jacarepaguá Airport",
+      "city": "Rio de Janeiro",
+      "country": "BR",
+      "latitude": -22.98641695,
+      "longitude": -43.37144946439823,
+      "icao": "SBJR",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SET",
+      "name": "San Esteban",
+      "city": "San Esteban",
+      "country": "HN",
+      "latitude": 15.316667,
+      "longitude": -85.86667,
+      "icao": NaN,
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SJL",
+      "name": "Da Cachoeira",
+      "city": "Sao Gabriel da Cachoeira",
+      "country": "BR",
+      "latitude": -0.1483109,
+      "longitude": -66.98557275279653,
+      "icao": "SBUA",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "SMT",
+      "name": "Sun Moon Lake",
+      "city": "Puli",
+      "country": "TW",
+      "latitude": 23.883333,
+      "longitude": 120.933334,
+      "icao": "SBSO",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "TBT",
+      "name": "Tabatinga International Airport",
+      "city": "Tabatinga",
+      "country": "BR",
+      "latitude": -4.233333,
+      "longitude": -69.933334,
+      "icao": "SBTT",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "TEC",
+      "name": "Telemaco Borba",
+      "city": "Telemaco Borba",
+      "country": "BR",
+      "latitude": -24.31767995,
+      "longitude": -50.65176291354726,
+      "icao": "SSVL",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "TFF",
+      "name": "Tefe Airport",
+      "city": "Tefe",
+      "country": "BR",
+      "latitude": -3.3824045,
+      "longitude": -64.72460759140549,
+      "icao": "SBTF",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "TFL",
+      "name": "Teofilo Otoni",
+      "city": "Teofilo Otoni",
+      "country": "BR",
+      "latitude": -17.85,
+      "longitude": -41.5,
+      "icao": "SNTO",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "TMT",
+      "name": "Trombetas",
+      "city": "Abidos",
+      "country": "BR",
+      "latitude": -1.916667,
+      "longitude": -55.583332,
+      "icao": "SBTB",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "TUR",
+      "name": "Tucurui",
+      "city": "Tucurui",
+      "country": "BR",
+      "latitude": -3.7,
+      "longitude": -49.733334,
+      "icao": "SBTU",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "UBA",
+      "name": "Uberaba Airport",
+      "city": "Uberaba",
+      "country": "BR",
+      "latitude": -19.776388,
+      "longitude": -47.958332,
+      "icao": "SBUR",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "UDI",
+      "name": "Uberlandia-Ten. Cel. Av. Cesar Bombonato Airport",
+      "city": "Uberlandia",
+      "country": "BR",
+      "latitude": -18.9,
+      "longitude": -48.233334,
+      "icao": "SBUL",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "UMU",
+      "name": "Ernesto Geisel",
+      "city": "Umuarama",
+      "country": "BR",
+      "latitude": -23.798332,
+      "longitude": -53.31333,
+      "icao": "SSUM",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "UNA",
+      "name": "Una",
+      "city": "Una",
+      "country": "BR",
+      "latitude": -15.353333,
+      "longitude": -38.997223,
+      "icao": "SBTC",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "URG",
+      "name": "Ruben Berta Airport",
+      "city": "Uruguaiana",
+      "country": "BR",
+      "latitude": -29.781668,
+      "longitude": -57.038334,
+      "icao": "SBUG",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "UVI",
+      "name": "União da Vitória Airport",
+      "city": "Porto Uniao",
+      "country": "BR",
+      "latitude": -26.231667,
+      "longitude": -51.068889,
+      "icao": NaN,
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "VAG",
+      "name": "Major-Brigadeiro Trompowsky Airport",
+      "city": "Varginha",
+      "country": "BR",
+      "latitude": -21.55,
+      "longitude": -45.433334,
+      "icao": "SBVG",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "VDC",
+      "name": "Vitoria Da Conquista Airport",
+      "city": "Vitoria da Conquista",
+      "country": "BR",
+      "latitude": -14.86450825,
+      "longitude": -40.862788613186495,
+      "icao": "SBVC",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    },
+    {
+      "id": "VIX",
+      "name": "Eurico de Aguiar Salles Airport",
+      "city": "Vila Velha",
+      "country": "BR",
+      "latitude": -20.256092950000003,
+      "longitude": -40.28135718192593,
+      "icao": "SBVT",
+      "operator": "Azul",
+      "gol_hub": false,
+      "azul_hub": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "AEP",
+      "target": "GRU",
+      "distance": 1693.102741469409,
+      "weight": 1693.102741469409,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AEP",
+      "target": "CGH",
+      "distance": 1665.3122892559584,
+      "weight": 1665.3122892559584,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AEP",
+      "target": "POA",
+      "distance": 849.0974564480002,
+      "weight": 849.0974564480002,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AJU",
+      "target": "SSA",
+      "distance": 254.41189841244145,
+      "weight": 254.41189841244145,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "ARU",
+      "target": "VCP",
+      "distance": 396.81485760655767,
+      "weight": 396.81485760655767,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "ASU",
+      "target": "GRU",
+      "distance": 1135.3020903538554,
+      "weight": 1135.3020903538554,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ASU",
+      "target": "CGH",
+      "distance": 1113.1772166326934,
+      "weight": 1113.1772166326934,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ASU",
+      "target": "POA",
+      "distance": 819.0370504646199,
+      "weight": 819.0370504646199,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "ASU",
+      "target": "VCP",
+      "distance": 1081.252805611745,
+      "weight": 1081.252805611745,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AUA",
+      "target": "GRU",
+      "distance": 4745.938778475294,
+      "weight": 4745.938778475294,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BEL",
+      "target": "FOR",
+      "distance": 1135.7194412742608,
+      "weight": 1135.7194412742608,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BOG",
+      "target": "GRU",
+      "distance": 4335.678644335976,
+      "weight": 4335.678644335976,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BOG",
+      "target": "FOR",
+      "distance": 4066.5284242514276,
+      "weight": 4066.5284242514276,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BPS",
+      "target": "SSA",
+      "distance": 400.46337781433544,
+      "weight": 400.46337781433544,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BRC",
+      "target": "GRU",
+      "distance": 3023.2262127166623,
+      "weight": 3023.2262127166623,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BRC",
+      "target": "CGH",
+      "distance": 2995.466015378898,
+      "weight": 2995.466015378898,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BRC",
+      "target": "POA",
+      "distance": 2184.0095891020846,
+      "weight": 2184.0095891020846,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BRC",
+      "target": "VCP",
+      "distance": 3012.4554145893917,
+      "weight": 3012.4554145893917,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "GRU",
+      "distance": 854.5095861320173,
+      "weight": 854.5095861320173,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "CGH",
+      "distance": 872.213198228248,
+      "weight": 872.213198228248,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "VCP",
+      "distance": 797.3884994305104,
+      "weight": 797.3884994305104,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "BVB",
+      "distance": 2508.6137919395596,
+      "weight": 2508.6137919395596,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "CGB",
+      "distance": 878.7132341762792,
+      "weight": 878.7132341762792,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "CKS",
+      "distance": 1108.3054789135447,
+      "weight": 1108.3054789135447,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "CLV",
+      "distance": 218.97920250495906,
+      "weight": 218.97920250495906,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "CZS",
+      "distance": 2857.024919632716,
+      "weight": 2857.024919632716,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "GYN",
+      "distance": 163.8930133610215,
+      "weight": 163.8930133610215,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "MAB",
+      "distance": 1176.1112565840715,
+      "weight": 1176.1112565840715,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "MAO",
+      "distance": 1949.45376261712,
+      "weight": 1949.45376261712,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "OPS",
+      "distance": 939.3328394993365,
+      "weight": 939.3328394993365,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "PMW",
+      "distance": 627.855025352889,
+      "weight": 627.855025352889,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "PVH",
+      "distance": 1909.5519568590105,
+      "weight": 1909.5519568590105,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "RBR",
+      "distance": 2251.703523147769,
+      "weight": 2251.703523147769,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "STM",
+      "distance": 1674.712485011839,
+      "weight": 1674.712485011839,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BSB",
+      "target": "CNF",
+      "distance": 590.9802373656846,
+      "weight": 590.9802373656846,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "GIG",
+      "distance": 912.8771605513807,
+      "weight": 912.8771605513807,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "SDU",
+      "distance": 927.4076165753959,
+      "weight": 927.4076165753959,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "CWB",
+      "distance": 1082.1925813516327,
+      "weight": 1082.1925813516327,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "POA",
+      "distance": 1605.1934960325939,
+      "weight": 1605.1934960325939,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "FOR",
+      "distance": 1690.521688682541,
+      "weight": 1690.521688682541,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "REC",
+      "distance": 1653.4602393032044,
+      "weight": 1653.4602393032044,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "SSA",
+      "distance": 1082.5331360932855,
+      "weight": 1082.5331360932855,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "AFL",
+      "distance": 1110.8925052515272,
+      "weight": 1110.8925052515272,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "AIR",
+      "distance": 1390.3515445281262,
+      "weight": 1390.3515445281262,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "ATM",
+      "distance": 1485.6786622302093,
+      "weight": 1485.6786622302093,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "BPG",
+      "distance": 478.99043291590624,
+      "weight": 478.99043291590624,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "BRA",
+      "distance": 525.1914983887268,
+      "weight": 525.1914983887268,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "BVH",
+      "distance": 1359.611591136209,
+      "weight": 1359.611591136209,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "CIZ",
+      "distance": 2117.964807412966,
+      "weight": 2117.964807412966,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "CMG",
+      "distance": 1092.2151798020138,
+      "weight": 1092.2151798020138,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "ERN",
+      "distance": 2606.2455790047666,
+      "weight": 2606.2455790047666,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "IRZ",
+      "distance": 2545.5742881289575,
+      "weight": 2545.5742881289575,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "ITB",
+      "distance": 1561.5199001904127,
+      "weight": 1561.5199001904127,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "JPR",
+      "distance": 1606.0811201432907,
+      "weight": 1606.0811201432907,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "LBR",
+      "distance": 2077.4390339958436,
+      "weight": 2077.4390339958436,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "MBZ",
+      "distance": 1756.3690408710213,
+      "weight": 1756.3690408710213,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "MNX",
+      "distance": 1837.373348787845,
+      "weight": 1837.373348787845,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "OAL",
+      "distance": 1546.5771225045619,
+      "weight": 1546.5771225045619,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "OIA",
+      "distance": 1068.7561214689993,
+      "weight": 1068.7561214689993,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "PIN",
+      "distance": 1759.5147064941286,
+      "weight": 1759.5147064941286,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "PYT",
+      "distance": 187.7806874299226,
+      "weight": 187.7806874299226,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "RBB",
+      "distance": 1804.816725388298,
+      "weight": 1804.816725388298,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "ROO",
+      "distance": 729.4462528390588,
+      "weight": 729.4462528390588,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "SJL",
+      "distance": 2727.176394108282,
+      "weight": 2727.176394108282,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "TBT",
+      "distance": 2732.034462127961,
+      "weight": 2732.034462127961,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "TFF",
+      "distance": 2304.4743311095503,
+      "weight": 2304.4743311095503,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "TMT",
+      "distance": 1764.7570915326805,
+      "weight": 1764.7570915326805,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BSB",
+      "target": "UDI",
+      "distance": 338.45083276367313,
+      "weight": 338.45083276367313,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BVB",
+      "target": "BSB",
+      "distance": 2508.6137919395596,
+      "weight": 2508.6137919395596,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "BYO",
+      "target": "VCP",
+      "distance": 978.4715967206121,
+      "weight": 978.4715967206121,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BYO",
+      "target": "CWB",
+      "distance": 881.8027088223686,
+      "weight": 881.8027088223686,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CAC",
+      "target": "POA",
+      "distance": 605.0779972604737,
+      "weight": 605.0779972604737,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CAC",
+      "target": "CWB",
+      "distance": 436.3009458477614,
+      "weight": 436.3009458477614,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGB",
+      "target": "BSB",
+      "distance": 878.7132341762792,
+      "weight": 878.7132341762792,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CGH",
+      "target": "GRU",
+      "distance": 27.791030118237472,
+      "weight": 27.791030118237472,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "VCP",
+      "distance": 84.80069284262325,
+      "weight": 84.80069284262325,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CGH",
+      "target": "GIG",
+      "distance": 359.1653035373711,
+      "weight": 359.1653035373711,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "SDU",
+      "distance": 365.822014629829,
+      "weight": 365.822014629829,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "BSB",
+      "distance": 872.213198228248,
+      "weight": 872.213198228248,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CGH",
+      "target": "CNF",
+      "distance": 523.94641748413,
+      "weight": 523.94641748413,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CGH",
+      "target": "SSA",
+      "distance": 1479.6280618791327,
+      "weight": 1479.6280618791327,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "FOR",
+      "distance": 2372.9358940481748,
+      "weight": 2372.9358940481748,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "REC",
+      "distance": 2129.4046491313366,
+      "weight": 2129.4046491313366,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "POA",
+      "distance": 837.3797350893506,
+      "weight": 837.3797350893506,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "CWB",
+      "distance": 331.1356995625607,
+      "weight": 331.1356995625607,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "JOI",
+      "distance": 360.5135479923498,
+      "weight": 360.5135479923498,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "NVT",
+      "distance": 413.2149527059007,
+      "weight": 413.2149527059007,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "AEP",
+      "distance": 1665.3122892559584,
+      "weight": 1665.3122892559584,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "ASU",
+      "distance": 1113.1772166326934,
+      "weight": 1113.1772166326934,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "BRC",
+      "distance": 2995.466015378898,
+      "weight": 2995.466015378898,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "COR",
+      "distance": 1927.9505785535002,
+      "weight": 1927.9505785535002,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "EZE",
+      "distance": 1694.0237406864564,
+      "weight": 1694.0237406864564,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "MDZ",
+      "distance": 2391.5139159816363,
+      "weight": 2391.5139159816363,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "MVD",
+      "distance": 1540.0627598855538,
+      "weight": 1540.0627598855538,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGH",
+      "target": "ROS",
+      "distance": 1724.4166015263777,
+      "weight": 1724.4166015263777,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGR",
+      "target": "VCP",
+      "distance": 828.0854682408353,
+      "weight": 828.0854682408353,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CGR",
+      "target": "CWB",
+      "distance": 796.1534563510074,
+      "weight": 796.1534563510074,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CKS",
+      "target": "BSB",
+      "distance": 1108.3054789135447,
+      "weight": 1108.3054789135447,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CLV",
+      "target": "BSB",
+      "distance": 218.97920250495906,
+      "weight": 218.97920250495906,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CNF",
+      "target": "GRU",
+      "distance": 496.46235647648496,
+      "weight": 496.46235647648496,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CNF",
+      "target": "CGH",
+      "distance": 523.94641748413,
+      "weight": 523.94641748413,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CNF",
+      "target": "VCP",
+      "distance": 498.6514813839962,
+      "weight": 498.6514813839962,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CNF",
+      "target": "MOC",
+      "distance": 325.979439911537,
+      "weight": 325.979439911537,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CNF",
+      "target": "BSB",
+      "distance": 590.9802373656846,
+      "weight": 590.9802373656846,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "GIG",
+      "distance": 360.93207496545904,
+      "weight": 360.93207496545904,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "SDU",
+      "distance": 373.79358279123466,
+      "weight": 373.79358279123466,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "CWB",
+      "distance": 846.0130731224958,
+      "weight": 846.0130731224958,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "POA",
+      "distance": 1361.2454880223102,
+      "weight": 1361.2454880223102,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "FOR",
+      "distance": 1858.6535162154346,
+      "weight": 1858.6535162154346,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "REC",
+      "distance": 1608.3975778828926,
+      "weight": 1608.3975778828926,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "SSA",
+      "distance": 959.0514834038477,
+      "weight": 959.0514834038477,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "AAX",
+      "distance": 313.51853402028354,
+      "weight": 313.51853402028354,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "DIQ",
+      "distance": 112.25345808103157,
+      "weight": 112.25345808103157,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "GVR",
+      "distance": 230.70578323701625,
+      "weight": 230.70578323701625,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "IAL",
+      "distance": 418.78075747911157,
+      "weight": 418.78075747911157,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "IPN",
+      "distance": 151.08345973139765,
+      "weight": 151.08345973139765,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "POJ",
+      "distance": 285.7743420170145,
+      "weight": 285.7743420170145,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "TFL",
+      "distance": 326.9145725476033,
+      "weight": 326.9145725476033,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "VIX",
+      "distance": 391.5478778324894,
+      "weight": 391.5478778324894,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "FLL",
+      "distance": 6409.679471284479,
+      "weight": 6409.679471284479,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "LIS",
+      "distance": 7439.966300895033,
+      "weight": 7439.966300895033,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "MAD",
+      "distance": 7883.113020192387,
+      "weight": 7883.113020192387,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "MCO",
+      "distance": 6680.970462872043,
+      "weight": 6680.970462872043,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CNF",
+      "target": "ORY",
+      "distance": 8878.705860224578,
+      "weight": 8878.705860224578,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "COR",
+      "target": "GRU",
+      "distance": 1954.25218906793,
+      "weight": 1954.25218906793,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "COR",
+      "target": "CGH",
+      "distance": 1927.9505785535002,
+      "weight": 1927.9505785535002,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "COR",
+      "target": "POA",
+      "distance": 1255.7977585000137,
+      "weight": 1255.7977585000137,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CPV",
+      "target": "REC",
+      "distance": 143.36628719319498,
+      "weight": 143.36628719319498,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CUN",
+      "target": "GRU",
+      "distance": 6602.998397450622,
+      "weight": 6602.998397450622,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CUN",
+      "target": "FOR",
+      "distance": 5944.627916795593,
+      "weight": 5944.627916795593,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "CGH",
+      "distance": 331.1356995625607,
+      "weight": 331.1356995625607,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "VCP",
+      "distance": 348.46860946896874,
+      "weight": 348.46860946896874,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "CNF",
+      "distance": 846.0130731224958,
+      "weight": 846.0130731224958,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "BSB",
+      "distance": 1082.1925813516327,
+      "weight": 1082.1925813516327,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "BYO",
+      "distance": 881.8027088223686,
+      "weight": 881.8027088223686,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "CAC",
+      "distance": 436.3009458477614,
+      "weight": 436.3009458477614,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "CGR",
+      "distance": 796.1534563510074,
+      "weight": 796.1534563510074,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "FLN",
+      "distance": 245.88419597738252,
+      "weight": 245.88419597738252,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "GGJ",
+      "distance": 531.2046389152687,
+      "weight": 531.2046389152687,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "GPB",
+      "distance": 234.36157475204394,
+      "weight": 234.36157475204394,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "IGU",
+      "distance": 533.0638978024381,
+      "weight": 533.0638978024381,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "JOI",
+      "distance": 85.81068133358254,
+      "weight": 85.81068133358254,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "LDB",
+      "distance": 315.37195436053196,
+      "weight": 315.37195436053196,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "MGF",
+      "distance": 367.31660540016526,
+      "weight": 367.31660540016526,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "NVT",
+      "distance": 158.66416221440932,
+      "weight": 158.66416221440932,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "PMG",
+      "distance": 740.6531313344576,
+      "weight": 740.6531313344576,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "PPB",
+      "distance": 446.21850740612587,
+      "weight": 446.21850740612587,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "PTO",
+      "distance": 360.0657833499208,
+      "weight": 360.0657833499208,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "TEC",
+      "distance": 200.91196910185215,
+      "weight": 200.91196910185215,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "UMU",
+      "distance": 460.3011812385877,
+      "weight": 460.3011812385877,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CWB",
+      "target": "UVI",
+      "distance": 204.66407856694167,
+      "weight": 204.66407856694167,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CXJ",
+      "target": "POA",
+      "distance": 88.77514174128886,
+      "weight": 88.77514174128886,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "CZS",
+      "target": "BSB",
+      "distance": 2857.024919632716,
+      "weight": 2857.024919632716,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "EZE",
+      "target": "GRU",
+      "distance": 1721.8120602735924,
+      "weight": 1721.8120602735924,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "EZE",
+      "target": "CGH",
+      "distance": 1694.0237406864564,
+      "weight": 1694.0237406864564,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "EZE",
+      "target": "POA",
+      "distance": 875.5677798368242,
+      "weight": 875.5677798368242,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FEN",
+      "target": "REC",
+      "distance": 549.4895210508827,
+      "weight": 549.4895210508827,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FLN",
+      "target": "POA",
+      "distance": 363.4550902202302,
+      "weight": 363.4550902202302,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FLN",
+      "target": "CWB",
+      "distance": 245.88419597738252,
+      "weight": 245.88419597738252,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "GRU",
+      "distance": 2346.532845794301,
+      "weight": 2346.532845794301,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "CGH",
+      "distance": 2372.9358940481748,
+      "weight": 2372.9358940481748,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "VCP",
+      "distance": 2329.5456802089134,
+      "weight": 2329.5456802089134,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "BEL",
+      "distance": 1135.7194412742608,
+      "weight": 1135.7194412742608,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "JDO",
+      "distance": 389.9592458141907,
+      "weight": 389.9592458141907,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "JJD",
+      "distance": 223.76805353335084,
+      "weight": 223.76805353335084,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "MCP",
+      "distance": 1455.9139430902276,
+      "weight": 1455.9139430902276,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "SLZ",
+      "distance": 646.3531936043502,
+      "weight": 646.3531936043502,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "THE",
+      "distance": 495.68520771585435,
+      "weight": 495.68520771585435,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "FOR",
+      "target": "BOG",
+      "distance": 4066.5284242514276,
+      "weight": 4066.5284242514276,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "CUN",
+      "distance": 5944.627916795593,
+      "weight": 5944.627916795593,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "MCO",
+      "distance": 5804.367413896878,
+      "weight": 5804.367413896878,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "MIA",
+      "distance": 5569.453937638748,
+      "weight": 5569.453937638748,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "CNF",
+      "distance": 1858.6535162154346,
+      "weight": 1858.6535162154346,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "BSB",
+      "distance": 1690.521688682541,
+      "weight": 1690.521688682541,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "BVS",
+      "distance": 1343.1395786320716,
+      "weight": 1343.1395786320716,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "CJZ",
+      "distance": 345.21609460181503,
+      "weight": 345.21609460181503,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "IMP",
+      "distance": 1007.227182308831,
+      "weight": 1007.227182308831,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "JAW",
+      "distance": 477.41426462080386,
+      "weight": 477.41426462080386,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "JPE",
+      "distance": 977.7222113319722,
+      "weight": 977.7222113319722,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "MEU",
+      "distance": 1594.7565640209334,
+      "weight": 1594.7565640209334,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "OPP",
+      "distance": 1035.6584604019276,
+      "weight": 1035.6584604019276,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "PTQ",
+      "distance": 1537.857647131344,
+      "weight": 1537.857647131344,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FOR",
+      "target": "TUR",
+      "distance": 1241.9217568274616,
+      "weight": 1241.9217568274616,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GEL",
+      "target": "POA",
+      "distance": 347.85656682857285,
+      "weight": 347.85656682857285,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "GIG",
+      "target": "GRU",
+      "distance": 336.8311378312569,
+      "weight": 336.8311378312569,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GIG",
+      "target": "CGH",
+      "distance": 359.1653035373711,
+      "weight": 359.1653035373711,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GIG",
+      "target": "VCP",
+      "distance": 398.3154301604609,
+      "weight": 398.3154301604609,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "GIG",
+      "target": "IZA",
+      "distance": 144.6179317745144,
+      "weight": 144.6179317745144,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "GIG",
+      "target": "CNF",
+      "distance": 360.93207496545904,
+      "weight": 360.93207496545904,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GIG",
+      "target": "BSB",
+      "distance": 912.8771605513807,
+      "weight": 912.8771605513807,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GIG",
+      "target": "RRJ",
+      "distance": 22.651279767258245,
+      "weight": 22.651279767258245,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "CGH",
+      "distance": 27.791030118237472,
+      "weight": 27.791030118237472,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "VCP",
+      "distance": 82.82763089512477,
+      "weight": 82.82763089512477,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "GRU",
+      "target": "GIG",
+      "distance": 336.8311378312569,
+      "weight": 336.8311378312569,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "SDU",
+      "distance": 344.1111319603831,
+      "weight": 344.1111319603831,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "BSB",
+      "distance": 854.5095861320173,
+      "weight": 854.5095861320173,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "GRU",
+      "target": "CNF",
+      "distance": 496.46235647648496,
+      "weight": 496.46235647648496,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "GRU",
+      "target": "SSA",
+      "distance": 1451.8771488328223,
+      "weight": 1451.8771488328223,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "FOR",
+      "distance": 2346.532845794301,
+      "weight": 2346.532845794301,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "REC",
+      "distance": 2101.652131028294,
+      "weight": 2101.652131028294,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "POA",
+      "distance": 864.7958350129232,
+      "weight": 864.7958350129232,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "SJK",
+      "distance": 46.76791084801071,
+      "weight": 46.76791084801071,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "AEP",
+      "distance": 1693.102741469409,
+      "weight": 1693.102741469409,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "ASU",
+      "distance": 1135.3020903538554,
+      "weight": 1135.3020903538554,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "AUA",
+      "distance": 4745.938778475294,
+      "weight": 4745.938778475294,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "BOG",
+      "distance": 4335.678644335976,
+      "weight": 4335.678644335976,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "BRC",
+      "distance": 3023.2262127166623,
+      "weight": 3023.2262127166623,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "COR",
+      "distance": 1954.25218906793,
+      "weight": 1954.25218906793,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "CUN",
+      "distance": 6602.998397450622,
+      "weight": 6602.998397450622,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "EZE",
+      "distance": 1721.8120602735924,
+      "weight": 1721.8120602735924,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "MCO",
+      "distance": 6867.448979467021,
+      "weight": 6867.448979467021,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "MDZ",
+      "distance": 2417.8278447858693,
+      "weight": 2417.8278447858693,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "MIA",
+      "distance": 6573.222872317013,
+      "weight": 6573.222872317013,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "MVD",
+      "distance": 1567.6524787726717,
+      "weight": 1567.6524787726717,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "PUJ",
+      "distance": 5240.2727379084945,
+      "weight": 5240.2727379084945,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "ROS",
+      "distance": 1751.861116257418,
+      "weight": 1751.861116257418,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "VVI",
+      "distance": 1847.8414752642116,
+      "weight": 1847.8414752642116,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GRU",
+      "target": "VAG",
+      "distance": 235.9103871788479,
+      "weight": 235.9103871788479,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GYN",
+      "target": "BSB",
+      "distance": 163.8930133610215,
+      "weight": 163.8930133610215,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "IGU",
+      "target": "POA",
+      "distance": 588.5262879520656,
+      "weight": 588.5262879520656,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "IGU",
+      "target": "CWB",
+      "distance": 533.0638978024381,
+      "weight": 533.0638978024381,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "IOS",
+      "target": "SSA",
+      "distance": 224.49783670267232,
+      "weight": 224.49783670267232,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "IZA",
+      "target": "GIG",
+      "distance": 144.6179317745144,
+      "weight": 144.6179317745144,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "JDO",
+      "target": "FOR",
+      "distance": 389.9592458141907,
+      "weight": 389.9592458141907,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "JJD",
+      "target": "FOR",
+      "distance": 223.76805353335084,
+      "weight": 223.76805353335084,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "JOI",
+      "target": "CGH",
+      "distance": 360.5135479923498,
+      "weight": 360.5135479923498,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JOI",
+      "target": "CWB",
+      "distance": 85.81068133358254,
+      "weight": 85.81068133358254,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JPA",
+      "target": "REC",
+      "distance": 108.65183504124543,
+      "weight": 108.65183504124543,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "LDB",
+      "target": "VCP",
+      "distance": 410.0471434303355,
+      "weight": 410.0471434303355,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "LDB",
+      "target": "CWB",
+      "distance": 315.37195436053196,
+      "weight": 315.37195436053196,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MAB",
+      "target": "BSB",
+      "distance": 1176.1112565840715,
+      "weight": 1176.1112565840715,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "MAO",
+      "target": "BSB",
+      "distance": 1949.45376261712,
+      "weight": 1949.45376261712,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "MCO",
+      "target": "GRU",
+      "distance": 6867.448979467021,
+      "weight": 6867.448979467021,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MCO",
+      "target": "FOR",
+      "distance": 5804.367413896878,
+      "weight": 5804.367413896878,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MCO",
+      "target": "VCP",
+      "distance": 6789.623382065885,
+      "weight": 6789.623382065885,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MCO",
+      "target": "CNF",
+      "distance": 6680.970462872043,
+      "weight": 6680.970462872043,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MCP",
+      "target": "FOR",
+      "distance": 1455.9139430902276,
+      "weight": 1455.9139430902276,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "MCZ",
+      "target": "REC",
+      "distance": 181.88418146809425,
+      "weight": 181.88418146809425,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "MDZ",
+      "target": "GRU",
+      "distance": 2417.8278447858693,
+      "weight": 2417.8278447858693,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MDZ",
+      "target": "CGH",
+      "distance": 2391.5139159816363,
+      "weight": 2391.5139159816363,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MDZ",
+      "target": "POA",
+      "distance": 1700.3790157296798,
+      "weight": 1700.3790157296798,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MGF",
+      "target": "VCP",
+      "distance": 491.4973044335159,
+      "weight": 491.4973044335159,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MGF",
+      "target": "CWB",
+      "distance": 367.31660540016526,
+      "weight": 367.31660540016526,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MIA",
+      "target": "GRU",
+      "distance": 6573.222872317013,
+      "weight": 6573.222872317013,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MIA",
+      "target": "FOR",
+      "distance": 5569.453937638748,
+      "weight": 5569.453937638748,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MOC",
+      "target": "CNF",
+      "distance": 325.979439911537,
+      "weight": 325.979439911537,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "MVD",
+      "target": "GRU",
+      "distance": 1567.6524787726717,
+      "weight": 1567.6524787726717,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MVD",
+      "target": "CGH",
+      "distance": 1540.0627598855538,
+      "weight": 1540.0627598855538,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MVD",
+      "target": "POA",
+      "distance": 704.5707556382981,
+      "weight": 704.5707556382981,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "MVD",
+      "target": "VCP",
+      "distance": 1571.723015721103,
+      "weight": 1571.723015721103,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "NAT",
+      "target": "REC",
+      "distance": 248.26253326191548,
+      "weight": 248.26253326191548,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "NVT",
+      "target": "CGH",
+      "distance": 413.2149527059007,
+      "weight": 413.2149527059007,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "NVT",
+      "target": "CWB",
+      "distance": 158.66416221440932,
+      "weight": 158.66416221440932,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "OPS",
+      "target": "BSB",
+      "distance": 939.3328394993365,
+      "weight": 939.3328394993365,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "PET",
+      "target": "POA",
+      "distance": 221.11523211903145,
+      "weight": 221.11523211903145,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "PFB",
+      "target": "POA",
+      "distance": 224.98805733750396,
+      "weight": 224.98805733750396,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "PMW",
+      "target": "BSB",
+      "distance": 627.855025352889,
+      "weight": 627.855025352889,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "PNZ",
+      "target": "SSA",
+      "distance": 456.3768028877942,
+      "weight": 456.3768028877942,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "GRU",
+      "distance": 864.7958350129232,
+      "weight": 864.7958350129232,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "CGH",
+      "distance": 837.3797350893506,
+      "weight": 837.3797350893506,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "VCP",
+      "distance": 874.1297673498796,
+      "weight": 874.1297673498796,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "CAC",
+      "distance": 605.0779972604737,
+      "weight": 605.0779972604737,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "CXJ",
+      "distance": 88.77514174128886,
+      "weight": 88.77514174128886,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "FLN",
+      "distance": 363.4550902202302,
+      "weight": 363.4550902202302,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "GEL",
+      "distance": 347.85656682857285,
+      "weight": 347.85656682857285,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "IGU",
+      "distance": 588.5262879520656,
+      "weight": 588.5262879520656,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "PET",
+      "distance": 221.11523211903145,
+      "weight": 221.11523211903145,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "PFB",
+      "distance": 224.98805733750396,
+      "weight": 224.98805733750396,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "XAP",
+      "distance": 353.3478259767201,
+      "weight": 353.3478259767201,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "AEP",
+      "distance": 849.0974564480002,
+      "weight": 849.0974564480002,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "ASU",
+      "distance": 819.0370504646199,
+      "weight": 819.0370504646199,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "BRC",
+      "distance": 2184.0095891020846,
+      "weight": 2184.0095891020846,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "COR",
+      "distance": 1255.7977585000137,
+      "weight": 1255.7977585000137,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "EZE",
+      "distance": 875.5677798368242,
+      "weight": 875.5677798368242,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "MDZ",
+      "distance": 1700.3790157296798,
+      "weight": 1700.3790157296798,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "MVD",
+      "distance": 704.5707556382981,
+      "weight": 704.5707556382981,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "POA",
+      "target": "ROS",
+      "distance": 968.2931705052094,
+      "weight": 968.2931705052094,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "CNF",
+      "distance": 1361.2454880223102,
+      "weight": 1361.2454880223102,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "BSB",
+      "distance": 1605.1934960325939,
+      "weight": 1605.1934960325939,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "RIA",
+      "distance": 245.07889503049321,
+      "weight": 245.07889503049321,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "URG",
+      "distance": 566.4196791034547,
+      "weight": 566.4196791034547,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POA",
+      "target": "PDP",
+      "distance": 650.328357313397,
+      "weight": 650.328357313397,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PPB",
+      "target": "VCP",
+      "distance": 453.7150329966058,
+      "weight": 453.7150329966058,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PPB",
+      "target": "CWB",
+      "distance": 446.21850740612587,
+      "weight": 446.21850740612587,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PUJ",
+      "target": "GRU",
+      "distance": 5240.2727379084945,
+      "weight": 5240.2727379084945,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PVH",
+      "target": "BSB",
+      "distance": 1909.5519568590105,
+      "weight": 1909.5519568590105,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "RAO",
+      "target": "VCP",
+      "distance": 217.90127998818318,
+      "weight": 217.90127998818318,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "RBR",
+      "target": "BSB",
+      "distance": 2251.703523147769,
+      "weight": 2251.703523147769,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "GRU",
+      "distance": 2101.652131028294,
+      "weight": 2101.652131028294,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "REC",
+      "target": "CGH",
+      "distance": 2129.4046491313366,
+      "weight": 2129.4046491313366,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "REC",
+      "target": "VCP",
+      "distance": 2106.7851806346257,
+      "weight": 2106.7851806346257,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "CPV",
+      "distance": 143.36628719319498,
+      "weight": 143.36628719319498,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "FEN",
+      "distance": 549.4895210508827,
+      "weight": 549.4895210508827,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "JPA",
+      "distance": 108.65183504124543,
+      "weight": 108.65183504124543,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "MCZ",
+      "distance": 181.88418146809425,
+      "weight": 181.88418146809425,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "NAT",
+      "distance": 248.26253326191548,
+      "weight": 248.26253326191548,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "REC",
+      "target": "CNF",
+      "distance": 1608.3975778828926,
+      "weight": 1608.3975778828926,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "REC",
+      "target": "BSB",
+      "distance": 1653.4602393032044,
+      "weight": 1653.4602393032044,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "REC",
+      "target": "CAU",
+      "distance": 110.26549209211045,
+      "weight": 110.26549209211045,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "REC",
+      "target": "JPO",
+      "distance": 283.8056379951267,
+      "weight": 283.8056379951267,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "REC",
+      "target": "QGP",
+      "distance": 187.6705705188688,
+      "weight": 187.6705705188688,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ROS",
+      "target": "GRU",
+      "distance": 1751.861116257418,
+      "weight": 1751.861116257418,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ROS",
+      "target": "CGH",
+      "distance": 1724.4166015263777,
+      "weight": 1724.4166015263777,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ROS",
+      "target": "POA",
+      "distance": 968.2931705052094,
+      "weight": 968.2931705052094,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SDU",
+      "target": "GRU",
+      "distance": 344.1111319603831,
+      "weight": 344.1111319603831,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SDU",
+      "target": "CGH",
+      "distance": 365.822014629829,
+      "weight": 365.822014629829,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SDU",
+      "target": "VCP",
+      "distance": 407.3870134063981,
+      "weight": 407.3870134063981,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SDU",
+      "target": "CNF",
+      "distance": 373.79358279123466,
+      "weight": 373.79358279123466,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SDU",
+      "target": "BSB",
+      "distance": 927.4076165753959,
+      "weight": 927.4076165753959,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SJK",
+      "target": "GRU",
+      "distance": 46.76791084801071,
+      "weight": 46.76791084801071,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SJP",
+      "target": "VCP",
+      "distance": 337.4876408494068,
+      "weight": 337.4876408494068,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SLZ",
+      "target": "FOR",
+      "distance": 646.3531936043502,
+      "weight": 646.3531936043502,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SSA",
+      "target": "GRU",
+      "distance": 1451.8771488328223,
+      "weight": 1451.8771488328223,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "CGH",
+      "distance": 1479.6280618791327,
+      "weight": 1479.6280618791327,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "VCP",
+      "distance": 1457.6501610508094,
+      "weight": 1457.6501610508094,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SSA",
+      "target": "AJU",
+      "distance": 254.41189841244145,
+      "weight": 254.41189841244145,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SSA",
+      "target": "BPS",
+      "distance": 400.46337781433544,
+      "weight": 400.46337781433544,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SSA",
+      "target": "IOS",
+      "distance": 224.49783670267232,
+      "weight": 224.49783670267232,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SSA",
+      "target": "PNZ",
+      "distance": 456.3768028877942,
+      "weight": 456.3768028877942,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "SSA",
+      "target": "CNF",
+      "distance": 959.0514834038477,
+      "weight": 959.0514834038477,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "BSB",
+      "distance": 1082.5331360932855,
+      "weight": 1082.5331360932855,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "GNM",
+      "distance": 504.9349559579004,
+      "weight": 504.9349559579004,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "LEC",
+      "distance": 323.1577407182461,
+      "weight": 323.1577407182461,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "UNA",
+      "distance": 280.80283553258255,
+      "weight": 280.80283553258255,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SSA",
+      "target": "VDC",
+      "distance": 348.75333615856925,
+      "weight": 348.75333615856925,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "STM",
+      "target": "BSB",
+      "distance": 1674.712485011839,
+      "weight": 1674.712485011839,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "THE",
+      "target": "FOR",
+      "distance": 495.68520771585435,
+      "weight": 495.68520771585435,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "GRU",
+      "distance": 82.82763089512477,
+      "weight": 82.82763089512477,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "CGH",
+      "distance": 84.80069284262325,
+      "weight": 84.80069284262325,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "GIG",
+      "distance": 398.3154301604609,
+      "weight": 398.3154301604609,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "SDU",
+      "distance": 407.3870134063981,
+      "weight": 407.3870134063981,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "BSB",
+      "distance": 797.3884994305104,
+      "weight": 797.3884994305104,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "CNF",
+      "distance": 498.6514813839962,
+      "weight": 498.6514813839962,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "SSA",
+      "distance": 1457.6501610508094,
+      "weight": 1457.6501610508094,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "FOR",
+      "distance": 2329.5456802089134,
+      "weight": 2329.5456802089134,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "REC",
+      "distance": 2106.7851806346257,
+      "weight": 2106.7851806346257,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "POA",
+      "distance": 874.1297673498796,
+      "weight": 874.1297673498796,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "ARU",
+      "distance": 396.81485760655767,
+      "weight": 396.81485760655767,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "BYO",
+      "distance": 978.4715967206121,
+      "weight": 978.4715967206121,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "CGR",
+      "distance": 828.0854682408353,
+      "weight": 828.0854682408353,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "LDB",
+      "distance": 410.0471434303355,
+      "weight": 410.0471434303355,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "MGF",
+      "distance": 491.4973044335159,
+      "weight": 491.4973044335159,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "PPB",
+      "distance": 453.7150329966058,
+      "weight": 453.7150329966058,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "RAO",
+      "distance": 217.90127998818318,
+      "weight": 217.90127998818318,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "SJP",
+      "distance": 337.4876408494068,
+      "weight": 337.4876408494068,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "VCP",
+      "target": "CWB",
+      "distance": 348.46860946896874,
+      "weight": 348.46860946896874,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "AQA",
+      "distance": 166.96841829736968,
+      "weight": 166.96841829736968,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "BAT",
+      "distance": 309.38921242147507,
+      "weight": 309.38921242147507,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "FRC",
+      "distance": 274.5867357955204,
+      "weight": 274.5867357955204,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "JTC",
+      "distance": 219.79592282070124,
+      "weight": 219.79592282070124,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "MII",
+      "distance": 300.2404504957646,
+      "weight": 300.2404504957646,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "UBA",
+      "distance": 368.93431751548064,
+      "weight": 368.93431751548064,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "ASU",
+      "distance": 1081.252805611745,
+      "weight": 1081.252805611745,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "BRC",
+      "distance": 3012.4554145893917,
+      "weight": 3012.4554145893917,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "CUR",
+      "distance": 4578.147841509522,
+      "weight": 4578.147841509522,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "FLL",
+      "distance": 6511.831655276372,
+      "weight": 6511.831655276372,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "JMA",
+      "distance": 7823.632353726967,
+      "weight": 7823.632353726967,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "LHN",
+      "distance": 18833.341589132553,
+      "weight": 18833.341589132553,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "LIS",
+      "distance": 7928.53921648571,
+      "weight": 7928.53921648571,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "MAD",
+      "distance": 8375.459126141614,
+      "weight": 8375.459126141614,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "MCO",
+      "distance": 6789.623382065885,
+      "weight": 6789.623382065885,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "MVD",
+      "distance": 1571.723015721103,
+      "weight": 1571.723015721103,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "ORY",
+      "distance": 9367.132321798914,
+      "weight": 9367.132321798914,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "PDP",
+      "distance": 1523.7271507976204,
+      "weight": 1523.7271507976204,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "SET",
+      "distance": 5992.094107737703,
+      "weight": 5992.094107737703,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VCP",
+      "target": "SMT",
+      "distance": 18795.035300619216,
+      "weight": 18795.035300619216,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VVI",
+      "target": "GRU",
+      "distance": 1847.8414752642116,
+      "weight": 1847.8414752642116,
+      "airlines": [
+        "Gol"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "XAP",
+      "target": "POA",
+      "distance": 353.3478259767201,
+      "weight": 353.3478259767201,
+      "airlines": [
+        "Gol",
+        "Azul"
+      ],
+      "codeshare": true
+    },
+    {
+      "source": "AAX",
+      "target": "CNF",
+      "distance": 313.51853402028354,
+      "weight": 313.51853402028354,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AFL",
+      "target": "BSB",
+      "distance": 1110.8925052515272,
+      "weight": 1110.8925052515272,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AIR",
+      "target": "BSB",
+      "distance": 1390.3515445281262,
+      "weight": 1390.3515445281262,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "AQA",
+      "target": "VCP",
+      "distance": 166.96841829736968,
+      "weight": 166.96841829736968,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ATM",
+      "target": "BSB",
+      "distance": 1485.6786622302093,
+      "weight": 1485.6786622302093,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BAT",
+      "target": "VCP",
+      "distance": 309.38921242147507,
+      "weight": 309.38921242147507,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BPG",
+      "target": "BSB",
+      "distance": 478.99043291590624,
+      "weight": 478.99043291590624,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BRA",
+      "target": "BSB",
+      "distance": 525.1914983887268,
+      "weight": 525.1914983887268,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BVH",
+      "target": "BSB",
+      "distance": 1359.611591136209,
+      "weight": 1359.611591136209,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "BVS",
+      "target": "FOR",
+      "distance": 1343.1395786320716,
+      "weight": 1343.1395786320716,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CAU",
+      "target": "REC",
+      "distance": 110.26549209211045,
+      "weight": 110.26549209211045,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CIZ",
+      "target": "BSB",
+      "distance": 2117.964807412966,
+      "weight": 2117.964807412966,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CJZ",
+      "target": "FOR",
+      "distance": 345.21609460181503,
+      "weight": 345.21609460181503,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CMG",
+      "target": "BSB",
+      "distance": 1092.2151798020138,
+      "weight": 1092.2151798020138,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "CUR",
+      "target": "VCP",
+      "distance": 4578.147841509522,
+      "weight": 4578.147841509522,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "DIQ",
+      "target": "CNF",
+      "distance": 112.25345808103157,
+      "weight": 112.25345808103157,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ERN",
+      "target": "BSB",
+      "distance": 2606.2455790047666,
+      "weight": 2606.2455790047666,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FLL",
+      "target": "VCP",
+      "distance": 6511.831655276372,
+      "weight": 6511.831655276372,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FLL",
+      "target": "CNF",
+      "distance": 6409.679471284479,
+      "weight": 6409.679471284479,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "FRC",
+      "target": "VCP",
+      "distance": 274.5867357955204,
+      "weight": 274.5867357955204,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GGJ",
+      "target": "CWB",
+      "distance": 531.2046389152687,
+      "weight": 531.2046389152687,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GNM",
+      "target": "SSA",
+      "distance": 504.9349559579004,
+      "weight": 504.9349559579004,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GPB",
+      "target": "CWB",
+      "distance": 234.36157475204394,
+      "weight": 234.36157475204394,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "GVR",
+      "target": "CNF",
+      "distance": 230.70578323701625,
+      "weight": 230.70578323701625,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "IAL",
+      "target": "CNF",
+      "distance": 418.78075747911157,
+      "weight": 418.78075747911157,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "IMP",
+      "target": "FOR",
+      "distance": 1007.227182308831,
+      "weight": 1007.227182308831,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "IPN",
+      "target": "CNF",
+      "distance": 151.08345973139765,
+      "weight": 151.08345973139765,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "IRZ",
+      "target": "BSB",
+      "distance": 2545.5742881289575,
+      "weight": 2545.5742881289575,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ITB",
+      "target": "BSB",
+      "distance": 1561.5199001904127,
+      "weight": 1561.5199001904127,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JAW",
+      "target": "FOR",
+      "distance": 477.41426462080386,
+      "weight": 477.41426462080386,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JMA",
+      "target": "VCP",
+      "distance": 7823.632353726967,
+      "weight": 7823.632353726967,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JPE",
+      "target": "FOR",
+      "distance": 977.7222113319722,
+      "weight": 977.7222113319722,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JPO",
+      "target": "REC",
+      "distance": 283.8056379951267,
+      "weight": 283.8056379951267,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JPR",
+      "target": "BSB",
+      "distance": 1606.0811201432907,
+      "weight": 1606.0811201432907,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "JTC",
+      "target": "VCP",
+      "distance": 219.79592282070124,
+      "weight": 219.79592282070124,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "LBR",
+      "target": "BSB",
+      "distance": 2077.4390339958436,
+      "weight": 2077.4390339958436,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "LEC",
+      "target": "SSA",
+      "distance": 323.1577407182461,
+      "weight": 323.1577407182461,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "LHN",
+      "target": "VCP",
+      "distance": 18833.341589132553,
+      "weight": 18833.341589132553,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "LIS",
+      "target": "VCP",
+      "distance": 7928.53921648571,
+      "weight": 7928.53921648571,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "LIS",
+      "target": "CNF",
+      "distance": 7439.966300895033,
+      "weight": 7439.966300895033,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MAD",
+      "target": "VCP",
+      "distance": 8375.459126141614,
+      "weight": 8375.459126141614,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MAD",
+      "target": "CNF",
+      "distance": 7883.113020192387,
+      "weight": 7883.113020192387,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MBZ",
+      "target": "BSB",
+      "distance": 1756.3690408710213,
+      "weight": 1756.3690408710213,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MEU",
+      "target": "FOR",
+      "distance": 1594.7565640209334,
+      "weight": 1594.7565640209334,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MII",
+      "target": "VCP",
+      "distance": 300.2404504957646,
+      "weight": 300.2404504957646,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "MNX",
+      "target": "BSB",
+      "distance": 1837.373348787845,
+      "weight": 1837.373348787845,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "OAL",
+      "target": "BSB",
+      "distance": 1546.5771225045619,
+      "weight": 1546.5771225045619,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "OIA",
+      "target": "BSB",
+      "distance": 1068.7561214689993,
+      "weight": 1068.7561214689993,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "OPP",
+      "target": "FOR",
+      "distance": 1035.6584604019276,
+      "weight": 1035.6584604019276,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ORY",
+      "target": "VCP",
+      "distance": 9367.132321798914,
+      "weight": 9367.132321798914,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ORY",
+      "target": "CNF",
+      "distance": 8878.705860224578,
+      "weight": 8878.705860224578,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PDP",
+      "target": "VCP",
+      "distance": 1523.7271507976204,
+      "weight": 1523.7271507976204,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PDP",
+      "target": "POA",
+      "distance": 650.328357313397,
+      "weight": 650.328357313397,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PIN",
+      "target": "BSB",
+      "distance": 1759.5147064941286,
+      "weight": 1759.5147064941286,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PMG",
+      "target": "CWB",
+      "distance": 740.6531313344576,
+      "weight": 740.6531313344576,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "POJ",
+      "target": "CNF",
+      "distance": 285.7743420170145,
+      "weight": 285.7743420170145,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PTO",
+      "target": "CWB",
+      "distance": 360.0657833499208,
+      "weight": 360.0657833499208,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PTQ",
+      "target": "FOR",
+      "distance": 1537.857647131344,
+      "weight": 1537.857647131344,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "PYT",
+      "target": "BSB",
+      "distance": 187.7806874299226,
+      "weight": 187.7806874299226,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "QGP",
+      "target": "REC",
+      "distance": 187.6705705188688,
+      "weight": 187.6705705188688,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "RBB",
+      "target": "BSB",
+      "distance": 1804.816725388298,
+      "weight": 1804.816725388298,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "RIA",
+      "target": "POA",
+      "distance": 245.07889503049321,
+      "weight": 245.07889503049321,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "ROO",
+      "target": "BSB",
+      "distance": 729.4462528390588,
+      "weight": 729.4462528390588,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "RRJ",
+      "target": "GIG",
+      "distance": 22.651279767258245,
+      "weight": 22.651279767258245,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SET",
+      "target": "VCP",
+      "distance": 5992.094107737703,
+      "weight": 5992.094107737703,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SJL",
+      "target": "BSB",
+      "distance": 2727.176394108282,
+      "weight": 2727.176394108282,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "SMT",
+      "target": "VCP",
+      "distance": 18795.035300619216,
+      "weight": 18795.035300619216,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "TBT",
+      "target": "BSB",
+      "distance": 2732.034462127961,
+      "weight": 2732.034462127961,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "TEC",
+      "target": "CWB",
+      "distance": 200.91196910185215,
+      "weight": 200.91196910185215,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "TFF",
+      "target": "BSB",
+      "distance": 2304.4743311095503,
+      "weight": 2304.4743311095503,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "TFL",
+      "target": "CNF",
+      "distance": 326.9145725476033,
+      "weight": 326.9145725476033,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "TMT",
+      "target": "BSB",
+      "distance": 1764.7570915326805,
+      "weight": 1764.7570915326805,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "TUR",
+      "target": "FOR",
+      "distance": 1241.9217568274616,
+      "weight": 1241.9217568274616,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "UBA",
+      "target": "VCP",
+      "distance": 368.93431751548064,
+      "weight": 368.93431751548064,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "UDI",
+      "target": "BSB",
+      "distance": 338.45083276367313,
+      "weight": 338.45083276367313,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "UMU",
+      "target": "CWB",
+      "distance": 460.3011812385877,
+      "weight": 460.3011812385877,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "UNA",
+      "target": "SSA",
+      "distance": 280.80283553258255,
+      "weight": 280.80283553258255,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "URG",
+      "target": "POA",
+      "distance": 566.4196791034547,
+      "weight": 566.4196791034547,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "UVI",
+      "target": "CWB",
+      "distance": 204.66407856694167,
+      "weight": 204.66407856694167,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VAG",
+      "target": "GRU",
+      "distance": 235.9103871788479,
+      "weight": 235.9103871788479,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VDC",
+      "target": "SSA",
+      "distance": 348.75333615856925,
+      "weight": 348.75333615856925,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    },
+    {
+      "source": "VIX",
+      "target": "CNF",
+      "distance": 391.5478778324894,
+      "weight": 391.5478778324894,
+      "airlines": [
+        "Azul"
+      ],
+      "codeshare": false
+    }
+  ]
+}

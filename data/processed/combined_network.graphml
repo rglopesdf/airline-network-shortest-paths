@@ -1,0 +1,4400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d14" for="edge" attr.name="codeshare" attr.type="boolean"/>
+<key id="d13" for="edge" attr.name="airlines_str" attr.type="string"/>
+<key id="d12" for="edge" attr.name="distance_km" attr.type="double"/>
+<key id="d11" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d10" for="node" attr.name="icao" attr.type="double"/>
+<key id="d9" for="node" attr.name="city" attr.type="double"/>
+<key id="d8" for="node" attr.name="azul_hub" attr.type="boolean"/>
+<key id="d7" for="node" attr.name="gol_hub" attr.type="boolean"/>
+<key id="d6" for="node" attr.name="operator" attr.type="string"/>
+<key id="d5" for="node" attr.name="icao" attr.type="string"/>
+<key id="d4" for="node" attr.name="longitude" attr.type="double"/>
+<key id="d3" for="node" attr.name="latitude" attr.type="double"/>
+<key id="d2" for="node" attr.name="country" attr.type="string"/>
+<key id="d1" for="node" attr.name="city" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="AEP">
+  <data key="d0">Jorge Newbery Airport</data>
+  <data key="d1">Colegiales</data>
+  <data key="d2">AR</data>
+  <data key="d3">-34.55622</data>
+  <data key="d4">-58.41667</data>
+  <data key="d5">SABE</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="AJU">
+  <data key="d0">Aracaju Airport</data>
+  <data key="d1">Aracaju</data>
+  <data key="d2">BR</data>
+  <data key="d3">-10.98281225</data>
+  <data key="d4">-37.07602527743482</data>
+  <data key="d5">SBAR</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ARU">
+  <data key="d0">Aracatuba Airport</data>
+  <data key="d1">Aracatuba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-21.140815</data>
+  <data key="d4">-50.425139094792286</data>
+  <data key="d5">SBAU</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ASU">
+  <data key="d0">Silvio Pettirossi International Airport</data>
+  <data key="d1">Limpio</data>
+  <data key="d2">PY</data>
+  <data key="d3">-25.2355931</data>
+  <data key="d4">-57.51563884189728</data>
+  <data key="d5">SGAS</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="AUA">
+  <data key="d0">Reina Beatrix International Airport</data>
+  <data key="d1">Oranjestad</data>
+  <data key="d2">AW</data>
+  <data key="d3">12.502222</data>
+  <data key="d4">-70.013885</data>
+  <data key="d5">TNCA</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BEL">
+  <data key="d0">Val De Cans International Airport</data>
+  <data key="d1">Belem</data>
+  <data key="d2">BR</data>
+  <data key="d3">-1.3798578</data>
+  <data key="d4">-48.47964610194296</data>
+  <data key="d5">SBBE</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BOG">
+  <data key="d0">El Dorado International Airport</data>
+  <data key="d1">Funza</data>
+  <data key="d2">CO</data>
+  <data key="d3">4.7028947500000005</data>
+  <data key="d4">-74.1487499180044</data>
+  <data key="d5">SKBO</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BPS">
+  <data key="d0">Porto Seguro Airport</data>
+  <data key="d1">Porto Seguro</data>
+  <data key="d2">BR</data>
+  <data key="d3">-16.4389835</data>
+  <data key="d4">-39.08336724314525</data>
+  <data key="d5">SBPS</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BRC">
+  <data key="d0">San Carlos de Bariloche International Airport</data>
+  <data key="d1">San Carlos de Bariloche</data>
+  <data key="d2">AR</data>
+  <data key="d3">-41.145966</data>
+  <data key="d4">-71.16109</data>
+  <data key="d5">SAZS</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BSB">
+  <data key="d0">Brasilia International Airport</data>
+  <data key="d1">Brasilia</data>
+  <data key="d2">BR</data>
+  <data key="d3">-15.87174755</data>
+  <data key="d4">-47.91172169662855</data>
+  <data key="d5">SBBR</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="BVB">
+  <data key="d0">Boa Vista Airport</data>
+  <data key="d1">Boa Vista</data>
+  <data key="d2">BR</data>
+  <data key="d3">2.833333</data>
+  <data key="d4">-60.666668</data>
+  <data key="d5">SBBV</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BYO">
+  <data key="d0">Bonito Airport</data>
+  <data key="d1">Bonito</data>
+  <data key="d2">BR</data>
+  <data key="d3">-21.24942965</data>
+  <data key="d4">-56.45190863172819</data>
+  <data key="d5">SBDB</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CAC">
+  <data key="d0">Cascavel Airport</data>
+  <data key="d1">Cascavel</data>
+  <data key="d2">BR</data>
+  <data key="d3">-24.95</data>
+  <data key="d4">-53.466667</data>
+  <data key="d5">SBCA</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CGB">
+  <data key="d0">Marechal Rondon International Airport</data>
+  <data key="d1">Varzea Grande</data>
+  <data key="d2">BR</data>
+  <data key="d3">-15.651725</data>
+  <data key="d4">-56.120266</data>
+  <data key="d5">SBCY</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CGH">
+  <data key="d0">Sao Paulo/Congonhas Airport</data>
+  <data key="d1">Diadema</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.626902</data>
+  <data key="d4">-46.659557</data>
+  <data key="d5">SBSP</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="CGR">
+  <data key="d0">Campo Grande International Airport</data>
+  <data key="d1">Campo Grande</data>
+  <data key="d2">BR</data>
+  <data key="d3">-20.47157685</data>
+  <data key="d4">-54.68224625125994</data>
+  <data key="d5">SBCG</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CKS">
+  <data key="d0">Carajas Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-6.11655575</data>
+  <data key="d4">-49.99774268663904</data>
+  <data key="d5">SBCJ</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CLV">
+  <data key="d0">Caldas Novas</data>
+  <data key="d1">Caldas Novas</data>
+  <data key="d2">BR</data>
+  <data key="d3">-17.7247899</data>
+  <data key="d4">-48.6081742294032</data>
+  <data key="d5">SBCN</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CNF">
+  <data key="d0">Tancredo Neves International Airport</data>
+  <data key="d1">Lagoa Santa</data>
+  <data key="d2">BR</data>
+  <data key="d3">-19.63339785</data>
+  <data key="d4">-43.96836942393943</data>
+  <data key="d5">SBCF</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="COR">
+  <data key="d0">Ingeniero Aeronautico Ambrosio L.V. Taravella International Airport</data>
+  <data key="d1">Villa Allende</data>
+  <data key="d2">AR</data>
+  <data key="d3">-31.31548</data>
+  <data key="d4">-64.21377</data>
+  <data key="d5">SACO</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CPV">
+  <data key="d0">Joao Suassuna Airport</data>
+  <data key="d1">Campina Grande</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.27016065</data>
+  <data key="d4">-35.89609699581786</data>
+  <data key="d5">SBKG</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CUN">
+  <data key="d0">Cancun International Airport</data>
+  <data key="d1">Alfredo V. Bonfil</data>
+  <data key="d2">MX</data>
+  <data key="d3">21.0407394</data>
+  <data key="d4">-86.8818149087711</data>
+  <data key="d5">MMUN</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CWB">
+  <data key="d0">Afonso Pena International Airport</data>
+  <data key="d1">Sao Jose dos Pinhais</data>
+  <data key="d2">BR</data>
+  <data key="d3">-25.5322</data>
+  <data key="d4">-49.176544</data>
+  <data key="d5">SBCT</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">True</data>
+</node>
+<node id="CXJ">
+  <data key="d0">Hugo Cantergiani Regional Airport</data>
+  <data key="d1">Caxias do Sul</data>
+  <data key="d2">BR</data>
+  <data key="d3">-29.19705975</data>
+  <data key="d4">-51.1861647969846</data>
+  <data key="d5">SBCX</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CZS">
+  <data key="d0">Campo Internacional Airport</data>
+  <data key="d1">Cruzeiro do Sul</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.583333</data>
+  <data key="d4">-72.78333</data>
+  <data key="d5">SBCZ</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="EZE">
+  <data key="d0">Ministro Pistarini Airport</data>
+  <data key="d1">Ezeiza</data>
+  <data key="d2">AR</data>
+  <data key="d3">-34.81681415</data>
+  <data key="d4">-58.54742335052262</data>
+  <data key="d5">SAEZ</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="FEN">
+  <data key="d0">Fernando De Noronha Airport</data>
+  <data key="d1">Fernando de Noronha (Distrito Estadual)</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.8546858</data>
+  <data key="d4">-32.4227495764598</data>
+  <data key="d5">SBFN</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="FLN">
+  <data key="d0">Hercilio Luz International Airport</data>
+  <data key="d1">Carianos</data>
+  <data key="d2">BR</data>
+  <data key="d3">-27.67011345</data>
+  <data key="d4">-48.54468648648172</data>
+  <data key="d5">SBFL</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="FOR">
+  <data key="d0">Pinto Martins Airport</data>
+  <data key="d1">Fortaleza</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.779073</data>
+  <data key="d4">-38.540836</data>
+  <data key="d5">SBFZ</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="GEL">
+  <data key="d0">Sepe Tiaraju</data>
+  <data key="d1">Santo Angelo</data>
+  <data key="d2">BR</data>
+  <data key="d3">-28.28341965</data>
+  <data key="d4">-54.16561195879408</data>
+  <data key="d5">SBNM</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="GIG">
+  <data key="d0">Galeao Antonio Carlos Jobim International Airport</data>
+  <data key="d1">Duque de Caxias</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.81122025</data>
+  <data key="d4">-43.258620204081936</data>
+  <data key="d5">SBGL</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="GRU">
+  <data key="d0">Sao Paulo-Guarulhos International Airport</data>
+  <data key="d1">Guarulhos</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.43779495</data>
+  <data key="d4">-46.4813205288006</data>
+  <data key="d5">SBGR</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="GYN">
+  <data key="d0">Santa Genoveva Airport</data>
+  <data key="d1">Goiania</data>
+  <data key="d2">BR</data>
+  <data key="d3">-16.632631</data>
+  <data key="d4">-49.226624</data>
+  <data key="d5">SBGO</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IGU">
+  <data key="d0">Cataratas International Airport</data>
+  <data key="d1">Puerto Iguazu</data>
+  <data key="d2">BR</data>
+  <data key="d3">-25.5930616</data>
+  <data key="d4">-54.49060873125</data>
+  <data key="d5">SBFI</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IOS">
+  <data key="d0">Ilheus/Bahia-Jorge Amado Airport</data>
+  <data key="d1">Ilheus</data>
+  <data key="d2">BR</data>
+  <data key="d3">-14.813889</data>
+  <data key="d4">-39.03</data>
+  <data key="d5">SBIL</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IZA">
+  <data key="d0">Zona da Mata Regional Airport</data>
+  <data key="d1">Rio Novo</data>
+  <data key="d2">BR</data>
+  <data key="d3">-21.513056</data>
+  <data key="d4">-43.173058</data>
+  <data key="d5">SBZM</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JDO">
+  <data key="d0">Orlando Bezerra de Menezes Airport</data>
+  <data key="d1">Juazeiro do Norte</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.2</data>
+  <data key="d4">-39.316666</data>
+  <data key="d5">SBJU</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JJD">
+  <data key="d0">Jericoacoara</data>
+  <data key="d1">Cruz</data>
+  <data key="d2">BR</data>
+  <data key="d3">-2.9061463</data>
+  <data key="d4">-40.35715399349103</data>
+  <data key="d5">SBJE</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JOI">
+  <data key="d0">Joinville-Lauro Carneiro de Loyola Airport</data>
+  <data key="d1">Joinville</data>
+  <data key="d2">BR</data>
+  <data key="d3">-26.2249688</data>
+  <data key="d4">-48.79862231685878</data>
+  <data key="d5">SBJV</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JPA">
+  <data key="d0">Presidente Castro Pinto International Airport</data>
+  <data key="d1">Bayeux</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.148930699999999</data>
+  <data key="d4">-34.95030583440195</data>
+  <data key="d5">SBJP</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="LDB">
+  <data key="d0">Londrina Airport</data>
+  <data key="d1">Londrina</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.328457</data>
+  <data key="d4">-51.137714</data>
+  <data key="d5">SBLO</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MAB">
+  <data key="d0">Maraba Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-5.366667</data>
+  <data key="d4">-49.166668</data>
+  <data key="d5">SBMA</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MAO">
+  <data key="d0">Eduardo Gomes International Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.03553825</data>
+  <data key="d4">-60.04575303314657</data>
+  <data key="d5">SBEG</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MCO">
+  <data key="d0">Orlando International Airport</data>
+  <data key="d1">Taft</data>
+  <data key="d2">US</data>
+  <data key="d3">28.412903550000003</data>
+  <data key="d4">-81.30944309752753</data>
+  <data key="d5">KMCO</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MCP">
+  <data key="d0">Macapa International Airport</data>
+  <data key="d1">Macapa</data>
+  <data key="d2">BR</data>
+  <data key="d3">0.0505785</data>
+  <data key="d4">-51.07059996039651</data>
+  <data key="d5">SBMQ</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MCZ">
+  <data key="d0">Maceio-Zumbi dos Palmares International Airport</data>
+  <data key="d1">Satuba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-9.512521</data>
+  <data key="d4">-35.800446</data>
+  <data key="d5">SBMO</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MDZ">
+  <data key="d0">El Plumerillo International Airport</data>
+  <data key="d1">Las Heras</data>
+  <data key="d2">AR</data>
+  <data key="d3">-32.8315886</data>
+  <data key="d4">-68.79757765477916</data>
+  <data key="d5">SAME</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MGF">
+  <data key="d0">Regional De Maringa</data>
+  <data key="d1">Maringa</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.383612</data>
+  <data key="d4">-51.933334</data>
+  <data key="d5">SBMG</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MIA">
+  <data key="d0">Miami International Airport</data>
+  <data key="d1">Virginia Gardens</data>
+  <data key="d2">US</data>
+  <data key="d3">25.7949789</data>
+  <data key="d4">-80.28672341095405</data>
+  <data key="d5">KMIA</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MOC">
+  <data key="d0">Montes Claros Airport</data>
+  <data key="d1">Montes Claros</data>
+  <data key="d2">BR</data>
+  <data key="d3">-16.70518095</data>
+  <data key="d4">-43.82008294490494</data>
+  <data key="d5">SBMK</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MVD">
+  <data key="d0">Carrasco International Airport</data>
+  <data key="d1">Paso de Carrasco</data>
+  <data key="d2">UY</data>
+  <data key="d3">-34.830431950000005</data>
+  <data key="d4">-56.02201434471925</data>
+  <data key="d5">SUMU</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="NAT">
+  <data key="d0">Sao Goncalo do Amarante-Governador Aluizio Alves Intl Airport</data>
+  <data key="d1">Parnamirim</data>
+  <data key="d2">BR</data>
+  <data key="d3">-5.916787</data>
+  <data key="d4">-35.250244</data>
+  <data key="d5">SBSG</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="NVT">
+  <data key="d0">Navegantes Airport</data>
+  <data key="d1">Navegantes</data>
+  <data key="d2">BR</data>
+  <data key="d3">-26.87842885</data>
+  <data key="d4">-48.64935416493447</data>
+  <data key="d5">SBNF</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="OPS">
+  <data key="d0">Sinop Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-11.88507355</data>
+  <data key="d4">-55.58558108491808</data>
+  <data key="d5">SBSI</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PET">
+  <data key="d0">Federal Airport</data>
+  <data key="d1">Pelotas</data>
+  <data key="d2">BR</data>
+  <data key="d3">-31.718056</data>
+  <data key="d4">-52.324444</data>
+  <data key="d5">SBPK</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PFB">
+  <data key="d0">Passo Fundo Airport</data>
+  <data key="d1">Passo Fundo</data>
+  <data key="d2">BR</data>
+  <data key="d3">-28.2435244</data>
+  <data key="d4">-52.32669864043906</data>
+  <data key="d5">SBPF</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PMW">
+  <data key="d0">Palmas Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-10.241667</data>
+  <data key="d4">-48.35278</data>
+  <data key="d5">SBPJ</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PNZ">
+  <data key="d0">Petrolina International Airport</data>
+  <data key="d1">Petrolina</data>
+  <data key="d2">BR</data>
+  <data key="d3">-9.393333</data>
+  <data key="d4">-40.490555</data>
+  <data key="d5">SBPL</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="POA">
+  <data key="d0">Salgado Filho International Airport</data>
+  <data key="d1">Porto Alegre</data>
+  <data key="d2">BR</data>
+  <data key="d3">-29.99526845</data>
+  <data key="d4">-51.16747969953305</data>
+  <data key="d5">SBPA</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="PPB">
+  <data key="d0">A. De Barros Airport</data>
+  <data key="d1">Alvares Machado</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.1</data>
+  <data key="d4">-51.45</data>
+  <data key="d5">SBDN</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PUJ">
+  <data key="d0">Punta Cana International Airport</data>
+  <data key="d1">Punta Cana</data>
+  <data key="d2">DO</data>
+  <data key="d3">18.5697918</data>
+  <data key="d4">-68.36662616922789</data>
+  <data key="d5">MDPC</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PVH">
+  <data key="d0">Porto Velho International Airport</data>
+  <data key="d1">Porto Velho</data>
+  <data key="d2">BR</data>
+  <data key="d3">-8.70990265</data>
+  <data key="d4">-63.900493918125576</data>
+  <data key="d5">SBPV</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="RAO">
+  <data key="d0">Dr. Leite Lopes State Airport</data>
+  <data key="d1">Ribeirao Preto</data>
+  <data key="d2">BR</data>
+  <data key="d3">-21.135834</data>
+  <data key="d4">-47.773335</data>
+  <data key="d5">SBRP</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="RBR">
+  <data key="d0">Pres. Medici Airport</data>
+  <data key="d1">Rio Branco</data>
+  <data key="d2">BR</data>
+  <data key="d3">-9.966667</data>
+  <data key="d4">-67.8</data>
+  <data key="d5">SBRB</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="REC">
+  <data key="d0">Guararapes-Gilberto Freyre International Airport</data>
+  <data key="d1">Recife</data>
+  <data key="d2">BR</data>
+  <data key="d3">-8.1256775</data>
+  <data key="d4">-34.92271835508188</data>
+  <data key="d5">SBRF</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="ROS">
+  <data key="d0">Fisherton Airport</data>
+  <data key="d1">Funes</data>
+  <data key="d2">AR</data>
+  <data key="d3">-32.933334</data>
+  <data key="d4">-60.783333</data>
+  <data key="d5">SAAR</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SDU">
+  <data key="d0">Santos Dumont Airport</data>
+  <data key="d1">Rio de Janeiro</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.91044395</data>
+  <data key="d4">-43.16418613781168</data>
+  <data key="d5">SBRJ</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="SJK">
+  <data key="d0">Sao Jose Dos Campos</data>
+  <data key="d1">Santa Isabel</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.183332</data>
+  <data key="d4">-46.11667</data>
+  <data key="d5">SBSJ</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SJP">
+  <data key="d0">Sao Jose do Rio Preto Airport</data>
+  <data key="d1">Sao Jose do Rio Preto</data>
+  <data key="d2">BR</data>
+  <data key="d3">-20.81731545</data>
+  <data key="d4">-49.40846770047455</data>
+  <data key="d5">SBSR</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SLZ">
+  <data key="d0">Marechal Cunha Machado International Airport</data>
+  <data key="d1">Sao Luis</data>
+  <data key="d2">BR</data>
+  <data key="d3">-2.58899115</data>
+  <data key="d4">-44.23940764493366</data>
+  <data key="d5">SBSL</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SSA">
+  <data key="d0">Deputado Luis Eduardo Magalhaes International Airport</data>
+  <data key="d1">Lauro de Freitas</data>
+  <data key="d2">BR</data>
+  <data key="d3">-12.91102045</data>
+  <data key="d4">-38.33497451468749</data>
+  <data key="d5">SBSV</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="STM">
+  <data key="d0">Santarem-Maestro Wilson Fonseca Airport</data>
+  <data key="d1">Santarem</data>
+  <data key="d2">BR</data>
+  <data key="d3">-2.42713895</data>
+  <data key="d4">-54.80445559036728</data>
+  <data key="d5">SBSN</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="THE">
+  <data key="d0">Teresina Airport</data>
+  <data key="d1">Teresina</data>
+  <data key="d2">BR</data>
+  <data key="d3">-5.0598744</data>
+  <data key="d4">-42.82351020263352</data>
+  <data key="d5">SBTE</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="VCP">
+  <data key="d0">Viracopos Airport</data>
+  <data key="d1">Indaiatuba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.00605625</data>
+  <data key="d4">-47.1418432690333</data>
+  <data key="d5">SBKP</data>
+  <data key="d6">Both</data>
+  <data key="d7">True</data>
+  <data key="d8">True</data>
+</node>
+<node id="VVI">
+  <data key="d0">Viru Viru International Airport</data>
+  <data key="d1">La Belgica</data>
+  <data key="d2">BO</data>
+  <data key="d3">-17.6594809</data>
+  <data key="d4">-63.13846624460784</data>
+  <data key="d5">SLVR</data>
+  <data key="d6">Gol</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="XAP">
+  <data key="d0">Chapeco Airport</data>
+  <data key="d1">Chapeco</data>
+  <data key="d2">BR</data>
+  <data key="d3">-27.088612</data>
+  <data key="d4">-52.629723</data>
+  <data key="d5">SBCH</data>
+  <data key="d6">Both</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="AAX">
+  <data key="d0">Araxa Airport</data>
+  <data key="d1">Araxa</data>
+  <data key="d2">BR</data>
+  <data key="d3">-19.563132000000003</data>
+  <data key="d4">-46.96040575380038</data>
+  <data key="d5">SBAX</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="AFL">
+  <data key="d0">Alta Floresta Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-9.866163</data>
+  <data key="d4">-56.10603812089458</data>
+  <data key="d5">SBAT</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="AIR">
+  <data key="d0">Aripuana</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-10.25</data>
+  <data key="d4">-59.38333</data>
+  <data key="d5">SSOU</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="AQA">
+  <data key="d0">Araraquara</data>
+  <data key="d1">Araraquara</data>
+  <data key="d2">BR</data>
+  <data key="d3">-21.816668</data>
+  <data key="d4">-48.13333</data>
+  <data key="d5">SBAQ</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ATM">
+  <data key="d0">Altamira Airport</data>
+  <data key="d1">Altamira</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.2</data>
+  <data key="d4">-52.216667</data>
+  <data key="d5">SBHT</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BAT">
+  <data key="d0">Airport Chafei Amsei</data>
+  <data key="d1">Barretos</data>
+  <data key="d2">BR</data>
+  <data key="d3">-20.55</data>
+  <data key="d4">-48.55</data>
+  <data key="d5">SNBA</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BPG">
+  <data key="d0">Barra Do Garcas</data>
+  <data key="d1">Barra do Garcas</data>
+  <data key="d2">BR</data>
+  <data key="d3">-15.8606725</data>
+  <data key="d4">-52.39006674230171</data>
+  <data key="d5">SBBW</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BRA">
+  <data key="d0">Barreiras Airport</data>
+  <data key="d1">Barreiras</data>
+  <data key="d2">BR</data>
+  <data key="d3">-12.0794806</data>
+  <data key="d4">-45.00970535335743</data>
+  <data key="d5">SNBR</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BVH">
+  <data key="d0">Vilhena Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-12.6940825</data>
+  <data key="d4">-60.09875397255124</data>
+  <data key="d5">SBVH</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="BVS">
+  <data key="d0">Breves</data>
+  <data key="d1">Breves</data>
+  <data key="d2">BR</data>
+  <data key="d3">-1.6351127</data>
+  <data key="d4">-50.44221729198899</data>
+  <data key="d5">SNVS</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CAU">
+  <data key="d0">Caruaru</data>
+  <data key="d1">Caruaru</data>
+  <data key="d2">BR</data>
+  <data key="d3">-8.25</data>
+  <data key="d4">-35.916668</data>
+  <data key="d5">SNRU</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CIZ">
+  <data key="d0">Coari</data>
+  <data key="d1">Coari</data>
+  <data key="d2">BR</data>
+  <data key="d3">-4.083333</data>
+  <data key="d4">-63.13333</data>
+  <data key="d5">SWKO</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CJZ">
+  <data key="d0">Cajazeiras Airport</data>
+  <data key="d1">Cajazeiras</data>
+  <data key="d2">BR</data>
+  <data key="d3">-6.882778</data>
+  <data key="d4">-38.615833</data>
+  <data key="d5">SJZA</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CMG">
+  <data key="d0">Corumba Internacional Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-19.0125785</data>
+  <data key="d4">-57.66975905679873</data>
+  <data key="d5">SBCR</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="CUR">
+  <data key="d0">Curacao International Airport</data>
+  <data key="d1">Sint Michiel Liber</data>
+  <data key="d2">CW</data>
+  <data key="d3">12.1890286</data>
+  <data key="d4">-68.96216089958281</data>
+  <data key="d5">TNCC</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="DIQ">
+  <data key="d0">Divinopolis</data>
+  <data key="d1">Divinopolis</data>
+  <data key="d2">BR</data>
+  <data key="d3">-20.18147045</data>
+  <data key="d4">-44.87004451735432</data>
+  <data key="d5">SNDV</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ERN">
+  <data key="d0">Eirunepe</data>
+  <data key="d1">Eirunepe</data>
+  <data key="d2">BR</data>
+  <data key="d3">-6.583333</data>
+  <data key="d4">-69.88333</data>
+  <data key="d5">SWEI</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="FLL">
+  <data key="d0">Fort Lauderdale-Hollywood International Airport</data>
+  <data key="d9">nan</data>
+  <data key="d2">US</data>
+  <data key="d3">26.072017</data>
+  <data key="d4">-80.15099673135214</data>
+  <data key="d5">KFLL</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="FRC">
+  <data key="d0">Franca</data>
+  <data key="d1">Franca</data>
+  <data key="d2">BR</data>
+  <data key="d3">-20.551945</data>
+  <data key="d4">-47.4375</data>
+  <data key="d5">SIMK</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="GGJ">
+  <data key="d0">Guaíra Airport</data>
+  <data key="d1">Salto del Guaira</data>
+  <data key="d2">BR</data>
+  <data key="d3">-24.08087945</data>
+  <data key="d4">-54.19114629441818</data>
+  <data key="d5">SSGY</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="GNM">
+  <data key="d0">Guanambi</data>
+  <data key="d1">Guanambi</data>
+  <data key="d2">BR</data>
+  <data key="d3">-14.3</data>
+  <data key="d4">-42.783333</data>
+  <data key="d5">SNGI</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="GPB">
+  <data key="d0">Tancredo Thomaz Faria</data>
+  <data key="d1">Guarapuava</data>
+  <data key="d2">BR</data>
+  <data key="d3">-25.333332</data>
+  <data key="d4">-51.5</data>
+  <data key="d5">SSGG</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="GVR">
+  <data key="d0">Governador Valadares Airport</data>
+  <data key="d1">Governador Valadares</data>
+  <data key="d2">BR</data>
+  <data key="d3">-18.850279</data>
+  <data key="d4">-41.933334</data>
+  <data key="d5">SBGV</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IAL">
+  <data key="d0">Aeroporto Municipal de Salinas</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-16.208333</data>
+  <data key="d4">-42.321944</data>
+  <data key="d10">nan</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IMP">
+  <data key="d0">Imperatriz Airport</data>
+  <data key="d1">Imperatriz</data>
+  <data key="d2">BR</data>
+  <data key="d3">-5.5301267</data>
+  <data key="d4">-47.45800807097166</data>
+  <data key="d5">SBIZ</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IPN">
+  <data key="d0">Usiminas Airport</data>
+  <data key="d1">Ipatinga</data>
+  <data key="d2">BR</data>
+  <data key="d3">-19.5</data>
+  <data key="d4">-42.533333</data>
+  <data key="d5">SBIP</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="IRZ">
+  <data key="d0">Tapuruquara</data>
+  <data key="d1">Santa Isabel do Rio Negro</data>
+  <data key="d2">BR</data>
+  <data key="d3">-0.37810525</data>
+  <data key="d4">-64.99261880076497</data>
+  <data key="d5">SWTP</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ITB">
+  <data key="d0">Itaituba</data>
+  <data key="d1">Itaituba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-4.283333</data>
+  <data key="d4">-55.983334</data>
+  <data key="d5">SBIH</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JAW">
+  <data key="d0">Aeroporto de Araripina</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.586389</data>
+  <data key="d4">-40.535556</data>
+  <data key="d5">SNAB</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JMA">
+  <data key="d0">Marriot Astrodome</data>
+  <data key="d1">Aldine</data>
+  <data key="d2">US</data>
+  <data key="d3">29.983334</data>
+  <data key="d4">-95.34</data>
+  <data key="d10">nan</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JPE">
+  <data key="d0">Nagib Demachki Airport</data>
+  <data key="d1">Paragominas</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.019722</data>
+  <data key="d4">-47.316389</data>
+  <data key="d5">SNEB</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JPO">
+  <data key="d0">Brigadeiro Firmino Ayres Airport</data>
+  <data key="d1">Patos</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.037496939556</data>
+  <data key="d4">-37.25184761766</data>
+  <data key="d5">SNTS</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JPR">
+  <data key="d0">Ji-Parana Airport</data>
+  <data key="d1">Ji Parana</data>
+  <data key="d2">BR</data>
+  <data key="d3">-10.870556</data>
+  <data key="d4">-61.84667</data>
+  <data key="d5">SBJI</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="JTC">
+  <data key="d0">Bauru-Arealva Airport</data>
+  <data key="d1">Bauru</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.15705835</data>
+  <data key="d4">-49.07515943787047</data>
+  <data key="d5">SBAE</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="LBR">
+  <data key="d0">Labrea</data>
+  <data key="d1">Canutama</data>
+  <data key="d2">BR</data>
+  <data key="d3">-7.25</data>
+  <data key="d4">-64.85</data>
+  <data key="d5">SWLB</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="LEC">
+  <data key="d0">Coronel Horacio de Mattos Airport</data>
+  <data key="d1">Vera Cruz</data>
+  <data key="d2">BR</data>
+  <data key="d3">-12.48</data>
+  <data key="d4">-41.281113</data>
+  <data key="d5">SBLE</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="LHN">
+  <data key="d0">Lishan</data>
+  <data key="d1">Hualian</data>
+  <data key="d2">TW</data>
+  <data key="d3">23.433332</data>
+  <data key="d4">121.3</data>
+  <data key="d10">nan</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="LIS">
+  <data key="d0">Lisbon Portela Airport</data>
+  <data key="d1">Moscavide</data>
+  <data key="d2">PT</data>
+  <data key="d3">38.7809542</data>
+  <data key="d4">-9.131900592219496</data>
+  <data key="d5">LPPT</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MAD">
+  <data key="d0">Adolfo Suarez Madrid-Barajas Airport</data>
+  <data key="d1">Barajas de Madrid</data>
+  <data key="d2">ES</data>
+  <data key="d3">40.4948384</data>
+  <data key="d4">-3.574080620681132</data>
+  <data key="d5">LEMD</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MBZ">
+  <data key="d0">Maues</data>
+  <data key="d1">Maues</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.36992465</data>
+  <data key="d4">-57.72495510284816</data>
+  <data key="d5">SWMW</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MEU">
+  <data key="d0">Monte Dourado</data>
+  <data key="d1">Almeirim</data>
+  <data key="d2">BR</data>
+  <data key="d3">-0.8896558000000001</data>
+  <data key="d4">-52.60197779839184</data>
+  <data key="d5">SBMD</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MII">
+  <data key="d0">Dr Gastao Vidigal Airport</data>
+  <data key="d1">Marilia</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.2</data>
+  <data key="d4">-49.933334</data>
+  <data key="d5">SBML</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="MNX">
+  <data key="d0">Manicore</data>
+  <data key="d1">Manicore</data>
+  <data key="d2">BR</data>
+  <data key="d3">-5.81173955</data>
+  <data key="d4">-61.27874196726444</data>
+  <data key="d5">SBMY</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="OAL">
+  <data key="d0">Cacoal Airport</data>
+  <data key="d1">Cacoal</data>
+  <data key="d2">BR</data>
+  <data key="d3">-11.433889</data>
+  <data key="d4">-61.4825</data>
+  <data key="d5">SSKW</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="OIA">
+  <data key="d0">Ourilandia</data>
+  <data key="d9">nan</data>
+  <data key="d2">BR</data>
+  <data key="d3">-6.76392515</data>
+  <data key="d4">-51.047096751155294</data>
+  <data key="d5">SDOW</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="OPP">
+  <data key="d0">Salinópolis Airport</data>
+  <data key="d1">Salinópolis</data>
+  <data key="d2">BR</data>
+  <data key="d3">-0.696944</data>
+  <data key="d4">-47.337778</data>
+  <data key="d5">SNSM</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ORY">
+  <data key="d0">Paris Orly Airport</data>
+  <data key="d1">Paray-Vieille-Poste</data>
+  <data key="d2">FR</data>
+  <data key="d3">48.748477050000005</data>
+  <data key="d4">2.35572229362018</data>
+  <data key="d5">LFPO</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PDP">
+  <data key="d0">Capitan de Corbeta Carlos A. Curbelo International Airport</data>
+  <data key="d1">Maldonado</data>
+  <data key="d2">UY</data>
+  <data key="d3">-34.914444</data>
+  <data key="d4">-54.919167</data>
+  <data key="d5">SULS</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PIN">
+  <data key="d0">Parintins</data>
+  <data key="d1">Parintins</data>
+  <data key="d2">BR</data>
+  <data key="d3">-2.6731800000000003</data>
+  <data key="d4">-56.77727067382461</data>
+  <data key="d5">SWPI</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PMG">
+  <data key="d0">International</data>
+  <data key="d1">Ponta Pora</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.55</data>
+  <data key="d4">-55.7</data>
+  <data key="d5">SBPP</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="POJ">
+  <data key="d0">Patos De Minas</data>
+  <data key="d1">Patos de Minas</data>
+  <data key="d2">BR</data>
+  <data key="d3">-18.67291465</data>
+  <data key="d4">-46.4919252194623</data>
+  <data key="d5">SNPD</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PTO">
+  <data key="d0">Pato Branco</data>
+  <data key="d1">Pato Branco</data>
+  <data key="d2">BR</data>
+  <data key="d3">-26.2169937</data>
+  <data key="d4">-52.694225841764215</data>
+  <data key="d5">SBPO</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PTQ">
+  <data key="d0">Porto de Moz</data>
+  <data key="d1">Porto de Moz</data>
+  <data key="d2">BR</data>
+  <data key="d3">-1.74273455</data>
+  <data key="d4">-52.237087731100814</data>
+  <data key="d5">SNMZ</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="PYT">
+  <data key="d0">Pedro Rabelo de Souza Airport</data>
+  <data key="d1">Paracatu</data>
+  <data key="d2">BR</data>
+  <data key="d3">-17.242778</data>
+  <data key="d4">-46.883056</data>
+  <data key="d5">SNZR</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="QGP">
+  <data key="d0">Garanhuns Airport</data>
+  <data key="d1">Garanhuns</data>
+  <data key="d2">BR</data>
+  <data key="d3">-8.834444</data>
+  <data key="d4">-36.471389</data>
+  <data key="d5">SNGN</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="RBB">
+  <data key="d0">Borba</data>
+  <data key="d1">Borba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-4.40582015</data>
+  <data key="d4">-59.60435028003239</data>
+  <data key="d5">SWBR</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="RIA">
+  <data key="d0">Santa Maria Airport</data>
+  <data key="d1">Santa Maria</data>
+  <data key="d2">BR</data>
+  <data key="d3">-29.710556</data>
+  <data key="d4">-53.6875</data>
+  <data key="d5">SBSM</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="ROO">
+  <data key="d0">Rondonopolis Airport</data>
+  <data key="d1">Rondonopolis</data>
+  <data key="d2">BR</data>
+  <data key="d3">-16.433332</data>
+  <data key="d4">-54.716667</data>
+  <data key="d5">SBRD</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="RRJ">
+  <data key="d0">Jacarepaguá Airport</data>
+  <data key="d1">Rio de Janeiro</data>
+  <data key="d2">BR</data>
+  <data key="d3">-22.98641695</data>
+  <data key="d4">-43.37144946439823</data>
+  <data key="d5">SBJR</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SET">
+  <data key="d0">San Esteban</data>
+  <data key="d1">San Esteban</data>
+  <data key="d2">HN</data>
+  <data key="d3">15.316667</data>
+  <data key="d4">-85.86667</data>
+  <data key="d10">nan</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SJL">
+  <data key="d0">Da Cachoeira</data>
+  <data key="d1">Sao Gabriel da Cachoeira</data>
+  <data key="d2">BR</data>
+  <data key="d3">-0.1483109</data>
+  <data key="d4">-66.98557275279653</data>
+  <data key="d5">SBUA</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="SMT">
+  <data key="d0">Sun Moon Lake</data>
+  <data key="d1">Puli</data>
+  <data key="d2">TW</data>
+  <data key="d3">23.883333</data>
+  <data key="d4">120.933334</data>
+  <data key="d5">SBSO</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="TBT">
+  <data key="d0">Tabatinga International Airport</data>
+  <data key="d1">Tabatinga</data>
+  <data key="d2">BR</data>
+  <data key="d3">-4.233333</data>
+  <data key="d4">-69.933334</data>
+  <data key="d5">SBTT</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="TEC">
+  <data key="d0">Telemaco Borba</data>
+  <data key="d1">Telemaco Borba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-24.31767995</data>
+  <data key="d4">-50.65176291354726</data>
+  <data key="d5">SSVL</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="TFF">
+  <data key="d0">Tefe Airport</data>
+  <data key="d1">Tefe</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.3824045</data>
+  <data key="d4">-64.72460759140549</data>
+  <data key="d5">SBTF</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="TFL">
+  <data key="d0">Teofilo Otoni</data>
+  <data key="d1">Teofilo Otoni</data>
+  <data key="d2">BR</data>
+  <data key="d3">-17.85</data>
+  <data key="d4">-41.5</data>
+  <data key="d5">SNTO</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="TMT">
+  <data key="d0">Trombetas</data>
+  <data key="d1">Abidos</data>
+  <data key="d2">BR</data>
+  <data key="d3">-1.916667</data>
+  <data key="d4">-55.583332</data>
+  <data key="d5">SBTB</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="TUR">
+  <data key="d0">Tucurui</data>
+  <data key="d1">Tucurui</data>
+  <data key="d2">BR</data>
+  <data key="d3">-3.7</data>
+  <data key="d4">-49.733334</data>
+  <data key="d5">SBTU</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="UBA">
+  <data key="d0">Uberaba Airport</data>
+  <data key="d1">Uberaba</data>
+  <data key="d2">BR</data>
+  <data key="d3">-19.776388</data>
+  <data key="d4">-47.958332</data>
+  <data key="d5">SBUR</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="UDI">
+  <data key="d0">Uberlandia-Ten. Cel. Av. Cesar Bombonato Airport</data>
+  <data key="d1">Uberlandia</data>
+  <data key="d2">BR</data>
+  <data key="d3">-18.9</data>
+  <data key="d4">-48.233334</data>
+  <data key="d5">SBUL</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="UMU">
+  <data key="d0">Ernesto Geisel</data>
+  <data key="d1">Umuarama</data>
+  <data key="d2">BR</data>
+  <data key="d3">-23.798332</data>
+  <data key="d4">-53.31333</data>
+  <data key="d5">SSUM</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="UNA">
+  <data key="d0">Una</data>
+  <data key="d1">Una</data>
+  <data key="d2">BR</data>
+  <data key="d3">-15.353333</data>
+  <data key="d4">-38.997223</data>
+  <data key="d5">SBTC</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="URG">
+  <data key="d0">Ruben Berta Airport</data>
+  <data key="d1">Uruguaiana</data>
+  <data key="d2">BR</data>
+  <data key="d3">-29.781668</data>
+  <data key="d4">-57.038334</data>
+  <data key="d5">SBUG</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="UVI">
+  <data key="d0">União da Vitória Airport</data>
+  <data key="d1">Porto Uniao</data>
+  <data key="d2">BR</data>
+  <data key="d3">-26.231667</data>
+  <data key="d4">-51.068889</data>
+  <data key="d10">nan</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="VAG">
+  <data key="d0">Major-Brigadeiro Trompowsky Airport</data>
+  <data key="d1">Varginha</data>
+  <data key="d2">BR</data>
+  <data key="d3">-21.55</data>
+  <data key="d4">-45.433334</data>
+  <data key="d5">SBVG</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="VDC">
+  <data key="d0">Vitoria Da Conquista Airport</data>
+  <data key="d1">Vitoria da Conquista</data>
+  <data key="d2">BR</data>
+  <data key="d3">-14.86450825</data>
+  <data key="d4">-40.862788613186495</data>
+  <data key="d5">SBVC</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<node id="VIX">
+  <data key="d0">Eurico de Aguiar Salles Airport</data>
+  <data key="d1">Vila Velha</data>
+  <data key="d2">BR</data>
+  <data key="d3">-20.256092950000003</data>
+  <data key="d4">-40.28135718192593</data>
+  <data key="d5">SBVT</data>
+  <data key="d6">Azul</data>
+  <data key="d7">False</data>
+  <data key="d8">False</data>
+</node>
+<edge source="AEP" target="GRU">
+  <data key="d11">1693.102741469409</data>
+  <data key="d12">1693.102741469409</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AEP" target="CGH">
+  <data key="d11">1665.3122892559584</data>
+  <data key="d12">1665.3122892559584</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AEP" target="POA">
+  <data key="d11">849.0974564480002</data>
+  <data key="d12">849.0974564480002</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AJU" target="SSA">
+  <data key="d11">254.41189841244145</data>
+  <data key="d12">254.41189841244145</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="ARU" target="VCP">
+  <data key="d11">396.81485760655767</data>
+  <data key="d12">396.81485760655767</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="ASU" target="GRU">
+  <data key="d11">1135.3020903538554</data>
+  <data key="d12">1135.3020903538554</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ASU" target="CGH">
+  <data key="d11">1113.1772166326934</data>
+  <data key="d12">1113.1772166326934</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ASU" target="POA">
+  <data key="d11">819.0370504646199</data>
+  <data key="d12">819.0370504646199</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="ASU" target="VCP">
+  <data key="d11">1081.252805611745</data>
+  <data key="d12">1081.252805611745</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AUA" target="GRU">
+  <data key="d11">4745.938778475294</data>
+  <data key="d12">4745.938778475294</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BEL" target="FOR">
+  <data key="d11">1135.7194412742608</data>
+  <data key="d12">1135.7194412742608</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BOG" target="GRU">
+  <data key="d11">4335.678644335976</data>
+  <data key="d12">4335.678644335976</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BOG" target="FOR">
+  <data key="d11">4066.5284242514276</data>
+  <data key="d12">4066.5284242514276</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BPS" target="SSA">
+  <data key="d11">400.46337781433544</data>
+  <data key="d12">400.46337781433544</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BRC" target="GRU">
+  <data key="d11">3023.2262127166623</data>
+  <data key="d12">3023.2262127166623</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BRC" target="CGH">
+  <data key="d11">2995.466015378898</data>
+  <data key="d12">2995.466015378898</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BRC" target="POA">
+  <data key="d11">2184.0095891020846</data>
+  <data key="d12">2184.0095891020846</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BRC" target="VCP">
+  <data key="d11">3012.4554145893917</data>
+  <data key="d12">3012.4554145893917</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="GRU">
+  <data key="d11">854.5095861320173</data>
+  <data key="d12">854.5095861320173</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="CGH">
+  <data key="d11">872.213198228248</data>
+  <data key="d12">872.213198228248</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="VCP">
+  <data key="d11">797.3884994305104</data>
+  <data key="d12">797.3884994305104</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="BVB">
+  <data key="d11">2508.6137919395596</data>
+  <data key="d12">2508.6137919395596</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="CGB">
+  <data key="d11">878.7132341762792</data>
+  <data key="d12">878.7132341762792</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="CKS">
+  <data key="d11">1108.3054789135447</data>
+  <data key="d12">1108.3054789135447</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="CLV">
+  <data key="d11">218.97920250495906</data>
+  <data key="d12">218.97920250495906</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="CZS">
+  <data key="d11">2857.024919632716</data>
+  <data key="d12">2857.024919632716</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="GYN">
+  <data key="d11">163.8930133610215</data>
+  <data key="d12">163.8930133610215</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="MAB">
+  <data key="d11">1176.1112565840715</data>
+  <data key="d12">1176.1112565840715</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="MAO">
+  <data key="d11">1949.45376261712</data>
+  <data key="d12">1949.45376261712</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="OPS">
+  <data key="d11">939.3328394993365</data>
+  <data key="d12">939.3328394993365</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="PMW">
+  <data key="d11">627.855025352889</data>
+  <data key="d12">627.855025352889</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="PVH">
+  <data key="d11">1909.5519568590105</data>
+  <data key="d12">1909.5519568590105</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="RBR">
+  <data key="d11">2251.703523147769</data>
+  <data key="d12">2251.703523147769</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="STM">
+  <data key="d11">1674.712485011839</data>
+  <data key="d12">1674.712485011839</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BSB" target="CNF">
+  <data key="d11">590.9802373656846</data>
+  <data key="d12">590.9802373656846</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="GIG">
+  <data key="d11">912.8771605513807</data>
+  <data key="d12">912.8771605513807</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="SDU">
+  <data key="d11">927.4076165753959</data>
+  <data key="d12">927.4076165753959</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="CWB">
+  <data key="d11">1082.1925813516327</data>
+  <data key="d12">1082.1925813516327</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="POA">
+  <data key="d11">1605.1934960325939</data>
+  <data key="d12">1605.1934960325939</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="FOR">
+  <data key="d11">1690.521688682541</data>
+  <data key="d12">1690.521688682541</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="REC">
+  <data key="d11">1653.4602393032044</data>
+  <data key="d12">1653.4602393032044</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="SSA">
+  <data key="d11">1082.5331360932855</data>
+  <data key="d12">1082.5331360932855</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="AFL">
+  <data key="d11">1110.8925052515272</data>
+  <data key="d12">1110.8925052515272</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="AIR">
+  <data key="d11">1390.3515445281262</data>
+  <data key="d12">1390.3515445281262</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="ATM">
+  <data key="d11">1485.6786622302093</data>
+  <data key="d12">1485.6786622302093</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="BPG">
+  <data key="d11">478.99043291590624</data>
+  <data key="d12">478.99043291590624</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="BRA">
+  <data key="d11">525.1914983887268</data>
+  <data key="d12">525.1914983887268</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="BVH">
+  <data key="d11">1359.611591136209</data>
+  <data key="d12">1359.611591136209</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="CIZ">
+  <data key="d11">2117.964807412966</data>
+  <data key="d12">2117.964807412966</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="CMG">
+  <data key="d11">1092.2151798020138</data>
+  <data key="d12">1092.2151798020138</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="ERN">
+  <data key="d11">2606.2455790047666</data>
+  <data key="d12">2606.2455790047666</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="IRZ">
+  <data key="d11">2545.5742881289575</data>
+  <data key="d12">2545.5742881289575</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="ITB">
+  <data key="d11">1561.5199001904127</data>
+  <data key="d12">1561.5199001904127</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="JPR">
+  <data key="d11">1606.0811201432907</data>
+  <data key="d12">1606.0811201432907</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="LBR">
+  <data key="d11">2077.4390339958436</data>
+  <data key="d12">2077.4390339958436</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="MBZ">
+  <data key="d11">1756.3690408710213</data>
+  <data key="d12">1756.3690408710213</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="MNX">
+  <data key="d11">1837.373348787845</data>
+  <data key="d12">1837.373348787845</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="OAL">
+  <data key="d11">1546.5771225045619</data>
+  <data key="d12">1546.5771225045619</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="OIA">
+  <data key="d11">1068.7561214689993</data>
+  <data key="d12">1068.7561214689993</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="PIN">
+  <data key="d11">1759.5147064941286</data>
+  <data key="d12">1759.5147064941286</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="PYT">
+  <data key="d11">187.7806874299226</data>
+  <data key="d12">187.7806874299226</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="RBB">
+  <data key="d11">1804.816725388298</data>
+  <data key="d12">1804.816725388298</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="ROO">
+  <data key="d11">729.4462528390588</data>
+  <data key="d12">729.4462528390588</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="SJL">
+  <data key="d11">2727.176394108282</data>
+  <data key="d12">2727.176394108282</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="TBT">
+  <data key="d11">2732.034462127961</data>
+  <data key="d12">2732.034462127961</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="TFF">
+  <data key="d11">2304.4743311095503</data>
+  <data key="d12">2304.4743311095503</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="TMT">
+  <data key="d11">1764.7570915326805</data>
+  <data key="d12">1764.7570915326805</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BSB" target="UDI">
+  <data key="d11">338.45083276367313</data>
+  <data key="d12">338.45083276367313</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BVB" target="BSB">
+  <data key="d11">2508.6137919395596</data>
+  <data key="d12">2508.6137919395596</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="BYO" target="VCP">
+  <data key="d11">978.4715967206121</data>
+  <data key="d12">978.4715967206121</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BYO" target="CWB">
+  <data key="d11">881.8027088223686</data>
+  <data key="d12">881.8027088223686</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CAC" target="POA">
+  <data key="d11">605.0779972604737</data>
+  <data key="d12">605.0779972604737</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CAC" target="CWB">
+  <data key="d11">436.3009458477614</data>
+  <data key="d12">436.3009458477614</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGB" target="BSB">
+  <data key="d11">878.7132341762792</data>
+  <data key="d12">878.7132341762792</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CGH" target="GRU">
+  <data key="d11">27.791030118237472</data>
+  <data key="d12">27.791030118237472</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="VCP">
+  <data key="d11">84.80069284262325</data>
+  <data key="d12">84.80069284262325</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CGH" target="GIG">
+  <data key="d11">359.1653035373711</data>
+  <data key="d12">359.1653035373711</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="SDU">
+  <data key="d11">365.822014629829</data>
+  <data key="d12">365.822014629829</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="BSB">
+  <data key="d11">872.213198228248</data>
+  <data key="d12">872.213198228248</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CGH" target="CNF">
+  <data key="d11">523.94641748413</data>
+  <data key="d12">523.94641748413</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CGH" target="SSA">
+  <data key="d11">1479.6280618791327</data>
+  <data key="d12">1479.6280618791327</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="FOR">
+  <data key="d11">2372.9358940481748</data>
+  <data key="d12">2372.9358940481748</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="REC">
+  <data key="d11">2129.4046491313366</data>
+  <data key="d12">2129.4046491313366</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="POA">
+  <data key="d11">837.3797350893506</data>
+  <data key="d12">837.3797350893506</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="CWB">
+  <data key="d11">331.1356995625607</data>
+  <data key="d12">331.1356995625607</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="JOI">
+  <data key="d11">360.5135479923498</data>
+  <data key="d12">360.5135479923498</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="NVT">
+  <data key="d11">413.2149527059007</data>
+  <data key="d12">413.2149527059007</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="AEP">
+  <data key="d11">1665.3122892559584</data>
+  <data key="d12">1665.3122892559584</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="ASU">
+  <data key="d11">1113.1772166326934</data>
+  <data key="d12">1113.1772166326934</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="BRC">
+  <data key="d11">2995.466015378898</data>
+  <data key="d12">2995.466015378898</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="COR">
+  <data key="d11">1927.9505785535002</data>
+  <data key="d12">1927.9505785535002</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="EZE">
+  <data key="d11">1694.0237406864564</data>
+  <data key="d12">1694.0237406864564</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="MDZ">
+  <data key="d11">2391.5139159816363</data>
+  <data key="d12">2391.5139159816363</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="MVD">
+  <data key="d11">1540.0627598855538</data>
+  <data key="d12">1540.0627598855538</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGH" target="ROS">
+  <data key="d11">1724.4166015263777</data>
+  <data key="d12">1724.4166015263777</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGR" target="VCP">
+  <data key="d11">828.0854682408353</data>
+  <data key="d12">828.0854682408353</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CGR" target="CWB">
+  <data key="d11">796.1534563510074</data>
+  <data key="d12">796.1534563510074</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CKS" target="BSB">
+  <data key="d11">1108.3054789135447</data>
+  <data key="d12">1108.3054789135447</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CLV" target="BSB">
+  <data key="d11">218.97920250495906</data>
+  <data key="d12">218.97920250495906</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CNF" target="GRU">
+  <data key="d11">496.46235647648496</data>
+  <data key="d12">496.46235647648496</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CNF" target="CGH">
+  <data key="d11">523.94641748413</data>
+  <data key="d12">523.94641748413</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CNF" target="VCP">
+  <data key="d11">498.6514813839962</data>
+  <data key="d12">498.6514813839962</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CNF" target="MOC">
+  <data key="d11">325.979439911537</data>
+  <data key="d12">325.979439911537</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CNF" target="BSB">
+  <data key="d11">590.9802373656846</data>
+  <data key="d12">590.9802373656846</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="GIG">
+  <data key="d11">360.93207496545904</data>
+  <data key="d12">360.93207496545904</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="SDU">
+  <data key="d11">373.79358279123466</data>
+  <data key="d12">373.79358279123466</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="CWB">
+  <data key="d11">846.0130731224958</data>
+  <data key="d12">846.0130731224958</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="POA">
+  <data key="d11">1361.2454880223102</data>
+  <data key="d12">1361.2454880223102</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="FOR">
+  <data key="d11">1858.6535162154346</data>
+  <data key="d12">1858.6535162154346</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="REC">
+  <data key="d11">1608.3975778828926</data>
+  <data key="d12">1608.3975778828926</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="SSA">
+  <data key="d11">959.0514834038477</data>
+  <data key="d12">959.0514834038477</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="AAX">
+  <data key="d11">313.51853402028354</data>
+  <data key="d12">313.51853402028354</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="DIQ">
+  <data key="d11">112.25345808103157</data>
+  <data key="d12">112.25345808103157</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="GVR">
+  <data key="d11">230.70578323701625</data>
+  <data key="d12">230.70578323701625</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="IAL">
+  <data key="d11">418.78075747911157</data>
+  <data key="d12">418.78075747911157</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="IPN">
+  <data key="d11">151.08345973139765</data>
+  <data key="d12">151.08345973139765</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="POJ">
+  <data key="d11">285.7743420170145</data>
+  <data key="d12">285.7743420170145</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="TFL">
+  <data key="d11">326.9145725476033</data>
+  <data key="d12">326.9145725476033</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="VIX">
+  <data key="d11">391.5478778324894</data>
+  <data key="d12">391.5478778324894</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="FLL">
+  <data key="d11">6409.679471284479</data>
+  <data key="d12">6409.679471284479</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="LIS">
+  <data key="d11">7439.966300895033</data>
+  <data key="d12">7439.966300895033</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="MAD">
+  <data key="d11">7883.113020192387</data>
+  <data key="d12">7883.113020192387</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="MCO">
+  <data key="d11">6680.970462872043</data>
+  <data key="d12">6680.970462872043</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CNF" target="ORY">
+  <data key="d11">8878.705860224578</data>
+  <data key="d12">8878.705860224578</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="COR" target="GRU">
+  <data key="d11">1954.25218906793</data>
+  <data key="d12">1954.25218906793</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="COR" target="CGH">
+  <data key="d11">1927.9505785535002</data>
+  <data key="d12">1927.9505785535002</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="COR" target="POA">
+  <data key="d11">1255.7977585000137</data>
+  <data key="d12">1255.7977585000137</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CPV" target="REC">
+  <data key="d11">143.36628719319498</data>
+  <data key="d12">143.36628719319498</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CUN" target="GRU">
+  <data key="d11">6602.998397450622</data>
+  <data key="d12">6602.998397450622</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CUN" target="FOR">
+  <data key="d11">5944.627916795593</data>
+  <data key="d12">5944.627916795593</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="CGH">
+  <data key="d11">331.1356995625607</data>
+  <data key="d12">331.1356995625607</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="VCP">
+  <data key="d11">348.46860946896874</data>
+  <data key="d12">348.46860946896874</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="CNF">
+  <data key="d11">846.0130731224958</data>
+  <data key="d12">846.0130731224958</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="BSB">
+  <data key="d11">1082.1925813516327</data>
+  <data key="d12">1082.1925813516327</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="BYO">
+  <data key="d11">881.8027088223686</data>
+  <data key="d12">881.8027088223686</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="CAC">
+  <data key="d11">436.3009458477614</data>
+  <data key="d12">436.3009458477614</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="CGR">
+  <data key="d11">796.1534563510074</data>
+  <data key="d12">796.1534563510074</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="FLN">
+  <data key="d11">245.88419597738252</data>
+  <data key="d12">245.88419597738252</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="GGJ">
+  <data key="d11">531.2046389152687</data>
+  <data key="d12">531.2046389152687</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="GPB">
+  <data key="d11">234.36157475204394</data>
+  <data key="d12">234.36157475204394</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="IGU">
+  <data key="d11">533.0638978024381</data>
+  <data key="d12">533.0638978024381</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="JOI">
+  <data key="d11">85.81068133358254</data>
+  <data key="d12">85.81068133358254</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="LDB">
+  <data key="d11">315.37195436053196</data>
+  <data key="d12">315.37195436053196</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="MGF">
+  <data key="d11">367.31660540016526</data>
+  <data key="d12">367.31660540016526</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="NVT">
+  <data key="d11">158.66416221440932</data>
+  <data key="d12">158.66416221440932</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="PMG">
+  <data key="d11">740.6531313344576</data>
+  <data key="d12">740.6531313344576</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="PPB">
+  <data key="d11">446.21850740612587</data>
+  <data key="d12">446.21850740612587</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="PTO">
+  <data key="d11">360.0657833499208</data>
+  <data key="d12">360.0657833499208</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="TEC">
+  <data key="d11">200.91196910185215</data>
+  <data key="d12">200.91196910185215</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="UMU">
+  <data key="d11">460.3011812385877</data>
+  <data key="d12">460.3011812385877</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CWB" target="UVI">
+  <data key="d11">204.66407856694167</data>
+  <data key="d12">204.66407856694167</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CXJ" target="POA">
+  <data key="d11">88.77514174128886</data>
+  <data key="d12">88.77514174128886</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="CZS" target="BSB">
+  <data key="d11">2857.024919632716</data>
+  <data key="d12">2857.024919632716</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="EZE" target="GRU">
+  <data key="d11">1721.8120602735924</data>
+  <data key="d12">1721.8120602735924</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="EZE" target="CGH">
+  <data key="d11">1694.0237406864564</data>
+  <data key="d12">1694.0237406864564</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="EZE" target="POA">
+  <data key="d11">875.5677798368242</data>
+  <data key="d12">875.5677798368242</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FEN" target="REC">
+  <data key="d11">549.4895210508827</data>
+  <data key="d12">549.4895210508827</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FLN" target="POA">
+  <data key="d11">363.4550902202302</data>
+  <data key="d12">363.4550902202302</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FLN" target="CWB">
+  <data key="d11">245.88419597738252</data>
+  <data key="d12">245.88419597738252</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="GRU">
+  <data key="d11">2346.532845794301</data>
+  <data key="d12">2346.532845794301</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="CGH">
+  <data key="d11">2372.9358940481748</data>
+  <data key="d12">2372.9358940481748</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="VCP">
+  <data key="d11">2329.5456802089134</data>
+  <data key="d12">2329.5456802089134</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="BEL">
+  <data key="d11">1135.7194412742608</data>
+  <data key="d12">1135.7194412742608</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="JDO">
+  <data key="d11">389.9592458141907</data>
+  <data key="d12">389.9592458141907</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="JJD">
+  <data key="d11">223.76805353335084</data>
+  <data key="d12">223.76805353335084</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="MCP">
+  <data key="d11">1455.9139430902276</data>
+  <data key="d12">1455.9139430902276</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="SLZ">
+  <data key="d11">646.3531936043502</data>
+  <data key="d12">646.3531936043502</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="THE">
+  <data key="d11">495.68520771585435</data>
+  <data key="d12">495.68520771585435</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="FOR" target="BOG">
+  <data key="d11">4066.5284242514276</data>
+  <data key="d12">4066.5284242514276</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="CUN">
+  <data key="d11">5944.627916795593</data>
+  <data key="d12">5944.627916795593</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="MCO">
+  <data key="d11">5804.367413896878</data>
+  <data key="d12">5804.367413896878</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="MIA">
+  <data key="d11">5569.453937638748</data>
+  <data key="d12">5569.453937638748</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="CNF">
+  <data key="d11">1858.6535162154346</data>
+  <data key="d12">1858.6535162154346</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="BSB">
+  <data key="d11">1690.521688682541</data>
+  <data key="d12">1690.521688682541</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="BVS">
+  <data key="d11">1343.1395786320716</data>
+  <data key="d12">1343.1395786320716</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="CJZ">
+  <data key="d11">345.21609460181503</data>
+  <data key="d12">345.21609460181503</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="IMP">
+  <data key="d11">1007.227182308831</data>
+  <data key="d12">1007.227182308831</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="JAW">
+  <data key="d11">477.41426462080386</data>
+  <data key="d12">477.41426462080386</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="JPE">
+  <data key="d11">977.7222113319722</data>
+  <data key="d12">977.7222113319722</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="MEU">
+  <data key="d11">1594.7565640209334</data>
+  <data key="d12">1594.7565640209334</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="OPP">
+  <data key="d11">1035.6584604019276</data>
+  <data key="d12">1035.6584604019276</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="PTQ">
+  <data key="d11">1537.857647131344</data>
+  <data key="d12">1537.857647131344</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FOR" target="TUR">
+  <data key="d11">1241.9217568274616</data>
+  <data key="d12">1241.9217568274616</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GEL" target="POA">
+  <data key="d11">347.85656682857285</data>
+  <data key="d12">347.85656682857285</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="GIG" target="GRU">
+  <data key="d11">336.8311378312569</data>
+  <data key="d12">336.8311378312569</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GIG" target="CGH">
+  <data key="d11">359.1653035373711</data>
+  <data key="d12">359.1653035373711</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GIG" target="VCP">
+  <data key="d11">398.3154301604609</data>
+  <data key="d12">398.3154301604609</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="GIG" target="IZA">
+  <data key="d11">144.6179317745144</data>
+  <data key="d12">144.6179317745144</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="GIG" target="CNF">
+  <data key="d11">360.93207496545904</data>
+  <data key="d12">360.93207496545904</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GIG" target="BSB">
+  <data key="d11">912.8771605513807</data>
+  <data key="d12">912.8771605513807</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GIG" target="RRJ">
+  <data key="d11">22.651279767258245</data>
+  <data key="d12">22.651279767258245</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="CGH">
+  <data key="d11">27.791030118237472</data>
+  <data key="d12">27.791030118237472</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="VCP">
+  <data key="d11">82.82763089512477</data>
+  <data key="d12">82.82763089512477</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="GRU" target="GIG">
+  <data key="d11">336.8311378312569</data>
+  <data key="d12">336.8311378312569</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="SDU">
+  <data key="d11">344.1111319603831</data>
+  <data key="d12">344.1111319603831</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="BSB">
+  <data key="d11">854.5095861320173</data>
+  <data key="d12">854.5095861320173</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="GRU" target="CNF">
+  <data key="d11">496.46235647648496</data>
+  <data key="d12">496.46235647648496</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="GRU" target="SSA">
+  <data key="d11">1451.8771488328223</data>
+  <data key="d12">1451.8771488328223</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="FOR">
+  <data key="d11">2346.532845794301</data>
+  <data key="d12">2346.532845794301</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="REC">
+  <data key="d11">2101.652131028294</data>
+  <data key="d12">2101.652131028294</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="POA">
+  <data key="d11">864.7958350129232</data>
+  <data key="d12">864.7958350129232</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="SJK">
+  <data key="d11">46.76791084801071</data>
+  <data key="d12">46.76791084801071</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="AEP">
+  <data key="d11">1693.102741469409</data>
+  <data key="d12">1693.102741469409</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="ASU">
+  <data key="d11">1135.3020903538554</data>
+  <data key="d12">1135.3020903538554</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="AUA">
+  <data key="d11">4745.938778475294</data>
+  <data key="d12">4745.938778475294</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="BOG">
+  <data key="d11">4335.678644335976</data>
+  <data key="d12">4335.678644335976</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="BRC">
+  <data key="d11">3023.2262127166623</data>
+  <data key="d12">3023.2262127166623</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="COR">
+  <data key="d11">1954.25218906793</data>
+  <data key="d12">1954.25218906793</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="CUN">
+  <data key="d11">6602.998397450622</data>
+  <data key="d12">6602.998397450622</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="EZE">
+  <data key="d11">1721.8120602735924</data>
+  <data key="d12">1721.8120602735924</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="MCO">
+  <data key="d11">6867.448979467021</data>
+  <data key="d12">6867.448979467021</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="MDZ">
+  <data key="d11">2417.8278447858693</data>
+  <data key="d12">2417.8278447858693</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="MIA">
+  <data key="d11">6573.222872317013</data>
+  <data key="d12">6573.222872317013</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="MVD">
+  <data key="d11">1567.6524787726717</data>
+  <data key="d12">1567.6524787726717</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="PUJ">
+  <data key="d11">5240.2727379084945</data>
+  <data key="d12">5240.2727379084945</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="ROS">
+  <data key="d11">1751.861116257418</data>
+  <data key="d12">1751.861116257418</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="VVI">
+  <data key="d11">1847.8414752642116</data>
+  <data key="d12">1847.8414752642116</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GRU" target="VAG">
+  <data key="d11">235.9103871788479</data>
+  <data key="d12">235.9103871788479</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GYN" target="BSB">
+  <data key="d11">163.8930133610215</data>
+  <data key="d12">163.8930133610215</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="IGU" target="POA">
+  <data key="d11">588.5262879520656</data>
+  <data key="d12">588.5262879520656</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="IGU" target="CWB">
+  <data key="d11">533.0638978024381</data>
+  <data key="d12">533.0638978024381</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="IOS" target="SSA">
+  <data key="d11">224.49783670267232</data>
+  <data key="d12">224.49783670267232</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="IZA" target="GIG">
+  <data key="d11">144.6179317745144</data>
+  <data key="d12">144.6179317745144</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="JDO" target="FOR">
+  <data key="d11">389.9592458141907</data>
+  <data key="d12">389.9592458141907</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="JJD" target="FOR">
+  <data key="d11">223.76805353335084</data>
+  <data key="d12">223.76805353335084</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="JOI" target="CGH">
+  <data key="d11">360.5135479923498</data>
+  <data key="d12">360.5135479923498</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JOI" target="CWB">
+  <data key="d11">85.81068133358254</data>
+  <data key="d12">85.81068133358254</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JPA" target="REC">
+  <data key="d11">108.65183504124543</data>
+  <data key="d12">108.65183504124543</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="LDB" target="VCP">
+  <data key="d11">410.0471434303355</data>
+  <data key="d12">410.0471434303355</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="LDB" target="CWB">
+  <data key="d11">315.37195436053196</data>
+  <data key="d12">315.37195436053196</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MAB" target="BSB">
+  <data key="d11">1176.1112565840715</data>
+  <data key="d12">1176.1112565840715</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="MAO" target="BSB">
+  <data key="d11">1949.45376261712</data>
+  <data key="d12">1949.45376261712</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="MCO" target="GRU">
+  <data key="d11">6867.448979467021</data>
+  <data key="d12">6867.448979467021</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MCO" target="FOR">
+  <data key="d11">5804.367413896878</data>
+  <data key="d12">5804.367413896878</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MCO" target="VCP">
+  <data key="d11">6789.623382065885</data>
+  <data key="d12">6789.623382065885</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MCO" target="CNF">
+  <data key="d11">6680.970462872043</data>
+  <data key="d12">6680.970462872043</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MCP" target="FOR">
+  <data key="d11">1455.9139430902276</data>
+  <data key="d12">1455.9139430902276</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="MCZ" target="REC">
+  <data key="d11">181.88418146809425</data>
+  <data key="d12">181.88418146809425</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="MDZ" target="GRU">
+  <data key="d11">2417.8278447858693</data>
+  <data key="d12">2417.8278447858693</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MDZ" target="CGH">
+  <data key="d11">2391.5139159816363</data>
+  <data key="d12">2391.5139159816363</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MDZ" target="POA">
+  <data key="d11">1700.3790157296798</data>
+  <data key="d12">1700.3790157296798</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MGF" target="VCP">
+  <data key="d11">491.4973044335159</data>
+  <data key="d12">491.4973044335159</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MGF" target="CWB">
+  <data key="d11">367.31660540016526</data>
+  <data key="d12">367.31660540016526</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MIA" target="GRU">
+  <data key="d11">6573.222872317013</data>
+  <data key="d12">6573.222872317013</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MIA" target="FOR">
+  <data key="d11">5569.453937638748</data>
+  <data key="d12">5569.453937638748</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MOC" target="CNF">
+  <data key="d11">325.979439911537</data>
+  <data key="d12">325.979439911537</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="MVD" target="GRU">
+  <data key="d11">1567.6524787726717</data>
+  <data key="d12">1567.6524787726717</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MVD" target="CGH">
+  <data key="d11">1540.0627598855538</data>
+  <data key="d12">1540.0627598855538</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MVD" target="POA">
+  <data key="d11">704.5707556382981</data>
+  <data key="d12">704.5707556382981</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="MVD" target="VCP">
+  <data key="d11">1571.723015721103</data>
+  <data key="d12">1571.723015721103</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="NAT" target="REC">
+  <data key="d11">248.26253326191548</data>
+  <data key="d12">248.26253326191548</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="NVT" target="CGH">
+  <data key="d11">413.2149527059007</data>
+  <data key="d12">413.2149527059007</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="NVT" target="CWB">
+  <data key="d11">158.66416221440932</data>
+  <data key="d12">158.66416221440932</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="OPS" target="BSB">
+  <data key="d11">939.3328394993365</data>
+  <data key="d12">939.3328394993365</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="PET" target="POA">
+  <data key="d11">221.11523211903145</data>
+  <data key="d12">221.11523211903145</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="PFB" target="POA">
+  <data key="d11">224.98805733750396</data>
+  <data key="d12">224.98805733750396</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="PMW" target="BSB">
+  <data key="d11">627.855025352889</data>
+  <data key="d12">627.855025352889</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="PNZ" target="SSA">
+  <data key="d11">456.3768028877942</data>
+  <data key="d12">456.3768028877942</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="GRU">
+  <data key="d11">864.7958350129232</data>
+  <data key="d12">864.7958350129232</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="CGH">
+  <data key="d11">837.3797350893506</data>
+  <data key="d12">837.3797350893506</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="VCP">
+  <data key="d11">874.1297673498796</data>
+  <data key="d12">874.1297673498796</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="CAC">
+  <data key="d11">605.0779972604737</data>
+  <data key="d12">605.0779972604737</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="CXJ">
+  <data key="d11">88.77514174128886</data>
+  <data key="d12">88.77514174128886</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="FLN">
+  <data key="d11">363.4550902202302</data>
+  <data key="d12">363.4550902202302</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="GEL">
+  <data key="d11">347.85656682857285</data>
+  <data key="d12">347.85656682857285</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="IGU">
+  <data key="d11">588.5262879520656</data>
+  <data key="d12">588.5262879520656</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="PET">
+  <data key="d11">221.11523211903145</data>
+  <data key="d12">221.11523211903145</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="PFB">
+  <data key="d11">224.98805733750396</data>
+  <data key="d12">224.98805733750396</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="XAP">
+  <data key="d11">353.3478259767201</data>
+  <data key="d12">353.3478259767201</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="AEP">
+  <data key="d11">849.0974564480002</data>
+  <data key="d12">849.0974564480002</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="ASU">
+  <data key="d11">819.0370504646199</data>
+  <data key="d12">819.0370504646199</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="BRC">
+  <data key="d11">2184.0095891020846</data>
+  <data key="d12">2184.0095891020846</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="COR">
+  <data key="d11">1255.7977585000137</data>
+  <data key="d12">1255.7977585000137</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="EZE">
+  <data key="d11">875.5677798368242</data>
+  <data key="d12">875.5677798368242</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="MDZ">
+  <data key="d11">1700.3790157296798</data>
+  <data key="d12">1700.3790157296798</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="MVD">
+  <data key="d11">704.5707556382981</data>
+  <data key="d12">704.5707556382981</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="POA" target="ROS">
+  <data key="d11">968.2931705052094</data>
+  <data key="d12">968.2931705052094</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="CNF">
+  <data key="d11">1361.2454880223102</data>
+  <data key="d12">1361.2454880223102</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="BSB">
+  <data key="d11">1605.1934960325939</data>
+  <data key="d12">1605.1934960325939</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="RIA">
+  <data key="d11">245.07889503049321</data>
+  <data key="d12">245.07889503049321</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="URG">
+  <data key="d11">566.4196791034547</data>
+  <data key="d12">566.4196791034547</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POA" target="PDP">
+  <data key="d11">650.328357313397</data>
+  <data key="d12">650.328357313397</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PPB" target="VCP">
+  <data key="d11">453.7150329966058</data>
+  <data key="d12">453.7150329966058</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PPB" target="CWB">
+  <data key="d11">446.21850740612587</data>
+  <data key="d12">446.21850740612587</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PUJ" target="GRU">
+  <data key="d11">5240.2727379084945</data>
+  <data key="d12">5240.2727379084945</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PVH" target="BSB">
+  <data key="d11">1909.5519568590105</data>
+  <data key="d12">1909.5519568590105</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="RAO" target="VCP">
+  <data key="d11">217.90127998818318</data>
+  <data key="d12">217.90127998818318</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="RBR" target="BSB">
+  <data key="d11">2251.703523147769</data>
+  <data key="d12">2251.703523147769</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="GRU">
+  <data key="d11">2101.652131028294</data>
+  <data key="d12">2101.652131028294</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="REC" target="CGH">
+  <data key="d11">2129.4046491313366</data>
+  <data key="d12">2129.4046491313366</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="REC" target="VCP">
+  <data key="d11">2106.7851806346257</data>
+  <data key="d12">2106.7851806346257</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="CPV">
+  <data key="d11">143.36628719319498</data>
+  <data key="d12">143.36628719319498</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="FEN">
+  <data key="d11">549.4895210508827</data>
+  <data key="d12">549.4895210508827</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="JPA">
+  <data key="d11">108.65183504124543</data>
+  <data key="d12">108.65183504124543</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="MCZ">
+  <data key="d11">181.88418146809425</data>
+  <data key="d12">181.88418146809425</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="NAT">
+  <data key="d11">248.26253326191548</data>
+  <data key="d12">248.26253326191548</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="REC" target="CNF">
+  <data key="d11">1608.3975778828926</data>
+  <data key="d12">1608.3975778828926</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="REC" target="BSB">
+  <data key="d11">1653.4602393032044</data>
+  <data key="d12">1653.4602393032044</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="REC" target="CAU">
+  <data key="d11">110.26549209211045</data>
+  <data key="d12">110.26549209211045</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="REC" target="JPO">
+  <data key="d11">283.8056379951267</data>
+  <data key="d12">283.8056379951267</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="REC" target="QGP">
+  <data key="d11">187.6705705188688</data>
+  <data key="d12">187.6705705188688</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ROS" target="GRU">
+  <data key="d11">1751.861116257418</data>
+  <data key="d12">1751.861116257418</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ROS" target="CGH">
+  <data key="d11">1724.4166015263777</data>
+  <data key="d12">1724.4166015263777</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ROS" target="POA">
+  <data key="d11">968.2931705052094</data>
+  <data key="d12">968.2931705052094</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SDU" target="GRU">
+  <data key="d11">344.1111319603831</data>
+  <data key="d12">344.1111319603831</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SDU" target="CGH">
+  <data key="d11">365.822014629829</data>
+  <data key="d12">365.822014629829</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SDU" target="VCP">
+  <data key="d11">407.3870134063981</data>
+  <data key="d12">407.3870134063981</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SDU" target="CNF">
+  <data key="d11">373.79358279123466</data>
+  <data key="d12">373.79358279123466</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SDU" target="BSB">
+  <data key="d11">927.4076165753959</data>
+  <data key="d12">927.4076165753959</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SJK" target="GRU">
+  <data key="d11">46.76791084801071</data>
+  <data key="d12">46.76791084801071</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SJP" target="VCP">
+  <data key="d11">337.4876408494068</data>
+  <data key="d12">337.4876408494068</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SLZ" target="FOR">
+  <data key="d11">646.3531936043502</data>
+  <data key="d12">646.3531936043502</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SSA" target="GRU">
+  <data key="d11">1451.8771488328223</data>
+  <data key="d12">1451.8771488328223</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="CGH">
+  <data key="d11">1479.6280618791327</data>
+  <data key="d12">1479.6280618791327</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="VCP">
+  <data key="d11">1457.6501610508094</data>
+  <data key="d12">1457.6501610508094</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SSA" target="AJU">
+  <data key="d11">254.41189841244145</data>
+  <data key="d12">254.41189841244145</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SSA" target="BPS">
+  <data key="d11">400.46337781433544</data>
+  <data key="d12">400.46337781433544</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SSA" target="IOS">
+  <data key="d11">224.49783670267232</data>
+  <data key="d12">224.49783670267232</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SSA" target="PNZ">
+  <data key="d11">456.3768028877942</data>
+  <data key="d12">456.3768028877942</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="SSA" target="CNF">
+  <data key="d11">959.0514834038477</data>
+  <data key="d12">959.0514834038477</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="BSB">
+  <data key="d11">1082.5331360932855</data>
+  <data key="d12">1082.5331360932855</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="GNM">
+  <data key="d11">504.9349559579004</data>
+  <data key="d12">504.9349559579004</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="LEC">
+  <data key="d11">323.1577407182461</data>
+  <data key="d12">323.1577407182461</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="UNA">
+  <data key="d11">280.80283553258255</data>
+  <data key="d12">280.80283553258255</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SSA" target="VDC">
+  <data key="d11">348.75333615856925</data>
+  <data key="d12">348.75333615856925</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="STM" target="BSB">
+  <data key="d11">1674.712485011839</data>
+  <data key="d12">1674.712485011839</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="THE" target="FOR">
+  <data key="d11">495.68520771585435</data>
+  <data key="d12">495.68520771585435</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="GRU">
+  <data key="d11">82.82763089512477</data>
+  <data key="d12">82.82763089512477</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="CGH">
+  <data key="d11">84.80069284262325</data>
+  <data key="d12">84.80069284262325</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="GIG">
+  <data key="d11">398.3154301604609</data>
+  <data key="d12">398.3154301604609</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="SDU">
+  <data key="d11">407.3870134063981</data>
+  <data key="d12">407.3870134063981</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="BSB">
+  <data key="d11">797.3884994305104</data>
+  <data key="d12">797.3884994305104</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="CNF">
+  <data key="d11">498.6514813839962</data>
+  <data key="d12">498.6514813839962</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="SSA">
+  <data key="d11">1457.6501610508094</data>
+  <data key="d12">1457.6501610508094</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="FOR">
+  <data key="d11">2329.5456802089134</data>
+  <data key="d12">2329.5456802089134</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="REC">
+  <data key="d11">2106.7851806346257</data>
+  <data key="d12">2106.7851806346257</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="POA">
+  <data key="d11">874.1297673498796</data>
+  <data key="d12">874.1297673498796</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="ARU">
+  <data key="d11">396.81485760655767</data>
+  <data key="d12">396.81485760655767</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="BYO">
+  <data key="d11">978.4715967206121</data>
+  <data key="d12">978.4715967206121</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="CGR">
+  <data key="d11">828.0854682408353</data>
+  <data key="d12">828.0854682408353</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="LDB">
+  <data key="d11">410.0471434303355</data>
+  <data key="d12">410.0471434303355</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="MGF">
+  <data key="d11">491.4973044335159</data>
+  <data key="d12">491.4973044335159</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="PPB">
+  <data key="d11">453.7150329966058</data>
+  <data key="d12">453.7150329966058</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="RAO">
+  <data key="d11">217.90127998818318</data>
+  <data key="d12">217.90127998818318</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="SJP">
+  <data key="d11">337.4876408494068</data>
+  <data key="d12">337.4876408494068</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="VCP" target="CWB">
+  <data key="d11">348.46860946896874</data>
+  <data key="d12">348.46860946896874</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="AQA">
+  <data key="d11">166.96841829736968</data>
+  <data key="d12">166.96841829736968</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="BAT">
+  <data key="d11">309.38921242147507</data>
+  <data key="d12">309.38921242147507</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="FRC">
+  <data key="d11">274.5867357955204</data>
+  <data key="d12">274.5867357955204</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="JTC">
+  <data key="d11">219.79592282070124</data>
+  <data key="d12">219.79592282070124</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="MII">
+  <data key="d11">300.2404504957646</data>
+  <data key="d12">300.2404504957646</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="UBA">
+  <data key="d11">368.93431751548064</data>
+  <data key="d12">368.93431751548064</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="ASU">
+  <data key="d11">1081.252805611745</data>
+  <data key="d12">1081.252805611745</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="BRC">
+  <data key="d11">3012.4554145893917</data>
+  <data key="d12">3012.4554145893917</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="CUR">
+  <data key="d11">4578.147841509522</data>
+  <data key="d12">4578.147841509522</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="FLL">
+  <data key="d11">6511.831655276372</data>
+  <data key="d12">6511.831655276372</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="JMA">
+  <data key="d11">7823.632353726967</data>
+  <data key="d12">7823.632353726967</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="LHN">
+  <data key="d11">18833.341589132553</data>
+  <data key="d12">18833.341589132553</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="LIS">
+  <data key="d11">7928.53921648571</data>
+  <data key="d12">7928.53921648571</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="MAD">
+  <data key="d11">8375.459126141614</data>
+  <data key="d12">8375.459126141614</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="MCO">
+  <data key="d11">6789.623382065885</data>
+  <data key="d12">6789.623382065885</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="MVD">
+  <data key="d11">1571.723015721103</data>
+  <data key="d12">1571.723015721103</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="ORY">
+  <data key="d11">9367.132321798914</data>
+  <data key="d12">9367.132321798914</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="PDP">
+  <data key="d11">1523.7271507976204</data>
+  <data key="d12">1523.7271507976204</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="SET">
+  <data key="d11">5992.094107737703</data>
+  <data key="d12">5992.094107737703</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VCP" target="SMT">
+  <data key="d11">18795.035300619216</data>
+  <data key="d12">18795.035300619216</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VVI" target="GRU">
+  <data key="d11">1847.8414752642116</data>
+  <data key="d12">1847.8414752642116</data>
+  <data key="d13">Gol</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="XAP" target="POA">
+  <data key="d11">353.3478259767201</data>
+  <data key="d12">353.3478259767201</data>
+  <data key="d13">Gol,Azul</data>
+  <data key="d14">True</data>
+</edge>
+<edge source="AAX" target="CNF">
+  <data key="d11">313.51853402028354</data>
+  <data key="d12">313.51853402028354</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AFL" target="BSB">
+  <data key="d11">1110.8925052515272</data>
+  <data key="d12">1110.8925052515272</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AIR" target="BSB">
+  <data key="d11">1390.3515445281262</data>
+  <data key="d12">1390.3515445281262</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="AQA" target="VCP">
+  <data key="d11">166.96841829736968</data>
+  <data key="d12">166.96841829736968</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ATM" target="BSB">
+  <data key="d11">1485.6786622302093</data>
+  <data key="d12">1485.6786622302093</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BAT" target="VCP">
+  <data key="d11">309.38921242147507</data>
+  <data key="d12">309.38921242147507</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BPG" target="BSB">
+  <data key="d11">478.99043291590624</data>
+  <data key="d12">478.99043291590624</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BRA" target="BSB">
+  <data key="d11">525.1914983887268</data>
+  <data key="d12">525.1914983887268</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BVH" target="BSB">
+  <data key="d11">1359.611591136209</data>
+  <data key="d12">1359.611591136209</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="BVS" target="FOR">
+  <data key="d11">1343.1395786320716</data>
+  <data key="d12">1343.1395786320716</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CAU" target="REC">
+  <data key="d11">110.26549209211045</data>
+  <data key="d12">110.26549209211045</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CIZ" target="BSB">
+  <data key="d11">2117.964807412966</data>
+  <data key="d12">2117.964807412966</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CJZ" target="FOR">
+  <data key="d11">345.21609460181503</data>
+  <data key="d12">345.21609460181503</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CMG" target="BSB">
+  <data key="d11">1092.2151798020138</data>
+  <data key="d12">1092.2151798020138</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="CUR" target="VCP">
+  <data key="d11">4578.147841509522</data>
+  <data key="d12">4578.147841509522</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="DIQ" target="CNF">
+  <data key="d11">112.25345808103157</data>
+  <data key="d12">112.25345808103157</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ERN" target="BSB">
+  <data key="d11">2606.2455790047666</data>
+  <data key="d12">2606.2455790047666</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FLL" target="VCP">
+  <data key="d11">6511.831655276372</data>
+  <data key="d12">6511.831655276372</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FLL" target="CNF">
+  <data key="d11">6409.679471284479</data>
+  <data key="d12">6409.679471284479</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="FRC" target="VCP">
+  <data key="d11">274.5867357955204</data>
+  <data key="d12">274.5867357955204</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GGJ" target="CWB">
+  <data key="d11">531.2046389152687</data>
+  <data key="d12">531.2046389152687</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GNM" target="SSA">
+  <data key="d11">504.9349559579004</data>
+  <data key="d12">504.9349559579004</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GPB" target="CWB">
+  <data key="d11">234.36157475204394</data>
+  <data key="d12">234.36157475204394</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="GVR" target="CNF">
+  <data key="d11">230.70578323701625</data>
+  <data key="d12">230.70578323701625</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="IAL" target="CNF">
+  <data key="d11">418.78075747911157</data>
+  <data key="d12">418.78075747911157</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="IMP" target="FOR">
+  <data key="d11">1007.227182308831</data>
+  <data key="d12">1007.227182308831</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="IPN" target="CNF">
+  <data key="d11">151.08345973139765</data>
+  <data key="d12">151.08345973139765</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="IRZ" target="BSB">
+  <data key="d11">2545.5742881289575</data>
+  <data key="d12">2545.5742881289575</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ITB" target="BSB">
+  <data key="d11">1561.5199001904127</data>
+  <data key="d12">1561.5199001904127</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JAW" target="FOR">
+  <data key="d11">477.41426462080386</data>
+  <data key="d12">477.41426462080386</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JMA" target="VCP">
+  <data key="d11">7823.632353726967</data>
+  <data key="d12">7823.632353726967</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JPE" target="FOR">
+  <data key="d11">977.7222113319722</data>
+  <data key="d12">977.7222113319722</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JPO" target="REC">
+  <data key="d11">283.8056379951267</data>
+  <data key="d12">283.8056379951267</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JPR" target="BSB">
+  <data key="d11">1606.0811201432907</data>
+  <data key="d12">1606.0811201432907</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="JTC" target="VCP">
+  <data key="d11">219.79592282070124</data>
+  <data key="d12">219.79592282070124</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="LBR" target="BSB">
+  <data key="d11">2077.4390339958436</data>
+  <data key="d12">2077.4390339958436</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="LEC" target="SSA">
+  <data key="d11">323.1577407182461</data>
+  <data key="d12">323.1577407182461</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="LHN" target="VCP">
+  <data key="d11">18833.341589132553</data>
+  <data key="d12">18833.341589132553</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="LIS" target="VCP">
+  <data key="d11">7928.53921648571</data>
+  <data key="d12">7928.53921648571</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="LIS" target="CNF">
+  <data key="d11">7439.966300895033</data>
+  <data key="d12">7439.966300895033</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MAD" target="VCP">
+  <data key="d11">8375.459126141614</data>
+  <data key="d12">8375.459126141614</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MAD" target="CNF">
+  <data key="d11">7883.113020192387</data>
+  <data key="d12">7883.113020192387</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MBZ" target="BSB">
+  <data key="d11">1756.3690408710213</data>
+  <data key="d12">1756.3690408710213</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MEU" target="FOR">
+  <data key="d11">1594.7565640209334</data>
+  <data key="d12">1594.7565640209334</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MII" target="VCP">
+  <data key="d11">300.2404504957646</data>
+  <data key="d12">300.2404504957646</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="MNX" target="BSB">
+  <data key="d11">1837.373348787845</data>
+  <data key="d12">1837.373348787845</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="OAL" target="BSB">
+  <data key="d11">1546.5771225045619</data>
+  <data key="d12">1546.5771225045619</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="OIA" target="BSB">
+  <data key="d11">1068.7561214689993</data>
+  <data key="d12">1068.7561214689993</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="OPP" target="FOR">
+  <data key="d11">1035.6584604019276</data>
+  <data key="d12">1035.6584604019276</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ORY" target="VCP">
+  <data key="d11">9367.132321798914</data>
+  <data key="d12">9367.132321798914</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ORY" target="CNF">
+  <data key="d11">8878.705860224578</data>
+  <data key="d12">8878.705860224578</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PDP" target="VCP">
+  <data key="d11">1523.7271507976204</data>
+  <data key="d12">1523.7271507976204</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PDP" target="POA">
+  <data key="d11">650.328357313397</data>
+  <data key="d12">650.328357313397</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PIN" target="BSB">
+  <data key="d11">1759.5147064941286</data>
+  <data key="d12">1759.5147064941286</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PMG" target="CWB">
+  <data key="d11">740.6531313344576</data>
+  <data key="d12">740.6531313344576</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="POJ" target="CNF">
+  <data key="d11">285.7743420170145</data>
+  <data key="d12">285.7743420170145</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PTO" target="CWB">
+  <data key="d11">360.0657833499208</data>
+  <data key="d12">360.0657833499208</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PTQ" target="FOR">
+  <data key="d11">1537.857647131344</data>
+  <data key="d12">1537.857647131344</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="PYT" target="BSB">
+  <data key="d11">187.7806874299226</data>
+  <data key="d12">187.7806874299226</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="QGP" target="REC">
+  <data key="d11">187.6705705188688</data>
+  <data key="d12">187.6705705188688</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="RBB" target="BSB">
+  <data key="d11">1804.816725388298</data>
+  <data key="d12">1804.816725388298</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="RIA" target="POA">
+  <data key="d11">245.07889503049321</data>
+  <data key="d12">245.07889503049321</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="ROO" target="BSB">
+  <data key="d11">729.4462528390588</data>
+  <data key="d12">729.4462528390588</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="RRJ" target="GIG">
+  <data key="d11">22.651279767258245</data>
+  <data key="d12">22.651279767258245</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SET" target="VCP">
+  <data key="d11">5992.094107737703</data>
+  <data key="d12">5992.094107737703</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SJL" target="BSB">
+  <data key="d11">2727.176394108282</data>
+  <data key="d12">2727.176394108282</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="SMT" target="VCP">
+  <data key="d11">18795.035300619216</data>
+  <data key="d12">18795.035300619216</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="TBT" target="BSB">
+  <data key="d11">2732.034462127961</data>
+  <data key="d12">2732.034462127961</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="TEC" target="CWB">
+  <data key="d11">200.91196910185215</data>
+  <data key="d12">200.91196910185215</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="TFF" target="BSB">
+  <data key="d11">2304.4743311095503</data>
+  <data key="d12">2304.4743311095503</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="TFL" target="CNF">
+  <data key="d11">326.9145725476033</data>
+  <data key="d12">326.9145725476033</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="TMT" target="BSB">
+  <data key="d11">1764.7570915326805</data>
+  <data key="d12">1764.7570915326805</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="TUR" target="FOR">
+  <data key="d11">1241.9217568274616</data>
+  <data key="d12">1241.9217568274616</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="UBA" target="VCP">
+  <data key="d11">368.93431751548064</data>
+  <data key="d12">368.93431751548064</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="UDI" target="BSB">
+  <data key="d11">338.45083276367313</data>
+  <data key="d12">338.45083276367313</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="UMU" target="CWB">
+  <data key="d11">460.3011812385877</data>
+  <data key="d12">460.3011812385877</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="UNA" target="SSA">
+  <data key="d11">280.80283553258255</data>
+  <data key="d12">280.80283553258255</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="URG" target="POA">
+  <data key="d11">566.4196791034547</data>
+  <data key="d12">566.4196791034547</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="UVI" target="CWB">
+  <data key="d11">204.66407856694167</data>
+  <data key="d12">204.66407856694167</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VAG" target="GRU">
+  <data key="d11">235.9103871788479</data>
+  <data key="d12">235.9103871788479</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VDC" target="SSA">
+  <data key="d11">348.75333615856925</data>
+  <data key="d12">348.75333615856925</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+<edge source="VIX" target="CNF">
+  <data key="d11">391.5478778324894</data>
+  <data key="d12">391.5478778324894</data>
+  <data key="d13">Azul</data>
+  <data key="d14">False</data>
+</edge>
+</graph></graphml>
