@@ -1,0 +1,56 @@
+{
+  "execution_date": "2025-06-26T05:31:04.232825",
+  "total_airports": 145,
+  "total_routes": 944,
+  "gol_routes": 458,
+  "azul_routes": 486,
+  "shared_airports": 64,
+  "codeshare_opportunities": 9265,
+  "algorithm_performance": {
+    "total_pairs": 21025,
+    "valid_paths": 17857,
+    "execution_time_seconds": "calculated_above"
+  },
+  "top_hubs": [
+    {
+      "airport": "GRU",
+      "centrality": 0.8541666666666666
+    },
+    {
+      "airport": "VCP",
+      "centrality": 0.7916666666666666
+    },
+    {
+      "airport": "CNF",
+      "centrality": 0.5208333333333333
+    },
+    {
+      "airport": "BSB",
+      "centrality": 0.5
+    },
+    {
+      "airport": "GIG",
+      "centrality": 0.4097222222222222
+    },
+    {
+      "airport": "CGH",
+      "centrality": 0.40277777777777773
+    },
+    {
+      "airport": "REC",
+      "centrality": 0.35416666666666663
+    },
+    {
+      "airport": "SSA",
+      "centrality": 0.34027777777777773
+    },
+    {
+      "airport": "POA",
+      "centrality": 0.3263888888888889
+    },
+    {
+      "airport": "CGB",
+      "centrality": 0.2847222222222222
+    }
+  ]
+}

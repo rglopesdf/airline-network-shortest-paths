@@ -1,0 +1,945 @@
+Airline_ID,Airline_Name,Departure,Destination,Departure_Name,Destination_Name,Departure_Lat,Departure_Lon,Destination_Lat,Destination_Lon,Distance_km,Is_Domestic
+G3,Gol,AEP,GRU,Jorge Newbery Airpark,Guarulhos - Governador Andr� Franco Montoro International Airport,-34.5592,-58.4156,-23.43555641,-46.47305679,1693.9972672665683,False
+G3,Gol,AJU,GIG,Santa Maria Airport,Rio Gale�o � Tom Jobim International Airport,-10.98400021,-37.07030106,-22.80999947,-43.25055695,1469.5472166635286,True
+G3,Gol,AJU,GRU,Santa Maria Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-10.98400021,-37.07030106,-23.43555641,-46.47305679,1705.6297989403804,True
+G3,Gol,AJU,SSA,Santa Maria Airport,Deputado Luiz Eduardo Magalh�es International Airport,-10.98400021,-37.07030106,-12.9086113,-38.32249832,253.6799440841737,True
+G3,Gol,ASU,GRU,Silvio Pettirossi International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-25.23999977,-57.52000046,-23.43555641,-46.47305679,1136.6803781926833,False
+G3,Gol,AUA,CCS,Queen Beatrix International Airport,Sim�n Bol�var International Airport,12.5014,-70.015198,10.601194,-66.991222,391.36115422614273,False
+G3,Gol,BEL,BSB,Val de Cans/J�lio Cezar Ribeiro International Airport,Presidente Juscelino Kubistschek International Airport,-1.37925005,-48.47629929,-15.86916733,-47.92083359,1612.3555242914354,True
+G3,Gol,BEL,FOR,Val de Cans/J�lio Cezar Ribeiro International Airport,Pinto Martins International Airport,-1.37925005,-48.47629929,-3.776279926,-38.5326004,1136.191822278624,True
+G3,Gol,BEL,GIG,Val de Cans/J�lio Cezar Ribeiro International Airport,Rio Gale�o � Tom Jobim International Airport,-1.37925005,-48.47629929,-22.80999947,-43.25055695,2448.9105009378204,True
+G3,Gol,BEL,GRU,Val de Cans/J�lio Cezar Ribeiro International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-1.37925005,-48.47629929,-23.43555641,-46.47305679,2462.0425363292793,True
+G3,Gol,BEL,MAB,Val de Cans/J�lio Cezar Ribeiro International Airport,Jo�o Correa da Rocha Airport,-1.37925005,-48.47629929,-5.368589878,-49.13800049,449.6317256546013,False
+G3,Gol,BEL,MAO,Val de Cans/J�lio Cezar Ribeiro International Airport,Eduardo Gomes International Airport,-1.37925005,-48.47629929,-3.038609982,-60.04970169,1299.0692327724514,True
+G3,Gol,BEL,MCP,Val de Cans/J�lio Cezar Ribeiro International Airport,Alberto Alcolumbre Airport,-1.37925005,-48.47629929,0.050664,-51.07220078,329.5218625777312,False
+G3,Gol,BEL,SLZ,Val de Cans/J�lio Cezar Ribeiro International Airport,Marechal Cunha Machado International Airport,-1.37925005,-48.47629929,-2.58536005,-44.23410034,490.1255449163156,False
+G3,Gol,BEL,STM,Val de Cans/J�lio Cezar Ribeiro International Airport,Maestro Wilson Fonseca Airport,-1.37925005,-48.47629929,-2.424721956,-54.78583145,710.7626553044258,False
+G3,Gol,BGI,GRU,Sir Grantley Adams International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,13.07460022,-59.49250031,-23.43555641,-46.47305679,4299.710044050309,False
+G3,Gol,BPS,CNF,Porto Seguro Airport,Tancredo Neves International Airport,-16.438601,-39.080898,-19.62444305,-43.9719429,626.7605766374691,False
+G3,Gol,BPS,GRU,Porto Seguro Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-16.438601,-39.080898,-23.43555641,-46.47305679,1096.02446909689,False
+G3,Gol,BPS,SSA,Porto Seguro Airport,Deputado Luiz Eduardo Magalh�es International Airport,-16.438601,-39.080898,-12.9086113,-38.32249832,400.9018086766176,False
+G3,Gol,BSB,BEL,Presidente Juscelino Kubistschek International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-15.86916733,-47.92083359,-1.37925005,-48.47629929,1612.3555242914354,True
+G3,Gol,BSB,CGB,Presidente Juscelino Kubistschek International Airport,Marechal Rondon Airport,-15.86916733,-47.92083359,-15.65289974,-56.11669922,877.3487427402782,True
+G3,Gol,BSB,CGH,Presidente Juscelino Kubistschek International Airport,Congonhas Airport,-15.86916733,-47.92083359,-23.62611008,-46.65638733,872.6035795314035,True
+G3,Gol,BSB,CGR,Presidente Juscelino Kubistschek International Airport,Campo Grande Airport,-15.86916733,-47.92083359,-20.46870041,-54.67250061,877.4859243908209,True
+G3,Gol,BSB,CNF,Presidente Juscelino Kubistschek International Airport,Tancredo Neves International Airport,-15.86916733,-47.92083359,-19.62444305,-43.9719429,590.9032720427032,True
+G3,Gol,BSB,CWB,Presidente Juscelino Kubistschek International Airport,Afonso Pena Airport,-15.86916733,-47.92083359,-25.5284996,-49.17580032,1081.9455400375746,True
+G3,Gol,BSB,FOR,Presidente Juscelino Kubistschek International Airport,Pinto Martins International Airport,-15.86916733,-47.92083359,-3.776279926,-38.5326004,1691.6957616202426,True
+G3,Gol,BSB,GIG,Presidente Juscelino Kubistschek International Airport,Rio Gale�o � Tom Jobim International Airport,-15.86916733,-47.92083359,-22.80999947,-43.25055695,913.9710186090348,True
+G3,Gol,BSB,GRU,Presidente Juscelino Kubistschek International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-15.86916733,-47.92083359,-23.43555641,-46.47305679,854.8675497783695,True
+G3,Gol,BSB,GYN,Presidente Juscelino Kubistschek International Airport,Santa Genoveva Airport,-15.86916733,-47.92083359,-16.63199997,-49.22069931,162.6342899501666,False
+G3,Gol,BSB,IMP,Presidente Juscelino Kubistschek International Airport,Prefeito Renato Moreira Airport,-15.86916733,-47.92083359,-5.53129,-47.459999,1150.6184234387,False
+G3,Gol,BSB,JPA,Presidente Juscelino Kubistschek International Airport,Presidente Castro Pinto International Airport,-15.86916733,-47.92083359,-7.145833015,-34.94861221,1712.9026192187291,True
+G3,Gol,BSB,MAB,Presidente Juscelino Kubistschek International Airport,Jo�o Correa da Rocha Airport,-15.86916733,-47.92083359,-5.368589878,-49.13800049,1175.1409010667264,False
+G3,Gol,BSB,MAO,Presidente Juscelino Kubistschek International Airport,Eduardo Gomes International Airport,-15.86916733,-47.92083359,-3.038609982,-60.04970169,1948.6099757232164,True
+G3,Gol,BSB,MCZ,Presidente Juscelino Kubistschek International Airport,Zumbi dos Palmares Airport,-15.86916733,-47.92083359,-9.510809898,-35.79169846,1492.8890909948736,True
+G3,Gol,BSB,NAT,Presidente Juscelino Kubistschek International Airport,Governador Alu�zio Alves International Airport,-15.86916733,-47.92083359,-5.768056,-35.376111,1770.0598931071872,True
+G3,Gol,BSB,PMW,Presidente Juscelino Kubistschek International Airport,Brigadeiro Lysias Rodrigues Airport,-15.86916733,-47.92083359,-10.29150009,-48.35699844,622.0032093595562,False
+G3,Gol,BSB,POA,Presidente Juscelino Kubistschek International Airport,Salgado Filho Airport,-15.86916733,-47.92083359,-29.99440002,-51.17139816,1605.2710446787844,True
+G3,Gol,BSB,PVH,Presidente Juscelino Kubistschek International Airport,Governador Jorge Teixeira de Oliveira Airport,-15.86916733,-47.92083359,-8.709289551,-63.90230179,1908.7506673067412,True
+G3,Gol,BSB,RBR,Presidente Juscelino Kubistschek International Airport,Pl�cido de Castro Airport,-15.86916733,-47.92083359,-9.868888855,-67.89805603,2264.396294147127,True
+G3,Gol,BSB,REC,Presidente Juscelino Kubistschek International Airport,Guararapes - Gilberto Freyre International Airport,-15.86916733,-47.92083359,-8.126489639,-34.92359924,1654.0321464973456,True
+G3,Gol,BSB,SDU,Presidente Juscelino Kubistschek International Airport,Santos Dumont Airport,-15.86916733,-47.92083359,-22.91049957,-43.1631012,928.2303734842703,True
+G3,Gol,BSB,SLZ,Presidente Juscelino Kubistschek International Airport,Marechal Cunha Machado International Airport,-15.86916733,-47.92083359,-2.58536005,-44.23410034,1531.254846500338,False
+G3,Gol,BSB,SSA,Presidente Juscelino Kubistschek International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-15.86916733,-47.92083359,-12.9086113,-38.32249832,1084.7528931006616,True
+G3,Gol,BSB,THE,Presidente Juscelino Kubistschek International Airport,Senador Petr�nio Portela Airport,-15.86916733,-47.92083359,-5.059939861,-42.82350159,1324.491150219611,True
+G3,Gol,BSB,VCP,Presidente Juscelino Kubistschek International Airport,Viracopos International Airport,-15.86916733,-47.92083359,-23.00740051,-47.1344986,797.9988021718684,True
+G3,Gol,BVB,MAO,Atlas Brasil Cantanhede Airport,Eduardo Gomes International Airport,2.841388941,-60.6922226,-3.038609982,-60.04970169,657.7145305753776,True
+G3,Gol,CCS,AUA,Sim�n Bol�var International Airport,Queen Beatrix International Airport,10.601194,-66.991222,12.5014,-70.015198,391.36115422614273,False
+G3,Gol,CCS,GRU,Sim�n Bol�var International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,10.601194,-66.991222,-23.43555641,-46.47305679,4393.7825085948725,False
+G3,Gol,CCS,PUJ,Sim�n Bol�var International Airport,Punta Cana International Airport,10.601194,-66.991222,18.56739998,-68.36340332,898.0015087324277,False
+G3,Gol,CGB,BSB,Marechal Rondon Airport,Presidente Juscelino Kubistschek International Airport,-15.65289974,-56.11669922,-15.86916733,-47.92083359,877.3487427402782,True
+G3,Gol,CGB,CGH,Marechal Rondon Airport,Congonhas Airport,-15.65289974,-56.11669922,-23.62611008,-46.65638733,1328.5904331899553,True
+G3,Gol,CGB,CGR,Marechal Rondon Airport,Campo Grande Airport,-15.65289974,-56.11669922,-20.46870041,-54.67250061,556.8157585902655,True
+G3,Gol,CGB,GIG,Marechal Rondon Airport,Rio Gale�o � Tom Jobim International Airport,-15.65289974,-56.11669922,-22.80999947,-43.25055695,1566.5144293122191,True
+G3,Gol,CGB,GRU,Marechal Rondon Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-15.65289974,-56.11669922,-23.43555641,-46.47305679,1329.5332204425008,True
+G3,Gol,CGB,PVH,Marechal Rondon Airport,Governador Jorge Teixeira de Oliveira Airport,-15.65289974,-56.11669922,-8.709289551,-63.90230179,1145.069012788158,True
+G3,Gol,CGH,BSB,Congonhas Airport,Presidente Juscelino Kubistschek International Airport,-23.62611008,-46.65638733,-15.86916733,-47.92083359,872.6035795314035,True
+G3,Gol,CGH,CGB,Congonhas Airport,Marechal Rondon Airport,-23.62611008,-46.65638733,-15.65289974,-56.11669922,1328.5904331899553,True
+G3,Gol,CGH,CGR,Congonhas Airport,Campo Grande Airport,-23.62611008,-46.65638733,-20.46870041,-54.67250061,897.4432163164427,True
+G3,Gol,CGH,CLV,Congonhas Airport,Nelson Ribeiro Guimar�es Airport,-23.62611008,-46.65638733,-17.72529984,-48.60749817,686.7812537723623,False
+G3,Gol,CGH,CNF,Congonhas Airport,Tancredo Neves International Airport,-23.62611008,-46.65638733,-19.62444305,-43.9719429,524.3517493285782,True
+G3,Gol,CGH,CWB,Congonhas Airport,Afonso Pena Airport,-23.62611008,-46.65638733,-25.5284996,-49.17580032,331.12110524686204,True
+G3,Gol,CGH,CXJ,Congonhas Airport,Hugo Cantergiani Regional Airport,-23.62611008,-46.65638733,-29.19709969,-51.1875,766.1993937173319,False
+G3,Gol,CGH,FLN,Congonhas Airport,Herc�lio Luz International Airport,-23.62611008,-46.65638733,-27.67027855,-48.55250168,488.18069534582213,True
+G3,Gol,CGH,GIG,Congonhas Airport,Rio Gale�o � Tom Jobim International Airport,-23.62611008,-46.65638733,-22.80999947,-43.25055695,359.66370985986003,True
+G3,Gol,CGH,GYN,Congonhas Airport,Santa Genoveva Airport,-23.62611008,-46.65638733,-16.63199997,-49.22069931,822.4238357811156,False
+G3,Gol,CGH,JOI,Congonhas Airport,Lauro Carneiro de Loyola Airport,-23.62611008,-46.65638733,-26.22450066,-48.79740143,360.66061554068983,False
+G3,Gol,CGH,JTC,Congonhas Airport,Bauru - Arealva Airport,-23.62611008,-46.65638733,-22.16685914,-49.05028667,294.0295923128717,False
+G3,Gol,CGH,LDB,Congonhas Airport,Governador Jos� Richa Airport,-23.62611008,-46.65638733,-23.33359909,-51.13010025,457.4038081355602,False
+G3,Gol,CGH,MGF,Congonhas Airport,Regional de Maring� - S�lvio Nane Junior Airport,-23.62611008,-46.65638733,-23.4794445,-52.01222229,546.1400738650497,False
+G3,Gol,CGH,NVT,Congonhas Airport,Ministro Victor Konder International Airport,-23.62611008,-46.65638733,-26.879999,-48.651402,413.69854121877336,False
+G3,Gol,CGH,POA,Congonhas Airport,Salgado Filho Airport,-23.62611008,-46.65638733,-29.99440002,-51.17139816,837.7495680979364,True
+G3,Gol,CGH,PPB,Congonhas Airport,Presidente Prudente Airport,-23.62611008,-46.65638733,-22.17510033,-51.42459869,514.3318108323048,False
+G3,Gol,CGH,SDU,Congonhas Airport,Santos Dumont Airport,-23.62611008,-46.65638733,-22.91049957,-43.1631012,365.5946365783402,True
+G3,Gol,CGH,SSA,Congonhas Airport,Deputado Luiz Eduardo Magalh�es International Airport,-23.62611008,-46.65638733,-12.9086113,-38.32249832,1480.3588966815903,True
+G3,Gol,CGH,UDI,Congonhas Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-23.62611008,-46.65638733,-18.883612,-48.225277,551.8163410529019,False
+G3,Gol,CGH,VIX,Congonhas Airport,Eurico de Aguiar Salles Airport,-23.62611008,-46.65638733,-20.258057,-40.286388,756.0845938711644,False
+G3,Gol,CGR,BSB,Campo Grande Airport,Presidente Juscelino Kubistschek International Airport,-20.46870041,-54.67250061,-15.86916733,-47.92083359,877.4859243908209,True
+G3,Gol,CGR,CGB,Campo Grande Airport,Marechal Rondon Airport,-20.46870041,-54.67250061,-15.65289974,-56.11669922,556.8157585902655,True
+G3,Gol,CGR,CGH,Campo Grande Airport,Congonhas Airport,-20.46870041,-54.67250061,-23.62611008,-46.65638733,897.4432163164427,True
+G3,Gol,CGR,GIG,Campo Grande Airport,Rio Gale�o � Tom Jobim International Airport,-20.46870041,-54.67250061,-22.80999947,-43.25055695,1208.5388439958085,True
+G3,Gol,CGR,GRU,Campo Grande Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-20.46870041,-54.67250061,-23.43555641,-46.47305679,907.4796116340016,True
+G3,Gol,CGR,MGF,Campo Grande Airport,Regional de Maring� - S�lvio Nane Junior Airport,-20.46870041,-54.67250061,-23.4794445,-52.01222229,432.78286777512426,False
+G3,Gol,CLV,CGH,Nelson Ribeiro Guimar�es Airport,Congonhas Airport,-17.72529984,-48.60749817,-23.62611008,-46.65638733,686.7812537723623,False
+G3,Gol,CNF,BPS,Tancredo Neves International Airport,Porto Seguro Airport,-19.62444305,-43.9719429,-16.438601,-39.080898,626.7605766374691,False
+G3,Gol,CNF,BSB,Tancredo Neves International Airport,Presidente Juscelino Kubistschek International Airport,-19.62444305,-43.9719429,-15.86916733,-47.92083359,590.9032720427032,True
+G3,Gol,CNF,CGH,Tancredo Neves International Airport,Congonhas Airport,-19.62444305,-43.9719429,-23.62611008,-46.65638733,524.3517493285782,True
+G3,Gol,CNF,GIG,Tancredo Neves International Airport,Rio Gale�o � Tom Jobim International Airport,-19.62444305,-43.9719429,-22.80999947,-43.25055695,362.0216910774585,True
+G3,Gol,CNF,GRU,Tancredo Neves International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-19.62444305,-43.9719429,-23.43555641,-46.47305679,496.4652199750041,True
+G3,Gol,CNF,GYN,Tancredo Neves International Airport,Santa Genoveva Airport,-19.62444305,-43.9719429,-16.63199997,-49.22069931,646.7293176195027,False
+G3,Gol,CNF,IOS,Tancredo Neves International Airport,Bahia - Jorge Amado Airport,-19.62444305,-43.9719429,-14.81599998,-39.03319931,748.8675944348071,True
+G3,Gol,CNF,MOC,Tancredo Neves International Airport,M�rio Ribeiro Airport,-19.62444305,-43.9719429,-16.70689964,-43.81890106,324.8186099157868,False
+G3,Gol,CNF,REC,Tancredo Neves International Airport,Guararapes - Gilberto Freyre International Airport,-19.62444305,-43.9719429,-8.126489639,-34.92359924,1607.7220328616143,True
+G3,Gol,CNF,SDU,Tancredo Neves International Airport,Santos Dumont Airport,-19.62444305,-43.9719429,-22.91049957,-43.1631012,374.8784847118262,True
+G3,Gol,CNF,SSA,Tancredo Neves International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-19.62444305,-43.9719429,-12.9086113,-38.32249832,959.5698351953182,True
+G3,Gol,CNF,UDI,Tancredo Neves International Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-19.62444305,-43.9719429,-18.883612,-48.225277,454.01551347438834,False
+G3,Gol,CNF,VCP,Tancredo Neves International Airport,Viracopos International Airport,-19.62444305,-43.9719429,-23.00740051,-47.1344986,498.7754467547607,True
+G3,Gol,CNF,VIX,Tancredo Neves International Airport,Eurico de Aguiar Salles Airport,-19.62444305,-43.9719429,-20.258057,-40.286388,391.6228668703334,False
+G3,Gol,COR,GRU,Ingeniero Ambrosio Taravella Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-31.323601,-64.208,-23.43555641,-46.47305679,1954.940057953887,False
+G3,Gol,CPV,SSA,Presidente Jo�o Suassuna Airport,Deputado Luiz Eduardo Magalh�es International Airport,-7.26992,-35.8964,-12.9086113,-38.32249832,680.8825013917563,False
+G3,Gol,CWB,BSB,Afonso Pena Airport,Presidente Juscelino Kubistschek International Airport,-25.5284996,-49.17580032,-15.86916733,-47.92083359,1081.9455400375746,True
+G3,Gol,CWB,CGH,Afonso Pena Airport,Congonhas Airport,-25.5284996,-49.17580032,-23.62611008,-46.65638733,331.12110524686204,True
+G3,Gol,CWB,EZE,Afonso Pena Airport,Ministro Pistarini International Airport,-25.5284996,-49.17580032,-34.8222,-58.5358,1368.7410499730493,False
+G3,Gol,CWB,GIG,Afonso Pena Airport,Rio Gale�o � Tom Jobim International Airport,-25.5284996,-49.17580032,-22.80999947,-43.25055695,672.7076550247898,True
+G3,Gol,CWB,GRU,Afonso Pena Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-25.5284996,-49.17580032,-23.43555641,-46.47305679,359.10047571296775,True
+G3,Gol,CWB,IGU,Afonso Pena Airport,Cataratas International Airport,-25.5284996,-49.17580032,-25.60027885,-54.48500061,532.5850520319774,False
+G3,Gol,CWB,LDB,Afonso Pena Airport,Governador Jos� Richa Airport,-25.5284996,-49.17580032,-23.33359909,-51.13010025,314.1695982463111,False
+G3,Gol,CWB,MGF,Afonso Pena Airport,Regional de Maring� - S�lvio Nane Junior Airport,-25.5284996,-49.17580032,-23.4794445,-52.01222229,366.4131221460486,False
+G3,Gol,CWB,POA,Afonso Pena Airport,Salgado Filho Airport,-25.5284996,-49.17580032,-29.99440002,-51.17139816,533.9636266400217,True
+G3,Gol,CWB,VCP,Afonso Pena Airport,Viracopos International Airport,-25.5284996,-49.17580032,-23.00740051,-47.1344986,348.41466908810753,True
+G3,Gol,CXJ,CGH,Hugo Cantergiani Regional Airport,Congonhas Airport,-29.19709969,-51.1875,-23.62611008,-46.65638733,766.1993937173319,False
+G3,Gol,CZS,RBR,Cruzeiro do Sul Airport,Pl�cido de Castro Airport,-7.599909782,-72.76950073,-9.868888855,-67.89805603,591.8291107386378,False
+G3,Gol,DTW,GRU,Detroit Metropolitan Wayne County Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,42.21239853,-83.35340118,-23.43555641,-46.47305679,8223.663940930004,False
+G3,Gol,EZE,CWB,Ministro Pistarini International Airport,Afonso Pena Airport,-34.8222,-58.5358,-25.5284996,-49.17580032,1368.7410499730493,False
+G3,Gol,EZE,FLN,Ministro Pistarini International Airport,Herc�lio Luz International Airport,-34.8222,-58.5358,-27.67027855,-48.55250168,1236.9669202959858,False
+G3,Gol,EZE,FOR,Ministro Pistarini International Airport,Pinto Martins International Airport,-34.8222,-58.5358,-3.776279926,-38.5326004,4021.179580456793,False
+G3,Gol,EZE,GIG,Ministro Pistarini International Airport,Rio Gale�o � Tom Jobim International Airport,-34.8222,-58.5358,-22.80999947,-43.25055695,1995.7731423126775,False
+G3,Gol,EZE,GRU,Ministro Pistarini International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-34.8222,-58.5358,-23.43555641,-46.47305679,1722.1992253892101,False
+G3,Gol,EZE,POA,Ministro Pistarini International Airport,Salgado Filho Airport,-34.8222,-58.5358,-29.99440002,-51.17139816,874.828093423322,False
+G3,Gol,FEN,REC,Fernando de Noronha Airport,Guararapes - Gilberto Freyre International Airport,-3.85493,-32.423302,-8.126489639,-34.92359924,549.5622252962162,False
+G3,Gol,FLN,CGH,Herc�lio Luz International Airport,Congonhas Airport,-27.67027855,-48.55250168,-23.62611008,-46.65638733,488.18069534582213,True
+G3,Gol,FLN,EZE,Herc�lio Luz International Airport,Ministro Pistarini International Airport,-27.67027855,-48.55250168,-34.8222,-58.5358,1236.9669202959858,False
+G3,Gol,FLN,GIG,Herc�lio Luz International Airport,Rio Gale�o � Tom Jobim International Airport,-27.67027855,-48.55250168,-22.80999947,-43.25055695,759.0277322983144,True
+G3,Gol,FLN,GRU,Herc�lio Luz International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-27.67027855,-48.55250168,-23.43555641,-46.47305679,514.9856745349628,True
+G3,Gol,FLN,POA,Herc�lio Luz International Airport,Salgado Filho Airport,-27.67027855,-48.55250168,-29.99440002,-51.17139816,363.10728340053413,True
+G3,Gol,FLN,XAP,Herc�lio Luz International Airport,Serafin Enoss Bertaso Airport,-27.67027855,-48.55250168,-27.13419914,-52.65660095,409.491641946421,False
+G3,Gol,FOR,BEL,Pinto Martins International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-3.776279926,-38.5326004,-1.37925005,-48.47629929,1136.191822278624,True
+G3,Gol,FOR,BSB,Pinto Martins International Airport,Presidente Juscelino Kubistschek International Airport,-3.776279926,-38.5326004,-15.86916733,-47.92083359,1691.6957616202426,True
+G3,Gol,FOR,EZE,Pinto Martins International Airport,Ministro Pistarini International Airport,-3.776279926,-38.5326004,-34.8222,-58.5358,4021.179580456793,False
+G3,Gol,FOR,GIG,Pinto Martins International Airport,Rio Gale�o � Tom Jobim International Airport,-3.776279926,-38.5326004,-22.80999947,-43.25055695,2176.517061771464,True
+G3,Gol,FOR,GRU,Pinto Martins International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-3.776279926,-38.5326004,-23.43555641,-46.47305679,2346.5924924216756,True
+G3,Gol,FOR,NAT,Pinto Martins International Airport,Governador Alu�zio Alves International Airport,-3.776279926,-38.5326004,-5.768056,-35.376111,413.9768406130197,True
+G3,Gol,FOR,REC,Pinto Martins International Airport,Guararapes - Gilberto Freyre International Airport,-3.776279926,-38.5326004,-8.126489639,-34.92359924,627.0718715431292,True
+G3,Gol,FOR,SLZ,Pinto Martins International Airport,Marechal Cunha Machado International Airport,-3.776279926,-38.5326004,-2.58536005,-44.23410034,646.6924046382641,False
+G3,Gol,FOR,SSA,Pinto Martins International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-3.776279926,-38.5326004,-12.9086113,-38.32249832,1015.7313739105067,True
+G3,Gol,FOR,THE,Pinto Martins International Airport,Senador Petr�nio Portela Airport,-3.776279926,-38.5326004,-5.059939861,-42.82350159,496.65092968857795,True
+G3,Gol,GIG,AJU,Rio Gale�o � Tom Jobim International Airport,Santa Maria Airport,-22.80999947,-43.25055695,-10.98400021,-37.07030106,1469.5472166635286,True
+G3,Gol,GIG,BEL,Rio Gale�o � Tom Jobim International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-22.80999947,-43.25055695,-1.37925005,-48.47629929,2448.9105009378204,True
+G3,Gol,GIG,BSB,Rio Gale�o � Tom Jobim International Airport,Presidente Juscelino Kubistschek International Airport,-22.80999947,-43.25055695,-15.86916733,-47.92083359,913.9710186090348,True
+G3,Gol,GIG,CGB,Rio Gale�o � Tom Jobim International Airport,Marechal Rondon Airport,-22.80999947,-43.25055695,-15.65289974,-56.11669922,1566.5144293122191,True
+G3,Gol,GIG,CGH,Rio Gale�o � Tom Jobim International Airport,Congonhas Airport,-22.80999947,-43.25055695,-23.62611008,-46.65638733,359.66370985986003,True
+G3,Gol,GIG,CGR,Rio Gale�o � Tom Jobim International Airport,Campo Grande Airport,-22.80999947,-43.25055695,-20.46870041,-54.67250061,1208.5388439958085,True
+G3,Gol,GIG,CNF,Rio Gale�o � Tom Jobim International Airport,Tancredo Neves International Airport,-22.80999947,-43.25055695,-19.62444305,-43.9719429,362.0216910774585,True
+G3,Gol,GIG,CWB,Rio Gale�o � Tom Jobim International Airport,Afonso Pena Airport,-22.80999947,-43.25055695,-25.5284996,-49.17580032,672.7076550247898,True
+G3,Gol,GIG,EZE,Rio Gale�o � Tom Jobim International Airport,Ministro Pistarini International Airport,-22.80999947,-43.25055695,-34.8222,-58.5358,1995.7731423126775,False
+G3,Gol,GIG,FLN,Rio Gale�o � Tom Jobim International Airport,Herc�lio Luz International Airport,-22.80999947,-43.25055695,-27.67027855,-48.55250168,759.0277322983144,True
+G3,Gol,GIG,FOR,Rio Gale�o � Tom Jobim International Airport,Pinto Martins International Airport,-22.80999947,-43.25055695,-3.776279926,-38.5326004,2176.517061771464,True
+G3,Gol,GIG,GRU,Rio Gale�o � Tom Jobim International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-22.80999947,-43.25055695,-23.43555641,-46.47305679,336.7918546019851,True
+G3,Gol,GIG,GYN,Rio Gale�o � Tom Jobim International Airport,Santa Genoveva Airport,-22.80999947,-43.25055695,-16.63199997,-49.22069931,928.3685468290572,False
+G3,Gol,GIG,IGU,Rio Gale�o � Tom Jobim International Airport,Cataratas International Airport,-22.80999947,-43.25055695,-25.60027885,-54.48500061,1180.4033794957304,False
+G3,Gol,GIG,JPA,Rio Gale�o � Tom Jobim International Airport,Presidente Castro Pinto International Airport,-22.80999947,-43.25055695,-7.145833015,-34.94861221,1955.227171078071,True
+G3,Gol,GIG,MAO,Rio Gale�o � Tom Jobim International Airport,Eduardo Gomes International Airport,-22.80999947,-43.25055695,-3.038609982,-60.04970169,2847.565135081883,True
+G3,Gol,GIG,MCZ,Rio Gale�o � Tom Jobim International Airport,Zumbi dos Palmares Airport,-22.80999947,-43.25055695,-9.510809898,-35.79169846,1678.632930668184,True
+G3,Gol,GIG,NAT,Rio Gale�o � Tom Jobim International Airport,Governador Alu�zio Alves International Airport,-22.80999947,-43.25055695,-5.768056,-35.376111,2074.7244589809634,True
+G3,Gol,GIG,NVT,Rio Gale�o � Tom Jobim International Airport,Ministro Victor Konder International Airport,-22.80999947,-43.25055695,-26.879999,-48.651402,708.2060944794393,False
+G3,Gol,GIG,POA,Rio Gale�o � Tom Jobim International Airport,Salgado Filho Airport,-22.80999947,-43.25055695,-29.99440002,-51.17139816,1122.0170638509526,True
+G3,Gol,GIG,REC,Rio Gale�o � Tom Jobim International Airport,Guararapes - Gilberto Freyre International Airport,-22.80999947,-43.25055695,-8.126489639,-34.92359924,1859.2143854426683,True
+G3,Gol,GIG,SDQ,Rio Gale�o � Tom Jobim International Airport,Las Am�ricas International Airport,-22.80999947,-43.25055695,18.42970085,-69.66889954,5409.84735023621,False
+G3,Gol,GIG,SLZ,Rio Gale�o � Tom Jobim International Airport,Marechal Cunha Machado International Airport,-22.80999947,-43.25055695,-2.58536005,-44.23410034,2251.3763086391173,False
+G3,Gol,GIG,SSA,Rio Gale�o � Tom Jobim International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-22.80999947,-43.25055695,-12.9086113,-38.32249832,1217.9064847659731,True
+G3,Gol,GIG,VCP,Rio Gale�o � Tom Jobim International Airport,Viracopos International Airport,-22.80999947,-43.25055695,-23.00740051,-47.1344986,398.404339155782,True
+G3,Gol,GIG,VIX,Rio Gale�o � Tom Jobim International Airport,Eurico de Aguiar Salles Airport,-22.80999947,-43.25055695,-20.258057,-40.286388,417.72710782519937,False
+G3,Gol,GRU,AEP,Guarulhos - Governador Andr� Franco Montoro International Airport,Jorge Newbery Airpark,-23.43555641,-46.47305679,-34.5592,-58.4156,1693.9972672665683,False
+G3,Gol,GRU,AJU,Guarulhos - Governador Andr� Franco Montoro International Airport,Santa Maria Airport,-23.43555641,-46.47305679,-10.98400021,-37.07030106,1705.6297989403804,True
+G3,Gol,GRU,ASU,Guarulhos - Governador Andr� Franco Montoro International Airport,Silvio Pettirossi International Airport,-23.43555641,-46.47305679,-25.23999977,-57.52000046,1136.6803781926833,False
+G3,Gol,GRU,BEL,Guarulhos - Governador Andr� Franco Montoro International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-23.43555641,-46.47305679,-1.37925005,-48.47629929,2462.0425363292793,True
+G3,Gol,GRU,BGI,Guarulhos - Governador Andr� Franco Montoro International Airport,Sir Grantley Adams International Airport,-23.43555641,-46.47305679,13.07460022,-59.49250031,4299.710044050309,False
+G3,Gol,GRU,BPS,Guarulhos - Governador Andr� Franco Montoro International Airport,Porto Seguro Airport,-23.43555641,-46.47305679,-16.438601,-39.080898,1096.02446909689,False
+G3,Gol,GRU,BSB,Guarulhos - Governador Andr� Franco Montoro International Airport,Presidente Juscelino Kubistschek International Airport,-23.43555641,-46.47305679,-15.86916733,-47.92083359,854.8675497783695,True
+G3,Gol,GRU,CCS,Guarulhos - Governador Andr� Franco Montoro International Airport,Sim�n Bol�var International Airport,-23.43555641,-46.47305679,10.601194,-66.991222,4393.7825085948725,False
+G3,Gol,GRU,CGB,Guarulhos - Governador Andr� Franco Montoro International Airport,Marechal Rondon Airport,-23.43555641,-46.47305679,-15.65289974,-56.11669922,1329.5332204425008,True
+G3,Gol,GRU,CGR,Guarulhos - Governador Andr� Franco Montoro International Airport,Campo Grande Airport,-23.43555641,-46.47305679,-20.46870041,-54.67250061,907.4796116340016,True
+G3,Gol,GRU,CNF,Guarulhos - Governador Andr� Franco Montoro International Airport,Tancredo Neves International Airport,-23.43555641,-46.47305679,-19.62444305,-43.9719429,496.4652199750041,True
+G3,Gol,GRU,COR,Guarulhos - Governador Andr� Franco Montoro International Airport,Ingeniero Ambrosio Taravella Airport,-23.43555641,-46.47305679,-31.323601,-64.208,1954.940057953887,False
+G3,Gol,GRU,CWB,Guarulhos - Governador Andr� Franco Montoro International Airport,Afonso Pena Airport,-23.43555641,-46.47305679,-25.5284996,-49.17580032,359.10047571296775,True
+G3,Gol,GRU,DTW,Guarulhos - Governador Andr� Franco Montoro International Airport,Detroit Metropolitan Wayne County Airport,-23.43555641,-46.47305679,42.21239853,-83.35340118,8223.663940930004,False
+G3,Gol,GRU,EZE,Guarulhos - Governador Andr� Franco Montoro International Airport,Ministro Pistarini International Airport,-23.43555641,-46.47305679,-34.8222,-58.5358,1722.1992253892101,False
+G3,Gol,GRU,FLN,Guarulhos - Governador Andr� Franco Montoro International Airport,Herc�lio Luz International Airport,-23.43555641,-46.47305679,-27.67027855,-48.55250168,514.9856745349628,True
+G3,Gol,GRU,FOR,Guarulhos - Governador Andr� Franco Montoro International Airport,Pinto Martins International Airport,-23.43555641,-46.47305679,-3.776279926,-38.5326004,2346.5924924216756,True
+G3,Gol,GRU,GIG,Guarulhos - Governador Andr� Franco Montoro International Airport,Rio Gale�o � Tom Jobim International Airport,-23.43555641,-46.47305679,-22.80999947,-43.25055695,336.7918546019851,True
+G3,Gol,GRU,GYN,Guarulhos - Governador Andr� Franco Montoro International Airport,Santa Genoveva Airport,-23.43555641,-46.47305679,-16.63199997,-49.22069931,809.0592030534062,False
+G3,Gol,GRU,IGU,Guarulhos - Governador Andr� Franco Montoro International Airport,Cataratas International Airport,-23.43555641,-46.47305679,-25.60027885,-54.48500061,845.3587255290098,False
+G3,Gol,GRU,JFK,Guarulhos - Governador Andr� Franco Montoro International Airport,John F Kennedy International Airport,-23.43555641,-46.47305679,40.63980103,-73.77890015,7663.979346013989,False
+G3,Gol,GRU,JPA,Guarulhos - Governador Andr� Franco Montoro International Airport,Presidente Castro Pinto International Airport,-23.43555641,-46.47305679,-7.145833015,-34.94861221,2189.946926142159,True
+G3,Gol,GRU,LDB,Guarulhos - Governador Andr� Franco Montoro International Airport,Governador Jos� Richa Airport,-23.43555641,-46.47305679,-23.33359909,-51.13010025,475.41950857584885,False
+G3,Gol,GRU,MAO,Guarulhos - Governador Andr� Franco Montoro International Airport,Eduardo Gomes International Airport,-23.43555641,-46.47305679,-3.038609982,-60.04970169,2697.462881726065,True
+G3,Gol,GRU,MCZ,Guarulhos - Governador Andr� Franco Montoro International Airport,Zumbi dos Palmares Airport,-23.43555641,-46.47305679,-9.510809898,-35.79169846,1919.965937769972,True
+G3,Gol,GRU,MGF,Guarulhos - Governador Andr� Franco Montoro International Airport,Regional de Maring� - S�lvio Nane Junior Airport,-23.43555641,-46.47305679,-23.4794445,-52.01222229,565.010334210522,False
+G3,Gol,GRU,MVD,Guarulhos - Governador Andr� Franco Montoro International Airport,Carrasco International /General C L Berisso Airport,-23.43555641,-46.47305679,-34.838402,-56.0308,1569.5228699694612,False
+G3,Gol,GRU,NAT,Guarulhos - Governador Andr� Franco Montoro International Airport,Governador Alu�zio Alves International Airport,-23.43555641,-46.47305679,-5.768056,-35.376111,2295.9262035910347,True
+G3,Gol,GRU,NVT,Guarulhos - Governador Andr� Franco Montoro International Airport,Ministro Victor Konder International Airport,-23.43555641,-46.47305679,-26.879999,-48.651402,441.28822879764647,False
+G3,Gol,GRU,POA,Guarulhos - Governador Andr� Franco Montoro International Airport,Salgado Filho Airport,-23.43555641,-46.47305679,-29.99440002,-51.17139816,865.5779719954362,True
+G3,Gol,GRU,REC,Guarulhos - Governador Andr� Franco Montoro International Airport,Guararapes - Gilberto Freyre International Airport,-23.43555641,-46.47305679,-8.126489639,-34.92359924,2100.8097788331606,True
+G3,Gol,GRU,ROS,Guarulhos - Governador Andr� Franco Montoro International Airport,Islas Malvinas Airport,-23.43555641,-46.47305679,-32.9036,-60.785,1750.97781673901,False
+G3,Gol,GRU,SDQ,Guarulhos - Governador Andr� Franco Montoro International Airport,Las Am�ricas International Airport,-23.43555641,-46.47305679,18.42970085,-69.66889954,5292.446031179423,False
+G3,Gol,GRU,SDU,Guarulhos - Governador Andr� Franco Montoro International Airport,Santos Dumont Airport,-23.43555641,-46.47305679,-22.91049957,-43.1631012,343.3473657265558,True
+G3,Gol,GRU,SLZ,Guarulhos - Governador Andr� Franco Montoro International Airport,Marechal Cunha Machado International Airport,-23.43555641,-46.47305679,-2.58536005,-44.23410034,2330.928866285488,False
+G3,Gol,GRU,SSA,Guarulhos - Governador Andr� Franco Montoro International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-23.43555641,-46.47305679,-12.9086113,-38.32249832,1452.1620368852286,True
+G3,Gol,GRU,THE,Guarulhos - Governador Andr� Franco Montoro International Airport,Senador Petr�nio Portela Airport,-23.43555641,-46.47305679,-5.059939861,-42.82350159,2080.4066374198155,True
+G3,Gol,GRU,UDI,Guarulhos - Governador Andr� Franco Montoro International Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-23.43555641,-46.47305679,-18.883612,-48.225277,537.7555228744152,False
+G3,Gol,GRU,VIX,Guarulhos - Governador Andr� Franco Montoro International Airport,Eurico de Aguiar Salles Airport,-23.43555641,-46.47305679,-20.258057,-40.286388,729.6130887036134,False
+G3,Gol,GRU,VVI,Guarulhos - Governador Andr� Franco Montoro International Airport,Viru Viru International Airport,-23.43555641,-46.47305679,-17.6448,-63.135399,1848.9156818194303,False
+G3,Gol,GYN,BSB,Santa Genoveva Airport,Presidente Juscelino Kubistschek International Airport,-16.63199997,-49.22069931,-15.86916733,-47.92083359,162.6342899501666,False
+G3,Gol,GYN,CGH,Santa Genoveva Airport,Congonhas Airport,-16.63199997,-49.22069931,-23.62611008,-46.65638733,822.4238357811156,False
+G3,Gol,GYN,CNF,Santa Genoveva Airport,Tancredo Neves International Airport,-16.63199997,-49.22069931,-19.62444305,-43.9719429,646.7293176195027,False
+G3,Gol,GYN,GIG,Santa Genoveva Airport,Rio Gale�o � Tom Jobim International Airport,-16.63199997,-49.22069931,-22.80999947,-43.25055695,928.3685468290572,False
+G3,Gol,GYN,GRU,Santa Genoveva Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-16.63199997,-49.22069931,-23.43555641,-46.47305679,809.0592030534062,False
+G3,Gol,IGU,CWB,Cataratas International Airport,Afonso Pena Airport,-25.60027885,-54.48500061,-25.5284996,-49.17580032,532.5850520319774,False
+G3,Gol,IGU,GIG,Cataratas International Airport,Rio Gale�o � Tom Jobim International Airport,-25.60027885,-54.48500061,-22.80999947,-43.25055695,1180.4033794957304,False
+G3,Gol,IGU,GRU,Cataratas International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-25.60027885,-54.48500061,-23.43555641,-46.47305679,845.3587255290098,False
+G3,Gol,IMP,BSB,Prefeito Renato Moreira Airport,Presidente Juscelino Kubistschek International Airport,-5.53129,-47.459999,-15.86916733,-47.92083359,1150.6184234387,False
+G3,Gol,IMP,SLZ,Prefeito Renato Moreira Airport,Marechal Cunha Machado International Airport,-5.53129,-47.459999,-2.58536005,-44.23410034,485.0759824878667,False
+G3,Gol,IOS,CNF,Bahia - Jorge Amado Airport,Tancredo Neves International Airport,-14.81599998,-39.03319931,-19.62444305,-43.9719429,748.8675944348071,True
+G3,Gol,IOS,SSA,Bahia - Jorge Amado Airport,Deputado Luiz Eduardo Magalh�es International Airport,-14.81599998,-39.03319931,-12.9086113,-38.32249832,225.54160846614252,True
+G3,Gol,JDO,REC,Orlando Bezerra de Menezes Airport,Guararapes - Gilberto Freyre International Airport,-7.218959808,-39.27009964,-8.126489639,-34.92359924,489.48931778862857,False
+G3,Gol,JFK,GRU,John F Kennedy International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,40.63980103,-73.77890015,-23.43555641,-46.47305679,7663.979346013989,False
+G3,Gol,JOI,CGH,Lauro Carneiro de Loyola Airport,Congonhas Airport,-26.22450066,-48.79740143,-23.62611008,-46.65638733,360.66061554068983,False
+G3,Gol,JPA,BSB,Presidente Castro Pinto International Airport,Presidente Juscelino Kubistschek International Airport,-7.145833015,-34.94861221,-15.86916733,-47.92083359,1712.9026192187291,True
+G3,Gol,JPA,GIG,Presidente Castro Pinto International Airport,Rio Gale�o � Tom Jobim International Airport,-7.145833015,-34.94861221,-22.80999947,-43.25055695,1955.227171078071,True
+G3,Gol,JPA,GRU,Presidente Castro Pinto International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-7.145833015,-34.94861221,-23.43555641,-46.47305679,2189.946926142159,True
+G3,Gol,JTC,CGH,Bauru - Arealva Airport,Congonhas Airport,-22.16685914,-49.05028667,-23.62611008,-46.65638733,294.0295923128717,False
+G3,Gol,LDB,CGH,Governador Jos� Richa Airport,Congonhas Airport,-23.33359909,-51.13010025,-23.62611008,-46.65638733,457.4038081355602,False
+G3,Gol,LDB,CWB,Governador Jos� Richa Airport,Afonso Pena Airport,-23.33359909,-51.13010025,-25.5284996,-49.17580032,314.1695982463111,False
+G3,Gol,LDB,GRU,Governador Jos� Richa Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-23.33359909,-51.13010025,-23.43555641,-46.47305679,475.41950857584885,False
+G3,Gol,MAB,BEL,Jo�o Correa da Rocha Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-5.368589878,-49.13800049,-1.37925005,-48.47629929,449.6317256546013,False
+G3,Gol,MAB,BSB,Jo�o Correa da Rocha Airport,Presidente Juscelino Kubistschek International Airport,-5.368589878,-49.13800049,-15.86916733,-47.92083359,1175.1409010667264,False
+G3,Gol,MAO,BEL,Eduardo Gomes International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-3.038609982,-60.04970169,-1.37925005,-48.47629929,1299.0692327724514,True
+G3,Gol,MAO,BSB,Eduardo Gomes International Airport,Presidente Juscelino Kubistschek International Airport,-3.038609982,-60.04970169,-15.86916733,-47.92083359,1948.6099757232164,True
+G3,Gol,MAO,BVB,Eduardo Gomes International Airport,Atlas Brasil Cantanhede Airport,-3.038609982,-60.04970169,2.841388941,-60.6922226,657.7145305753776,True
+G3,Gol,MAO,GIG,Eduardo Gomes International Airport,Rio Gale�o � Tom Jobim International Airport,-3.038609982,-60.04970169,-22.80999947,-43.25055695,2847.565135081883,True
+G3,Gol,MAO,GRU,Eduardo Gomes International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-3.038609982,-60.04970169,-23.43555641,-46.47305679,2697.462881726065,True
+G3,Gol,MAO,PVH,Eduardo Gomes International Airport,Governador Jorge Teixeira de Oliveira Airport,-3.038609982,-60.04970169,-8.709289551,-63.90230179,760.9442624338757,True
+G3,Gol,MAO,STM,Eduardo Gomes International Airport,Maestro Wilson Fonseca Airport,-3.038609982,-60.04970169,-2.424721956,-54.78583145,588.6187548837516,False
+G3,Gol,MCO,SDQ,Orlando International Airport,Las Am�ricas International Airport,28.42939949,-81.30899811,18.42970085,-69.66889954,1624.9242507642127,False
+G3,Gol,MCP,BEL,Alberto Alcolumbre Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,0.050664,-51.07220078,-1.37925005,-48.47629929,329.5218625777312,False
+G3,Gol,MCZ,BSB,Zumbi dos Palmares Airport,Presidente Juscelino Kubistschek International Airport,-9.510809898,-35.79169846,-15.86916733,-47.92083359,1492.8890909948736,True
+G3,Gol,MCZ,GIG,Zumbi dos Palmares Airport,Rio Gale�o � Tom Jobim International Airport,-9.510809898,-35.79169846,-22.80999947,-43.25055695,1678.632930668184,True
+G3,Gol,MCZ,GRU,Zumbi dos Palmares Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-9.510809898,-35.79169846,-23.43555641,-46.47305679,1919.965937769972,True
+G3,Gol,MCZ,SSA,Zumbi dos Palmares Airport,Deputado Luiz Eduardo Magalh�es International Airport,-9.510809898,-35.79169846,-12.9086113,-38.32249832,467.89012390236127,True
+G3,Gol,MGF,CGH,Regional de Maring� - S�lvio Nane Junior Airport,Congonhas Airport,-23.4794445,-52.01222229,-23.62611008,-46.65638733,546.1400738650497,False
+G3,Gol,MGF,CGR,Regional de Maring� - S�lvio Nane Junior Airport,Campo Grande Airport,-23.4794445,-52.01222229,-20.46870041,-54.67250061,432.78286777512426,False
+G3,Gol,MGF,CWB,Regional de Maring� - S�lvio Nane Junior Airport,Afonso Pena Airport,-23.4794445,-52.01222229,-25.5284996,-49.17580032,366.4131221460486,False
+G3,Gol,MGF,GRU,Regional de Maring� - S�lvio Nane Junior Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-23.4794445,-52.01222229,-23.43555641,-46.47305679,565.010334210522,False
+G3,Gol,MIA,SDQ,Miami International Airport,Las Am�ricas International Airport,25.79319954,-80.29060364,18.42970085,-69.66889954,1365.5618278198358,False
+G3,Gol,MOC,CNF,M�rio Ribeiro Airport,Tancredo Neves International Airport,-16.70689964,-43.81890106,-19.62444305,-43.9719429,324.8186099157868,False
+G3,Gol,MVD,GRU,Carrasco International /General C L Berisso Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-34.838402,-56.0308,-23.43555641,-46.47305679,1569.5228699694612,False
+G3,Gol,MVD,POA,Carrasco International /General C L Berisso Airport,Salgado Filho Airport,-34.838402,-56.0308,-29.99440002,-51.17139816,705.6034572246162,False
+G3,Gol,NAT,BSB,Governador Alu�zio Alves International Airport,Presidente Juscelino Kubistschek International Airport,-5.768056,-35.376111,-15.86916733,-47.92083359,1770.0598931071872,True
+G3,Gol,NAT,FOR,Governador Alu�zio Alves International Airport,Pinto Martins International Airport,-5.768056,-35.376111,-3.776279926,-38.5326004,413.9768406130197,True
+G3,Gol,NAT,GIG,Governador Alu�zio Alves International Airport,Rio Gale�o � Tom Jobim International Airport,-5.768056,-35.376111,-22.80999947,-43.25055695,2074.7244589809634,True
+G3,Gol,NAT,GRU,Governador Alu�zio Alves International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-5.768056,-35.376111,-23.43555641,-46.47305679,2295.9262035910347,True
+G3,Gol,NAT,SSA,Governador Alu�zio Alves International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-5.768056,-35.376111,-12.9086113,-38.32249832,857.1987551932782,True
+G3,Gol,NVT,CGH,Ministro Victor Konder International Airport,Congonhas Airport,-26.879999,-48.651402,-23.62611008,-46.65638733,413.69854121877336,False
+G3,Gol,NVT,GIG,Ministro Victor Konder International Airport,Rio Gale�o � Tom Jobim International Airport,-26.879999,-48.651402,-22.80999947,-43.25055695,708.2060944794393,False
+G3,Gol,NVT,GRU,Ministro Victor Konder International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-26.879999,-48.651402,-23.43555641,-46.47305679,441.28822879764647,False
+G3,Gol,PMW,BSB,Brigadeiro Lysias Rodrigues Airport,Presidente Juscelino Kubistschek International Airport,-10.29150009,-48.35699844,-15.86916733,-47.92083359,622.0032093595562,False
+G3,Gol,PNZ,REC,Senador Nilo Coelho Airport,Guararapes - Gilberto Freyre International Airport,-9.362409592,-40.56909943,-8.126489639,-34.92359924,635.4735444636977,False
+G3,Gol,POA,BSB,Salgado Filho Airport,Presidente Juscelino Kubistschek International Airport,-29.99440002,-51.17139816,-15.86916733,-47.92083359,1605.2710446787844,True
+G3,Gol,POA,CGH,Salgado Filho Airport,Congonhas Airport,-29.99440002,-51.17139816,-23.62611008,-46.65638733,837.7495680979364,True
+G3,Gol,POA,CWB,Salgado Filho Airport,Afonso Pena Airport,-29.99440002,-51.17139816,-25.5284996,-49.17580032,533.9636266400217,True
+G3,Gol,POA,EZE,Salgado Filho Airport,Ministro Pistarini International Airport,-29.99440002,-51.17139816,-34.8222,-58.5358,874.828093423322,False
+G3,Gol,POA,FLN,Salgado Filho Airport,Herc�lio Luz International Airport,-29.99440002,-51.17139816,-27.67027855,-48.55250168,363.10728340053413,True
+G3,Gol,POA,GIG,Salgado Filho Airport,Rio Gale�o � Tom Jobim International Airport,-29.99440002,-51.17139816,-22.80999947,-43.25055695,1122.0170638509526,True
+G3,Gol,POA,GRU,Salgado Filho Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-29.99440002,-51.17139816,-23.43555641,-46.47305679,865.5779719954362,True
+G3,Gol,POA,MVD,Salgado Filho Airport,Carrasco International /General C L Berisso Airport,-29.99440002,-51.17139816,-34.838402,-56.0308,705.6034572246162,False
+G3,Gol,PPB,CGH,Presidente Prudente Airport,Congonhas Airport,-22.17510033,-51.42459869,-23.62611008,-46.65638733,514.3318108323048,False
+G3,Gol,PUJ,CCS,Punta Cana International Airport,Sim�n Bol�var International Airport,18.56739998,-68.36340332,10.601194,-66.991222,898.0015087324277,False
+G3,Gol,PVH,BSB,Governador Jorge Teixeira de Oliveira Airport,Presidente Juscelino Kubistschek International Airport,-8.709289551,-63.90230179,-15.86916733,-47.92083359,1908.7506673067412,True
+G3,Gol,PVH,CGB,Governador Jorge Teixeira de Oliveira Airport,Marechal Rondon Airport,-8.709289551,-63.90230179,-15.65289974,-56.11669922,1145.069012788158,True
+G3,Gol,PVH,MAO,Governador Jorge Teixeira de Oliveira Airport,Eduardo Gomes International Airport,-8.709289551,-63.90230179,-3.038609982,-60.04970169,760.9442624338757,True
+G3,Gol,PVH,RBR,Governador Jorge Teixeira de Oliveira Airport,Pl�cido de Castro Airport,-8.709289551,-63.90230179,-9.868888855,-67.89805603,457.03668527501947,True
+G3,Gol,RBR,BSB,Pl�cido de Castro Airport,Presidente Juscelino Kubistschek International Airport,-9.868888855,-67.89805603,-15.86916733,-47.92083359,2264.396294147127,True
+G3,Gol,RBR,CZS,Pl�cido de Castro Airport,Cruzeiro do Sul Airport,-9.868888855,-67.89805603,-7.599909782,-72.76950073,591.8291107386378,False
+G3,Gol,RBR,PVH,Pl�cido de Castro Airport,Governador Jorge Teixeira de Oliveira Airport,-9.868888855,-67.89805603,-8.709289551,-63.90230179,457.03668527501947,True
+G3,Gol,REC,BSB,Guararapes - Gilberto Freyre International Airport,Presidente Juscelino Kubistschek International Airport,-8.126489639,-34.92359924,-15.86916733,-47.92083359,1654.0321464973456,True
+G3,Gol,REC,CNF,Guararapes - Gilberto Freyre International Airport,Tancredo Neves International Airport,-8.126489639,-34.92359924,-19.62444305,-43.9719429,1607.7220328616143,True
+G3,Gol,REC,FEN,Guararapes - Gilberto Freyre International Airport,Fernando de Noronha Airport,-8.126489639,-34.92359924,-3.85493,-32.423302,549.5622252962162,False
+G3,Gol,REC,FOR,Guararapes - Gilberto Freyre International Airport,Pinto Martins International Airport,-8.126489639,-34.92359924,-3.776279926,-38.5326004,627.0718715431292,True
+G3,Gol,REC,GIG,Guararapes - Gilberto Freyre International Airport,Rio Gale�o � Tom Jobim International Airport,-8.126489639,-34.92359924,-22.80999947,-43.25055695,1859.2143854426683,True
+G3,Gol,REC,GRU,Guararapes - Gilberto Freyre International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-8.126489639,-34.92359924,-23.43555641,-46.47305679,2100.8097788331606,True
+G3,Gol,REC,JDO,Guararapes - Gilberto Freyre International Airport,Orlando Bezerra de Menezes Airport,-8.126489639,-34.92359924,-7.218959808,-39.27009964,489.48931778862857,False
+G3,Gol,REC,PNZ,Guararapes - Gilberto Freyre International Airport,Senador Nilo Coelho Airport,-8.126489639,-34.92359924,-9.362409592,-40.56909943,635.4735444636977,False
+G3,Gol,REC,SSA,Guararapes - Gilberto Freyre International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-8.126489639,-34.92359924,-12.9086113,-38.32249832,648.6488418837492,True
+G3,Gol,ROS,GRU,Islas Malvinas Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-32.9036,-60.785,-23.43555641,-46.47305679,1750.97781673901,False
+G3,Gol,SDQ,GIG,Las Am�ricas International Airport,Rio Gale�o � Tom Jobim International Airport,18.42970085,-69.66889954,-22.80999947,-43.25055695,5409.84735023621,False
+G3,Gol,SDQ,GRU,Las Am�ricas International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,18.42970085,-69.66889954,-23.43555641,-46.47305679,5292.446031179423,False
+G3,Gol,SDQ,MCO,Las Am�ricas International Airport,Orlando International Airport,18.42970085,-69.66889954,28.42939949,-81.30899811,1624.9242507642127,False
+G3,Gol,SDQ,MIA,Las Am�ricas International Airport,Miami International Airport,18.42970085,-69.66889954,25.79319954,-80.29060364,1365.5618278198358,False
+G3,Gol,SDU,BSB,Santos Dumont Airport,Presidente Juscelino Kubistschek International Airport,-22.91049957,-43.1631012,-15.86916733,-47.92083359,928.2303734842703,True
+G3,Gol,SDU,CGH,Santos Dumont Airport,Congonhas Airport,-22.91049957,-43.1631012,-23.62611008,-46.65638733,365.5946365783402,True
+G3,Gol,SDU,CNF,Santos Dumont Airport,Tancredo Neves International Airport,-22.91049957,-43.1631012,-19.62444305,-43.9719429,374.8784847118262,True
+G3,Gol,SDU,GRU,Santos Dumont Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-22.91049957,-43.1631012,-23.43555641,-46.47305679,343.3473657265558,True
+G3,Gol,SDU,VIX,Santos Dumont Airport,Eurico de Aguiar Salles Airport,-22.91049957,-43.1631012,-20.258057,-40.286388,418.85145986747375,False
+G3,Gol,SLZ,BEL,Marechal Cunha Machado International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-2.58536005,-44.23410034,-1.37925005,-48.47629929,490.1255449163156,False
+G3,Gol,SLZ,BSB,Marechal Cunha Machado International Airport,Presidente Juscelino Kubistschek International Airport,-2.58536005,-44.23410034,-15.86916733,-47.92083359,1531.254846500338,False
+G3,Gol,SLZ,FOR,Marechal Cunha Machado International Airport,Pinto Martins International Airport,-2.58536005,-44.23410034,-3.776279926,-38.5326004,646.6924046382641,False
+G3,Gol,SLZ,GIG,Marechal Cunha Machado International Airport,Rio Gale�o � Tom Jobim International Airport,-2.58536005,-44.23410034,-22.80999947,-43.25055695,2251.3763086391173,False
+G3,Gol,SLZ,GRU,Marechal Cunha Machado International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-2.58536005,-44.23410034,-23.43555641,-46.47305679,2330.928866285488,False
+G3,Gol,SLZ,IMP,Marechal Cunha Machado International Airport,Prefeito Renato Moreira Airport,-2.58536005,-44.23410034,-5.53129,-47.459999,485.0759824878667,False
+G3,Gol,SSA,AJU,Deputado Luiz Eduardo Magalh�es International Airport,Santa Maria Airport,-12.9086113,-38.32249832,-10.98400021,-37.07030106,253.6799440841737,True
+G3,Gol,SSA,BPS,Deputado Luiz Eduardo Magalh�es International Airport,Porto Seguro Airport,-12.9086113,-38.32249832,-16.438601,-39.080898,400.9018086766176,False
+G3,Gol,SSA,BSB,Deputado Luiz Eduardo Magalh�es International Airport,Presidente Juscelino Kubistschek International Airport,-12.9086113,-38.32249832,-15.86916733,-47.92083359,1084.7528931006616,True
+G3,Gol,SSA,CGH,Deputado Luiz Eduardo Magalh�es International Airport,Congonhas Airport,-12.9086113,-38.32249832,-23.62611008,-46.65638733,1480.3588966815903,True
+G3,Gol,SSA,CNF,Deputado Luiz Eduardo Magalh�es International Airport,Tancredo Neves International Airport,-12.9086113,-38.32249832,-19.62444305,-43.9719429,959.5698351953182,True
+G3,Gol,SSA,CPV,Deputado Luiz Eduardo Magalh�es International Airport,Presidente Jo�o Suassuna Airport,-12.9086113,-38.32249832,-7.26992,-35.8964,680.8825013917563,False
+G3,Gol,SSA,FOR,Deputado Luiz Eduardo Magalh�es International Airport,Pinto Martins International Airport,-12.9086113,-38.32249832,-3.776279926,-38.5326004,1015.7313739105067,True
+G3,Gol,SSA,GIG,Deputado Luiz Eduardo Magalh�es International Airport,Rio Gale�o � Tom Jobim International Airport,-12.9086113,-38.32249832,-22.80999947,-43.25055695,1217.9064847659731,True
+G3,Gol,SSA,GRU,Deputado Luiz Eduardo Magalh�es International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-12.9086113,-38.32249832,-23.43555641,-46.47305679,1452.1620368852286,True
+G3,Gol,SSA,IOS,Deputado Luiz Eduardo Magalh�es International Airport,Bahia - Jorge Amado Airport,-12.9086113,-38.32249832,-14.81599998,-39.03319931,225.54160846614252,True
+G3,Gol,SSA,MCZ,Deputado Luiz Eduardo Magalh�es International Airport,Zumbi dos Palmares Airport,-12.9086113,-38.32249832,-9.510809898,-35.79169846,467.89012390236127,True
+G3,Gol,SSA,NAT,Deputado Luiz Eduardo Magalh�es International Airport,Governador Alu�zio Alves International Airport,-12.9086113,-38.32249832,-5.768056,-35.376111,857.1987551932782,True
+G3,Gol,SSA,REC,Deputado Luiz Eduardo Magalh�es International Airport,Guararapes - Gilberto Freyre International Airport,-12.9086113,-38.32249832,-8.126489639,-34.92359924,648.6488418837492,True
+G3,Gol,SSA,VIX,Deputado Luiz Eduardo Magalh�es International Airport,Eurico de Aguiar Salles Airport,-12.9086113,-38.32249832,-20.258057,-40.286388,843.5500903214066,False
+G3,Gol,STM,BEL,Maestro Wilson Fonseca Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-2.424721956,-54.78583145,-1.37925005,-48.47629929,710.7626553044258,False
+G3,Gol,STM,MAO,Maestro Wilson Fonseca Airport,Eduardo Gomes International Airport,-2.424721956,-54.78583145,-3.038609982,-60.04970169,588.6187548837516,False
+G3,Gol,THE,BSB,Senador Petr�nio Portela Airport,Presidente Juscelino Kubistschek International Airport,-5.059939861,-42.82350159,-15.86916733,-47.92083359,1324.491150219611,True
+G3,Gol,THE,FOR,Senador Petr�nio Portela Airport,Pinto Martins International Airport,-5.059939861,-42.82350159,-3.776279926,-38.5326004,496.65092968857795,True
+G3,Gol,THE,GRU,Senador Petr�nio Portela Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-5.059939861,-42.82350159,-23.43555641,-46.47305679,2080.4066374198155,True
+G3,Gol,UDI,CGH,Ten. Cel. Aviador C�sar Bombonato Airport,Congonhas Airport,-18.883612,-48.225277,-23.62611008,-46.65638733,551.8163410529019,False
+G3,Gol,UDI,CNF,Ten. Cel. Aviador C�sar Bombonato Airport,Tancredo Neves International Airport,-18.883612,-48.225277,-19.62444305,-43.9719429,454.01551347438834,False
+G3,Gol,UDI,GRU,Ten. Cel. Aviador C�sar Bombonato Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-18.883612,-48.225277,-23.43555641,-46.47305679,537.7555228744152,False
+G3,Gol,VCP,BSB,Viracopos International Airport,Presidente Juscelino Kubistschek International Airport,-23.00740051,-47.1344986,-15.86916733,-47.92083359,797.9988021718684,True
+G3,Gol,VCP,CNF,Viracopos International Airport,Tancredo Neves International Airport,-23.00740051,-47.1344986,-19.62444305,-43.9719429,498.7754467547607,True
+G3,Gol,VCP,CWB,Viracopos International Airport,Afonso Pena Airport,-23.00740051,-47.1344986,-25.5284996,-49.17580032,348.41466908810753,True
+G3,Gol,VCP,GIG,Viracopos International Airport,Rio Gale�o � Tom Jobim International Airport,-23.00740051,-47.1344986,-22.80999947,-43.25055695,398.404339155782,True
+G3,Gol,VIX,CGH,Eurico de Aguiar Salles Airport,Congonhas Airport,-20.258057,-40.286388,-23.62611008,-46.65638733,756.0845938711644,False
+G3,Gol,VIX,CNF,Eurico de Aguiar Salles Airport,Tancredo Neves International Airport,-20.258057,-40.286388,-19.62444305,-43.9719429,391.6228668703334,False
+G3,Gol,VIX,GIG,Eurico de Aguiar Salles Airport,Rio Gale�o � Tom Jobim International Airport,-20.258057,-40.286388,-22.80999947,-43.25055695,417.72710782519937,False
+G3,Gol,VIX,GRU,Eurico de Aguiar Salles Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-20.258057,-40.286388,-23.43555641,-46.47305679,729.6130887036134,False
+G3,Gol,VIX,SDU,Eurico de Aguiar Salles Airport,Santos Dumont Airport,-20.258057,-40.286388,-22.91049957,-43.1631012,418.85145986747375,False
+G3,Gol,VIX,SSA,Eurico de Aguiar Salles Airport,Deputado Luiz Eduardo Magalh�es International Airport,-20.258057,-40.286388,-12.9086113,-38.32249832,843.5500903214066,False
+G3,Gol,VVI,GRU,Viru Viru International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-17.6448,-63.135399,-23.43555641,-46.47305679,1848.9156818194303,False
+G3,Gol,XAP,FLN,Serafin Enoss Bertaso Airport,Herc�lio Luz International Airport,-27.13419914,-52.65660095,-27.67027855,-48.55250168,409.491641946421,False
+G3,Gol,BEL,CKS,Val de Cans/J�lio Cezar Ribeiro International Airport,Caraj�s Airport,-1.37925005,-48.47629929,-6.115277767,-50.00138855,553.1272533625341,False
+G3,Gol,BEL,PBM,Val de Cans/J�lio Cezar Ribeiro International Airport,Johan Adolf Pengel International Airport,-1.37925005,-48.47629929,5.452829838,-55.18780136,1064.2875254646278,False
+G3,Gol,BSB,BPS,Presidente Juscelino Kubistschek International Airport,Porto Seguro Airport,-15.86916733,-47.92083359,-16.438601,-39.080898,946.1903104800136,False
+G3,Gol,BSB,BVB,Presidente Juscelino Kubistschek International Airport,Atlas Brasil Cantanhede Airport,-15.86916733,-47.92083359,2.841388941,-60.6922226,2510.1361175293555,True
+G3,Gol,BSB,EZE,Presidente Juscelino Kubistschek International Airport,Ministro Pistarini International Airport,-15.86916733,-47.92083359,-34.8222,-58.5358,2358.241106387162,False
+G3,Gol,BSB,MCO,Presidente Juscelino Kubistschek International Airport,Orlando International Airport,-15.86916733,-47.92083359,28.42939949,-81.30899811,6096.025886459189,False
+G3,Gol,BSB,MCP,Presidente Juscelino Kubistschek International Airport,Alberto Alcolumbre Airport,-15.86916733,-47.92083359,0.050664,-51.07220078,1803.6819086895823,False
+G3,Gol,BSB,MIA,Presidente Juscelino Kubistschek International Airport,Miami International Airport,-15.86916733,-47.92083359,25.79319954,-80.29060364,5807.664975236851,False
+G3,Gol,CGH,AJU,Congonhas Airport,Santa Maria Airport,-23.62611008,-46.65638733,-10.98400021,-37.07030106,1733.8140071890555,True
+G3,Gol,CGH,BPS,Congonhas Airport,Porto Seguro Airport,-23.62611008,-46.65638733,-16.438601,-39.080898,1124.183877376664,False
+G3,Gol,CGH,FOR,Congonhas Airport,Pinto Martins International Airport,-23.62611008,-46.65638733,-3.776279926,-38.5326004,2373.3448756831417,True
+G3,Gol,CGH,IGU,Congonhas Airport,Cataratas International Airport,-23.62611008,-46.65638733,-25.60027885,-54.48500061,821.1242315974309,False
+G3,Gol,CGH,IOS,Congonhas Airport,Bahia - Jorge Amado Airport,-23.62611008,-46.65638733,-14.81599998,-39.03319931,1264.325283336515,True
+G3,Gol,CGH,IZA,Congonhas Airport,Zona da Mata Regional Airport,-23.62611008,-46.65638733,-21.5130558,-43.17305756,427.9051756648475,False
+G3,Gol,CGH,JPA,Congonhas Airport,Presidente Castro Pinto International Airport,-23.62611008,-46.65638733,-7.145833015,-34.94861221,2218.079340032563,True
+G3,Gol,CGH,MCZ,Congonhas Airport,Zumbi dos Palmares Airport,-23.62611008,-46.65638733,-9.510809898,-35.79169846,1948.1718320719117,True
+G3,Gol,CGH,PMW,Congonhas Airport,Brigadeiro Lysias Rodrigues Airport,-23.62611008,-46.65638733,-10.29150009,-48.35699844,1493.6691898087986,False
+G3,Gol,CGH,REC,Congonhas Airport,Guararapes - Gilberto Freyre International Airport,-23.62611008,-46.65638733,-8.126489639,-34.92359924,2129.007523953479,True
+G3,Gol,CNF,CKS,Tancredo Neves International Airport,Caraj�s Airport,-19.62444305,-43.9719429,-6.115277767,-50.00138855,1637.4793884212572,False
+G3,Gol,CWB,SDU,Afonso Pena Airport,Santos Dumont Airport,-25.5284996,-49.17580032,-22.91049957,-43.1631012,675.5423657187097,True
+G3,Gol,EZE,JPA,Ministro Pistarini International Airport,Presidente Castro Pinto International Airport,-34.8222,-58.5358,-7.145833015,-34.94861221,3909.7885677279496,False
+G3,Gol,EZE,NAT,Ministro Pistarini International Airport,Governador Alu�zio Alves International Airport,-34.8222,-58.5358,-5.768056,-35.376111,4010.3558572923603,False
+G3,Gol,FLN,MVD,Herc�lio Luz International Airport,Carrasco International /General C L Berisso Airport,-27.67027855,-48.55250168,-34.838402,-56.0308,1067.264926268774,False
+G3,Gol,FLN,ROS,Herc�lio Luz International Airport,Islas Malvinas Airport,-27.67027855,-48.55250168,-32.9036,-60.785,1309.539539411619,False
+G3,Gol,FOR,IGU,Pinto Martins International Airport,Cataratas International Airport,-3.776279926,-38.5326004,-25.60027885,-54.48500061,2964.5763716036854,False
+G3,Gol,FOR,MAO,Pinto Martins International Airport,Eduardo Gomes International Airport,-3.776279926,-38.5326004,-3.038609982,-60.04970169,2389.7038154311995,True
+G3,Gol,FOR,MCO,Pinto Martins International Airport,Orlando International Airport,-3.776279926,-38.5326004,28.42939949,-81.30899811,5805.7610482560585,False
+G3,Gol,FOR,MIA,Pinto Martins International Airport,Miami International Airport,-3.776279926,-38.5326004,25.79319954,-80.29060364,5570.212104188145,False
+G3,Gol,GIG,COR,Rio Gale�o � Tom Jobim International Airport,Ingeniero Ambrosio Taravella Airport,-22.80999947,-43.25055695,-31.323601,-64.208,2275.552423449741,False
+G3,Gol,GIG,MDZ,Rio Gale�o � Tom Jobim International Airport,El Plumerillo Airport,-22.80999947,-43.25055695,-32.83169937,-68.79290009,2738.359508976609,False
+G3,Gol,GIG,MVD,Rio Gale�o � Tom Jobim International Airport,Carrasco International /General C L Berisso Airport,-22.80999947,-43.25055695,-34.838402,-56.0308,1823.8963903712418,False
+G3,Gol,GIG,ROS,Rio Gale�o � Tom Jobim International Airport,Islas Malvinas Airport,-22.80999947,-43.25055695,-32.9036,-60.785,2052.2939248936723,False
+G3,Gol,GIG,SCL,Rio Gale�o � Tom Jobim International Airport,Comodoro Arturo Merino Ben�tez International Airport,-22.80999947,-43.25055695,-33.39300156,-70.78579712,2934.1045375973663,False
+G3,Gol,GRU,CPV,Guarulhos - Governador Andr� Franco Montoro International Airport,Presidente Jo�o Suassuna Airport,-23.43555641,-46.47305679,-7.26992,-35.8964,2122.8693243757752,False
+G3,Gol,GRU,CXJ,Guarulhos - Governador Andr� Franco Montoro International Airport,Hugo Cantergiani Regional Airport,-23.43555641,-46.47305679,-29.19709969,-51.1875,794.285280737346,False
+G3,Gol,GRU,JDO,Guarulhos - Governador Andr� Franco Montoro International Airport,Orlando Bezerra de Menezes Airport,-23.43555641,-46.47305679,-7.218959808,-39.27009964,1960.4244008194744,False
+G3,Gol,GRU,JJD,Guarulhos - Governador Andr� Franco Montoro International Airport,Jericoacoara,-23.43555641,-46.47305679,-2.5424,-40.2129,2418.9739048355696,False
+G3,Gol,GRU,LIM,Guarulhos - Governador Andr� Franco Montoro International Airport,Jorge Ch�vez International Airport,-23.43555641,-46.47305679,-12.0219,-77.114305,3474.656627980642,False
+G3,Gol,GRU,MDZ,Guarulhos - Governador Andr� Franco Montoro International Airport,El Plumerillo Airport,-23.43555641,-46.47305679,-32.83169937,-68.79290009,2418.273628614426,False
+G3,Gol,GRU,PNZ,Guarulhos - Governador Andr� Franco Montoro International Airport,Senador Nilo Coelho Airport,-23.43555641,-46.47305679,-9.362409592,-40.56909943,1686.083186761265,False
+G3,Gol,GRU,PUJ,Guarulhos - Governador Andr� Franco Montoro International Airport,Punta Cana International Airport,-23.43555641,-46.47305679,18.56739998,-68.36340332,5240.067446750541,False
+G3,Gol,GRU,PVH,Guarulhos - Governador Andr� Franco Montoro International Airport,Governador Jorge Teixeira de Oliveira Airport,-23.43555641,-46.47305679,-8.709289551,-63.90230179,2474.5662889211517,True
+G3,Gol,GRU,SCL,Guarulhos - Governador Andr� Franco Montoro International Airport,Comodoro Arturo Merino Ben�tez International Airport,-23.43555641,-46.47305679,-33.39300156,-70.78579712,2614.078880013216,False
+G3,Gol,GRU,UIO,Guarulhos - Governador Andr� Franco Montoro International Airport,Mariscal Sucre International Airport,-23.43555641,-46.47305679,-0.129166667,-78.3575,4307.988399776403,False
+G3,Gol,GRU,XAP,Guarulhos - Governador Andr� Franco Montoro International Airport,Serafin Enoss Bertaso Airport,-23.43555641,-46.47305679,-27.13419914,-52.65660095,745.2303611307518,False
+G3,Gol,MAO,EZE,Eduardo Gomes International Airport,Ministro Pistarini International Airport,-3.038609982,-60.04970169,-34.8222,-58.5358,3537.633615006442,False
+G3,Gol,MAO,RBR,Eduardo Gomes International Airport,Pl�cido de Castro Airport,-3.038609982,-60.04970169,-9.868888855,-67.89805603,1152.3310174574935,True
+G3,Gol,REC,EZE,Guararapes - Gilberto Freyre International Airport,Ministro Pistarini International Airport,-8.126489639,-34.92359924,-34.8222,-58.5358,3822.268373691508,False
+G3,Gol,REC,MVD,Guararapes - Gilberto Freyre International Airport,Carrasco International /General C L Berisso Airport,-8.126489639,-34.92359924,-34.838402,-56.0308,3668.336288554168,False
+G3,Gol,SDU,BPS,Santos Dumont Airport,Porto Seguro Airport,-22.91049957,-43.1631012,-16.438601,-39.080898,836.8366930213704,False
+G3,Gol,SDU,IGU,Santos Dumont Airport,Cataratas International Airport,-22.91049957,-43.1631012,-25.60027885,-54.48500061,1185.6606542577877,False
+G3,Gol,SDU,POA,Santos Dumont Airport,Salgado Filho Airport,-22.91049957,-43.1631012,-29.99440002,-51.17139816,1120.0244588207638,True
+G3,Gol,SSA,CGB,Deputado Luiz Eduardo Magalh�es International Airport,Marechal Rondon Airport,-12.9086113,-38.32249832,-15.65289974,-56.11669922,1940.9279519370243,True
+G3,Gol,SSA,EZE,Deputado Luiz Eduardo Magalh�es International Airport,Ministro Pistarini International Airport,-12.9086113,-38.32249832,-34.8222,-58.5358,3173.7286313813906,False
+G3,Gol,SSA,IGU,Deputado Luiz Eduardo Magalh�es International Airport,Cataratas International Airport,-12.9086113,-38.32249832,-25.60027885,-54.48500061,2202.737788614743,False
+G3,Gol,SSA,JPA,Deputado Luiz Eduardo Magalh�es International Airport,Presidente Castro Pinto International Airport,-12.9086113,-38.32249832,-7.145833015,-34.94861221,739.5703926811128,True
+G3,Gol,VDC,GRU,Vit�ria da Conquista Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-14.86279964,-40.86309814,-23.43555641,-46.47305679,1120.2772708157374,True
+G3,Gol,GRU,VDC,Guarulhos - Governador Andr� Franco Montoro International Airport,Vit�ria da Conquista Airport,-23.43555641,-46.47305679,-14.86279964,-40.86309814,1120.2772708157374,True
+G3,Gol,JDO,GRU,Orlando Bezerra de Menezes Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-7.218959808,-39.27009964,-23.43555641,-46.47305679,1960.4244008194744,False
+G3,Gol,RBR,MAO,Pl�cido de Castro Airport,Eduardo Gomes International Airport,-9.868888855,-67.89805603,-3.038609982,-60.04970169,1152.3310174574935,True
+G3,Gol,MAO,FOR,Eduardo Gomes International Airport,Pinto Martins International Airport,-3.038609982,-60.04970169,-3.776279926,-38.5326004,2389.7038154311995,True
+G3,Gol,SDU,CWB,Santos Dumont Airport,Afonso Pena Airport,-22.91049957,-43.1631012,-25.5284996,-49.17580032,675.5423657187097,True
+G3,Gol,JPA,SSA,Presidente Castro Pinto International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-7.145833015,-34.94861221,-12.9086113,-38.32249832,739.5703926811128,True
+G3,Gol,BVB,BSB,Atlas Brasil Cantanhede Airport,Presidente Juscelino Kubistschek International Airport,2.841388941,-60.6922226,-15.86916733,-47.92083359,2510.1361175293555,True
+G3,Gol,PFB,GRU,Lauro Kurtz Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-28.243999,-52.326599,-23.43555641,-46.47305679,792.8719202941396,False
+G3,Gol,GRU,PFB,Guarulhos - Governador Andr� Franco Montoro International Airport,Lauro Kurtz Airport,-23.43555641,-46.47305679,-28.243999,-52.326599,792.8719202941396,False
+G3,Gol,CKS,CNF,Caraj�s Airport,Tancredo Neves International Airport,-6.115277767,-50.00138855,-19.62444305,-43.9719429,1637.4793884212572,False
+G3,Gol,BPS,BSB,Porto Seguro Airport,Presidente Juscelino Kubistschek International Airport,-16.438601,-39.080898,-15.86916733,-47.92083359,946.1903104800136,False
+G3,Gol,MCP,BSB,Alberto Alcolumbre Airport,Presidente Juscelino Kubistschek International Airport,0.050664,-51.07220078,-15.86916733,-47.92083359,1803.6819086895823,False
+G3,Gol,IOS,CGH,Bahia - Jorge Amado Airport,Congonhas Airport,-14.81599998,-39.03319931,-23.62611008,-46.65638733,1264.325283336515,True
+G3,Gol,CPV,GRU,Presidente Jo�o Suassuna Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-7.26992,-35.8964,-23.43555641,-46.47305679,2122.8693243757752,False
+G3,Gol,PNZ,GRU,Senador Nilo Coelho Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-9.362409592,-40.56909943,-23.43555641,-46.47305679,1686.083186761265,False
+G3,Gol,REC,CGH,Guararapes - Gilberto Freyre International Airport,Congonhas Airport,-8.126489639,-34.92359924,-23.62611008,-46.65638733,2129.007523953479,True
+G3,Gol,MCZ,CGH,Zumbi dos Palmares Airport,Congonhas Airport,-9.510809898,-35.79169846,-23.62611008,-46.65638733,1948.1718320719117,True
+G3,Gol,JJD,GRU,Jericoacoara,Guarulhos - Governador Andr� Franco Montoro International Airport,-2.5424,-40.2129,-23.43555641,-46.47305679,2418.9739048355696,False
+G3,Gol,BPS,CGH,Porto Seguro Airport,Congonhas Airport,-16.438601,-39.080898,-23.62611008,-46.65638733,1124.183877376664,False
+G3,Gol,AJU,CGH,Santa Maria Airport,Congonhas Airport,-10.98400021,-37.07030106,-23.62611008,-46.65638733,1733.8140071890555,True
+G3,Gol,MOC,GRU,M�rio Ribeiro Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-16.70689964,-43.81890106,-23.43555641,-46.47305679,797.8151322488108,False
+G3,Gol,IZA,CGH,Zona da Mata Regional Airport,Congonhas Airport,-21.5130558,-43.17305756,-23.62611008,-46.65638733,427.9051756648475,False
+G3,Gol,GRU,MOC,Guarulhos - Governador Andr� Franco Montoro International Airport,M�rio Ribeiro Airport,-23.43555641,-46.47305679,-16.70689964,-43.81890106,797.8151322488108,False
+G3,Gol,CXJ,GRU,Hugo Cantergiani Regional Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-29.19709969,-51.1875,-23.43555641,-46.47305679,794.285280737346,False
+G3,Gol,XAP,GRU,Serafin Enoss Bertaso Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-27.13419914,-52.65660095,-23.43555641,-46.47305679,745.2303611307518,False
+G3,Gol,AJU,BSB,Santa Maria Airport,Presidente Juscelino Kubistschek International Airport,-10.98400021,-37.07030106,-15.86916733,-47.92083359,1292.7050434263774,True
+G3,Gol,BSB,AJU,Presidente Juscelino Kubistschek International Airport,Santa Maria Airport,-15.86916733,-47.92083359,-10.98400021,-37.07030106,1292.7050434263774,True
+G3,Gol,JOI,GRU,Lauro Carneiro de Loyola Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-26.22450066,-48.79740143,-23.43555641,-46.47305679,388.80956484780484,False
+G3,Gol,GRU,JOI,Guarulhos - Governador Andr� Franco Montoro International Airport,Lauro Carneiro de Loyola Airport,-23.43555641,-46.47305679,-26.22450066,-48.79740143,388.80956484780484,False
+G3,Gol,CAC,GRU,Cascavel Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-25.00029945,-53.50080109,-23.43555641,-46.47305679,733.4994601509036,False
+G3,Gol,JDO,FOR,Orlando Bezerra de Menezes Airport,Pinto Martins International Airport,-7.218959808,-39.27009964,-3.776279926,-38.5326004,391.41231670162756,False
+G3,Gol,FOR,JDO,Pinto Martins International Airport,Orlando Bezerra de Menezes Airport,-3.776279926,-38.5326004,-7.218959808,-39.27009964,391.41231670162756,False
+G3,Gol,GRU,CAC,Guarulhos - Governador Andr� Franco Montoro International Airport,Cascavel Airport,-23.43555641,-46.47305679,-25.00029945,-53.50080109,733.4994601509036,False
+G3,Gol,OPS,GRU,Presidente Jo�o Batista Figueiredo Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-11.88500023,-55.58610916,-23.43555641,-46.47305679,1605.4925244856881,False
+G3,Gol,GRU,OPS,Guarulhos - Governador Andr� Franco Montoro International Airport,Presidente Jo�o Batista Figueiredo Airport,-23.43555641,-46.47305679,-11.88500023,-55.58610916,1605.4925244856881,False
+G3,Gol,PUJ,GRU,Punta Cana International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,18.56739998,-68.36340332,-23.43555641,-46.47305679,5240.067446750541,False
+G3,Gol,PUJ,BSB,Punta Cana International Airport,Presidente Juscelino Kubistschek International Airport,18.56739998,-68.36340332,-15.86916733,-47.92083359,4435.052828559845,False
+G3,Gol,PUJ,MIA,Punta Cana International Airport,Miami International Airport,18.56739998,-68.36340332,25.79319954,-80.29060364,1466.296167885615,False
+G3,Gol,BSB,PUJ,Presidente Juscelino Kubistschek International Airport,Punta Cana International Airport,-15.86916733,-47.92083359,18.56739998,-68.36340332,4435.052828559845,False
+G3,Gol,MIA,PUJ,Miami International Airport,Punta Cana International Airport,25.79319954,-80.29060364,18.56739998,-68.36340332,1466.296167885615,False
+G3,Gol,MAO,CUN,Eduardo Gomes International Airport,Canc�n International Airport,-3.038609982,-60.04970169,21.03650093,-86.87709808,3962.9654185185395,False
+G3,Gol,MCZ,EZE,Zumbi dos Palmares Airport,Ministro Pistarini International Airport,-9.510809898,-35.79169846,-34.8222,-58.5358,3641.6187507647205,False
+G3,Gol,JPA,MCZ,Presidente Castro Pinto International Airport,Zumbi dos Palmares Airport,-7.145833015,-34.94861221,-9.510809898,-35.79169846,278.85089559418833,True
+G3,Gol,EZE,BSB,Ministro Pistarini International Airport,Presidente Juscelino Kubistschek International Airport,-34.8222,-58.5358,-15.86916733,-47.92083359,2358.241106387162,False
+G3,Gol,BPS,POA,Porto Seguro Airport,Salgado Filho Airport,-16.438601,-39.080898,-29.99440002,-51.17139816,1945.928740941269,False
+G3,Gol,POA,BPS,Salgado Filho Airport,Porto Seguro Airport,-29.99440002,-51.17139816,-16.438601,-39.080898,1945.928740941269,False
+G3,Gol,VCP,MCZ,Viracopos International Airport,Zumbi dos Palmares Airport,-23.00740051,-47.1344986,-9.510809898,-35.79169846,1925.988355092138,True
+G3,Gol,MCZ,VCP,Zumbi dos Palmares Airport,Viracopos International Airport,-9.510809898,-35.79169846,-23.00740051,-47.1344986,1925.988355092138,True
+G3,Gol,VCP,BPS,Viracopos International Airport,Porto Seguro Airport,-23.00740051,-47.1344986,-16.438601,-39.080898,1114.862487234181,False
+G3,Gol,BPS,VCP,Porto Seguro Airport,Viracopos International Airport,-16.438601,-39.080898,-23.00740051,-47.1344986,1114.862487234181,False
+G3,Gol,RAO,BPS,Leite Lopes Airport,Porto Seguro Airport,-21.13638878,-47.77666855,-16.438601,-39.080898,1053.5849140883397,False
+G3,Gol,CLV,GRU,Nelson Ribeiro Guimar�es Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-17.72529984,-48.60749817,-23.43555641,-46.47305679,672.6617948710601,False
+G3,Gol,GRU,CLV,Guarulhos - Governador Andr� Franco Montoro International Airport,Nelson Ribeiro Guimar�es Airport,-23.43555641,-46.47305679,-17.72529984,-48.60749817,672.6617948710601,False
+G3,Gol,SCL,GRU,Comodoro Arturo Merino Ben�tez International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-33.39300156,-70.78579712,-23.43555641,-46.47305679,2614.078880013216,False
+G3,Gol,ROS,GIG,Islas Malvinas Airport,Rio Gale�o � Tom Jobim International Airport,-32.9036,-60.785,-22.80999947,-43.25055695,2052.2939248936723,False
+G3,Gol,COR,GIG,Ingeniero Ambrosio Taravella Airport,Rio Gale�o � Tom Jobim International Airport,-31.323601,-64.208,-22.80999947,-43.25055695,2275.552423449741,False
+G3,Gol,EZE,SSA,Ministro Pistarini International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-34.8222,-58.5358,-12.9086113,-38.32249832,3173.7286313813906,False
+G3,Gol,MDZ,GRU,El Plumerillo Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-32.83169937,-68.79290009,-23.43555641,-46.47305679,2418.273628614426,False
+G3,Gol,SSA,SDU,Deputado Luiz Eduardo Magalh�es International Airport,Santos Dumont Airport,-12.9086113,-38.32249832,-22.91049957,-43.1631012,1224.0605202095924,True
+G3,Gol,SDU,SSA,Santos Dumont Airport,Deputado Luiz Eduardo Magalh�es International Airport,-22.91049957,-43.1631012,-12.9086113,-38.32249832,1224.0605202095924,True
+G3,Gol,EZE,MAO,Ministro Pistarini International Airport,Eduardo Gomes International Airport,-34.8222,-58.5358,-3.038609982,-60.04970169,3537.633615006442,False
+G3,Gol,PBM,BEL,Johan Adolf Pengel International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,5.452829838,-55.18780136,-1.37925005,-48.47629929,1064.2875254646278,False
+G3,Gol,EZE,REC,Ministro Pistarini International Airport,Guararapes - Gilberto Freyre International Airport,-34.8222,-58.5358,-8.126489639,-34.92359924,3822.268373691508,False
+G3,Gol,MVD,REC,Carrasco International /General C L Berisso Airport,Guararapes - Gilberto Freyre International Airport,-34.838402,-56.0308,-8.126489639,-34.92359924,3668.336288554168,False
+G3,Gol,SCL,REC,Comodoro Arturo Merino Ben�tez International Airport,Guararapes - Gilberto Freyre International Airport,-33.39300156,-70.78579712,-8.126489639,-34.92359924,4627.175145174884,False
+G3,Gol,REC,SCL,Guararapes - Gilberto Freyre International Airport,Comodoro Arturo Merino Ben�tez International Airport,-8.126489639,-34.92359924,-33.39300156,-70.78579712,4627.175145174884,False
+G3,Gol,POA,SDU,Salgado Filho Airport,Santos Dumont Airport,-29.99440002,-51.17139816,-22.91049957,-43.1631012,1120.0244588207638,True
+G3,Gol,NAT,EZE,Governador Alu�zio Alves International Airport,Ministro Pistarini International Airport,-5.768056,-35.376111,-34.8222,-58.5358,4010.3558572923603,False
+G3,Gol,CKS,BEL,Caraj�s Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-6.115277767,-50.00138855,-1.37925005,-48.47629929,553.1272533625341,False
+AD,Azul,AAX,POJ,Romeu Zema Airport,Patos de Minas Airport,-19.5632,-46.96039963,-18.67280006,-46.49119949,110.60071822591668,False
+AD,Azul,AFL,CGB,Piloto Osvaldo Marques Dias Airport,Marechal Rondon Airport,-9.866389275,-56.10499954,-15.65289974,-56.11669922,643.4318564837896,False
+AD,Azul,AJU,MCZ,Santa Maria Airport,Zumbi dos Palmares Airport,-10.98400021,-37.07030106,-9.510809898,-35.79169846,215.42212592172285,True
+AD,Azul,AJU,REC,Santa Maria Airport,Guararapes - Gilberto Freyre International Airport,-10.98400021,-37.07030106,-8.126489639,-34.92359924,395.41779216820316,True
+AD,Azul,AJU,SSA,Santa Maria Airport,Deputado Luiz Eduardo Magalh�es International Airport,-10.98400021,-37.07030106,-12.9086113,-38.32249832,253.6799440841737,True
+AD,Azul,AJU,VCP,Santa Maria Airport,Viracopos International Airport,-10.98400021,-37.07030106,-23.00740051,-47.1344986,1710.8839832744989,True
+AD,Azul,AQA,VCP,Araraquara Airport,Viracopos International Airport,-21.81200027,-48.13299942,-23.00740051,-47.1344986,167.9388464534254,False
+AD,Azul,ARU,GRU,Ara�atuba Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-21.1413002,-50.42470169,-23.43555641,-46.47305679,479.9377707300868,False
+AD,Azul,ARU,VCP,Ara�atuba Airport,Viracopos International Airport,-21.1413002,-50.42470169,-23.00740051,-47.1344986,397.4697207372523,False
+AD,Azul,ATM,BEL,Altamira Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-3.253910065,-52.25400162,-1.37925005,-48.47629929,468.6148211316222,False
+AD,Azul,ATM,STM,Altamira Airport,Maestro Wilson Fonseca Airport,-3.253910065,-52.25400162,-2.424721956,-54.78583145,295.9095566602816,False
+AD,Azul,AUX,BSB,Aragua�na Airport,Presidente Juscelino Kubistschek International Airport,-7.22787,-48.240501,-15.86916733,-47.92083359,961.4979840857698,False
+AD,Azul,AUX,MAB,Aragua�na Airport,Jo�o Correa da Rocha Airport,-7.22787,-48.240501,-5.368589878,-49.13800049,229.3059707052483,False
+AD,Azul,AUX,PMW,Aragua�na Airport,Brigadeiro Lysias Rodrigues Airport,-7.22787,-48.240501,-10.29150009,-48.35699844,340.9005573833891,False
+AD,Azul,BAZ,MAO,Barcelos Airport,Eduardo Gomes International Airport,-0.981292,-62.919601,-3.038609982,-60.04970169,392.4701826760239,False
+AD,Azul,BEL,ATM,Val de Cans/J�lio Cezar Ribeiro International Airport,Altamira Airport,-1.37925005,-48.47629929,-3.253910065,-52.25400162,468.6148211316222,False
+AD,Azul,BEL,CKS,Val de Cans/J�lio Cezar Ribeiro International Airport,Caraj�s Airport,-1.37925005,-48.47629929,-6.115277767,-50.00138855,553.1272533625341,False
+AD,Azul,BEL,CNF,Val de Cans/J�lio Cezar Ribeiro International Airport,Tancredo Neves International Airport,-1.37925005,-48.47629929,-19.62444305,-43.9719429,2087.1457561590955,True
+AD,Azul,BEL,FOR,Val de Cans/J�lio Cezar Ribeiro International Airport,Pinto Martins International Airport,-1.37925005,-48.47629929,-3.776279926,-38.5326004,1136.191822278624,True
+AD,Azul,BEL,IMP,Val de Cans/J�lio Cezar Ribeiro International Airport,Prefeito Renato Moreira Airport,-1.37925005,-48.47629929,-5.53129,-47.459999,475.26036950179065,False
+AD,Azul,BEL,MAB,Val de Cans/J�lio Cezar Ribeiro International Airport,Jo�o Correa da Rocha Airport,-1.37925005,-48.47629929,-5.368589878,-49.13800049,449.6317256546013,False
+AD,Azul,BEL,MAO,Val de Cans/J�lio Cezar Ribeiro International Airport,Eduardo Gomes International Airport,-1.37925005,-48.47629929,-3.038609982,-60.04970169,1299.0692327724514,True
+AD,Azul,BEL,MCP,Val de Cans/J�lio Cezar Ribeiro International Airport,Alberto Alcolumbre Airport,-1.37925005,-48.47629929,0.050664,-51.07220078,329.5218625777312,False
+AD,Azul,BEL,STM,Val de Cans/J�lio Cezar Ribeiro International Airport,Maestro Wilson Fonseca Airport,-1.37925005,-48.47629929,-2.424721956,-54.78583145,710.7626553044258,False
+AD,Azul,BPS,CNF,Porto Seguro Airport,Tancredo Neves International Airport,-16.438601,-39.080898,-19.62444305,-43.9719429,626.7605766374691,False
+AD,Azul,BPS,SDU,Porto Seguro Airport,Santos Dumont Airport,-16.438601,-39.080898,-22.91049957,-43.1631012,836.8366930213704,False
+AD,Azul,BPS,SSA,Porto Seguro Airport,Deputado Luiz Eduardo Magalh�es International Airport,-16.438601,-39.080898,-12.9086113,-38.32249832,400.9018086766176,False
+AD,Azul,BPS,VCP,Porto Seguro Airport,Viracopos International Airport,-16.438601,-39.080898,-23.00740051,-47.1344986,1114.862487234181,False
+AD,Azul,BRA,BSB,Barreiras Airport,Presidente Juscelino Kubistschek International Airport,-12.07890034,-45.00899887,-15.86916733,-47.92083359,525.6465788775437,False
+AD,Azul,BRA,SSA,Barreiras Airport,Deputado Luiz Eduardo Magalh�es International Airport,-12.07890034,-45.00899887,-12.9086113,-38.32249832,731.711548931667,False
+AD,Azul,BSB,AUX,Presidente Juscelino Kubistschek International Airport,Aragua�na Airport,-15.86916733,-47.92083359,-7.22787,-48.240501,961.4979840857698,False
+AD,Azul,BSB,BRA,Presidente Juscelino Kubistschek International Airport,Barreiras Airport,-15.86916733,-47.92083359,-12.07890034,-45.00899887,525.6465788775437,False
+AD,Azul,BSB,CGB,Presidente Juscelino Kubistschek International Airport,Marechal Rondon Airport,-15.86916733,-47.92083359,-15.65289974,-56.11669922,877.3487427402782,True
+AD,Azul,BSB,CNF,Presidente Juscelino Kubistschek International Airport,Tancredo Neves International Airport,-15.86916733,-47.92083359,-19.62444305,-43.9719429,590.9032720427032,True
+AD,Azul,BSB,GRU,Presidente Juscelino Kubistschek International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-15.86916733,-47.92083359,-23.43555641,-46.47305679,854.8675497783695,True
+AD,Azul,BSB,MAB,Presidente Juscelino Kubistschek International Airport,Jo�o Correa da Rocha Airport,-15.86916733,-47.92083359,-5.368589878,-49.13800049,1175.1409010667264,False
+AD,Azul,BSB,PMW,Presidente Juscelino Kubistschek International Airport,Brigadeiro Lysias Rodrigues Airport,-15.86916733,-47.92083359,-10.29150009,-48.35699844,622.0032093595562,False
+AD,Azul,BSB,UDI,Presidente Juscelino Kubistschek International Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-15.86916733,-47.92083359,-18.883612,-48.225277,336.7438909221125,False
+AD,Azul,BSB,VCP,Presidente Juscelino Kubistschek International Airport,Viracopos International Airport,-15.86916733,-47.92083359,-23.00740051,-47.1344986,797.9988021718684,True
+AD,Azul,BVB,MAO,Atlas Brasil Cantanhede Airport,Eduardo Gomes International Airport,2.841388941,-60.6922226,-3.038609982,-60.04970169,657.7145305753776,True
+AD,Azul,BVH,CGB,Brigadeiro Camar�o Airport,Marechal Rondon Airport,-12.69439983,-60.09830093,-15.65289974,-56.11669922,540.7671057537116,False
+AD,Azul,BYO,VCP,Bonito Airport,Viracopos International Airport,-21.247299,-56.452499,-23.00740051,-47.1344986,979.3516386646619,False
+AD,Azul,CAC,CWB,Cascavel Airport,Afonso Pena Airport,-25.00029945,-53.50080109,-25.5284996,-49.17580032,438.8440014037486,False
+AD,Azul,CAC,VCP,Cascavel Airport,Viracopos International Airport,-25.00029945,-53.50080109,-23.00740051,-47.1344986,683.4933238653783,False
+AD,Azul,CAW,SDU,Bartolomeu Lisandro Airport,Santos Dumont Airport,-21.69829941,-41.30170059,-22.91049957,-43.1631012,234.1693015390253,False
+AD,Azul,CCM,VCP,Diom�cio Freitas Airport,Viracopos International Airport,-28.72444344,-49.42139053,-23.00740051,-47.1344986,675.5762956553125,False
+AD,Azul,CFB,PLU,Cabo Frio Airport,Pampulha - Carlos Drummond de Andrade Airport,-22.92169952,-42.07429886,-19.8512001,-43.95059967,392.80670250908696,False
+AD,Azul,CFB,VCP,Cabo Frio Airport,Viracopos International Airport,-22.92169952,-42.07429886,-23.00740051,-47.1344986,518.1369671491478,False
+AD,Azul,CGB,AFL,Marechal Rondon Airport,Piloto Osvaldo Marques Dias Airport,-15.65289974,-56.11669922,-9.866389275,-56.10499954,643.4318564837896,False
+AD,Azul,CGB,BSB,Marechal Rondon Airport,Presidente Juscelino Kubistschek International Airport,-15.65289974,-56.11669922,-15.86916733,-47.92083359,877.3487427402782,True
+AD,Azul,CGB,BVH,Marechal Rondon Airport,Brigadeiro Camar�o Airport,-15.65289974,-56.11669922,-12.69439983,-60.09830093,540.7671057537116,False
+AD,Azul,CGB,CGR,Marechal Rondon Airport,Campo Grande Airport,-15.65289974,-56.11669922,-20.46870041,-54.67250061,556.8157585902655,True
+AD,Azul,CGB,CNF,Marechal Rondon Airport,Tancredo Neves International Airport,-15.65289974,-56.11669922,-19.62444305,-43.9719429,1360.0803022035732,True
+AD,Azul,CGB,GRU,Marechal Rondon Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-15.65289974,-56.11669922,-23.43555641,-46.47305679,1329.5332204425008,True
+AD,Azul,CGB,GYN,Marechal Rondon Airport,Santa Genoveva Airport,-15.65289974,-56.11669922,-16.63199997,-49.22069931,744.5253177876455,False
+AD,Azul,CGB,JPR,Marechal Rondon Airport,Ji-Paran� Airport,-15.65289974,-56.11669922,-10.87080002,-61.8465004,816.7261325853135,False
+AD,Azul,CGB,LDB,Marechal Rondon Airport,Governador Jos� Richa Airport,-15.65289974,-56.11669922,-23.33359909,-51.13010025,1001.02161071052,False
+AD,Azul,CGB,MGF,Marechal Rondon Airport,Regional de Maring� - S�lvio Nane Junior Airport,-15.65289974,-56.11669922,-23.4794445,-52.01222229,970.5175560009025,False
+AD,Azul,CGB,OAL,Marechal Rondon Airport,Cacoal Airport,-15.65289974,-56.11669922,-11.496,-61.4508,738.8408212945691,False
+AD,Azul,CGB,OPS,Marechal Rondon Airport,Presidente Jo�o Batista Figueiredo Airport,-15.65289974,-56.11669922,-11.88500023,-55.58610916,422.8702527851591,False
+AD,Azul,CGB,PVH,Marechal Rondon Airport,Governador Jorge Teixeira de Oliveira Airport,-15.65289974,-56.11669922,-8.709289551,-63.90230179,1145.069012788158,True
+AD,Azul,CGB,ROO,Marechal Rondon Airport,Maestro Marinho Franco Airport,-15.65289974,-56.11669922,-16.586,-54.7248,181.30779573005412,False
+AD,Azul,CGB,SJP,Marechal Rondon Airport,Prof. Eribelto Manoel Reino State Airport,-15.65289974,-56.11669922,-20.8166008,-49.40650177,911.8039844010011,False
+AD,Azul,CGB,VCP,Marechal Rondon Airport,Viracopos International Airport,-15.65289974,-56.11669922,-23.00740051,-47.1344986,1247.0564005020165,True
+AD,Azul,CGH,SDU,Congonhas Airport,Santos Dumont Airport,-23.62611008,-46.65638733,-22.91049957,-43.1631012,365.5946365783402,True
+AD,Azul,CGR,CGB,Campo Grande Airport,Marechal Rondon Airport,-20.46870041,-54.67250061,-15.65289974,-56.11669922,556.8157585902655,True
+AD,Azul,CGR,CMG,Campo Grande Airport,Corumb� International Airport,-20.46870041,-54.67250061,-19.01194382,-57.67139053,353.1855275714931,False
+AD,Azul,CGR,GRU,Campo Grande Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-20.46870041,-54.67250061,-23.43555641,-46.47305679,907.4796116340016,True
+AD,Azul,CGR,VCP,Campo Grande Airport,Viracopos International Airport,-20.46870041,-54.67250061,-23.00740051,-47.1344986,828.0158844236255,True
+AD,Azul,CIZ,MAO,Coari Airport,Eduardo Gomes International Airport,-4.134059906,-63.13259888,-3.038609982,-60.04970169,363.1629793877172,False
+AD,Azul,CKS,BEL,Caraj�s Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-6.115277767,-50.00138855,-1.37925005,-48.47629929,553.1272533625341,False
+AD,Azul,CKS,CNF,Caraj�s Airport,Tancredo Neves International Airport,-6.115277767,-50.00138855,-19.62444305,-43.9719429,1637.4793884212572,False
+AD,Azul,CKS,MAB,Caraj�s Airport,Jo�o Correa da Rocha Airport,-6.115277767,-50.00138855,-5.368589878,-49.13800049,126.56255685042989,False
+AD,Azul,CLV,VCP,Nelson Ribeiro Guimar�es Airport,Viracopos International Airport,-17.72529984,-48.60749817,-23.00740051,-47.1344986,607.0631770346209,False
+AD,Azul,CMG,CGR,Corumb� International Airport,Campo Grande Airport,-19.01194382,-57.67139053,-20.46870041,-54.67250061,353.1855275714931,False
+AD,Azul,CNF,BEL,Tancredo Neves International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-19.62444305,-43.9719429,-1.37925005,-48.47629929,2087.1457561590955,True
+AD,Azul,CNF,BPS,Tancredo Neves International Airport,Porto Seguro Airport,-19.62444305,-43.9719429,-16.438601,-39.080898,626.7605766374691,False
+AD,Azul,CNF,BSB,Tancredo Neves International Airport,Presidente Juscelino Kubistschek International Airport,-19.62444305,-43.9719429,-15.86916733,-47.92083359,590.9032720427032,True
+AD,Azul,CNF,CGB,Tancredo Neves International Airport,Marechal Rondon Airport,-19.62444305,-43.9719429,-15.65289974,-56.11669922,1360.0803022035732,True
+AD,Azul,CNF,CKS,Tancredo Neves International Airport,Caraj�s Airport,-19.62444305,-43.9719429,-6.115277767,-50.00138855,1637.4793884212572,False
+AD,Azul,CNF,CPV,Tancredo Neves International Airport,Presidente Jo�o Suassuna Airport,-19.62444305,-43.9719429,-7.26992,-35.8964,1626.7779959761806,False
+AD,Azul,CNF,CWB,Tancredo Neves International Airport,Afonso Pena Airport,-19.62444305,-43.9719429,-25.5284996,-49.17580032,846.2017638590553,True
+AD,Azul,CNF,FOR,Tancredo Neves International Airport,Pinto Martins International Airport,-19.62444305,-43.9719429,-3.776279926,-38.5326004,1858.414643153522,True
+AD,Azul,CNF,GRU,Tancredo Neves International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-19.62444305,-43.9719429,-23.43555641,-46.47305679,496.4652199750041,True
+AD,Azul,CNF,GYN,Tancredo Neves International Airport,Santa Genoveva Airport,-19.62444305,-43.9719429,-16.63199997,-49.22069931,646.7293176195027,False
+AD,Azul,CNF,IMP,Tancredo Neves International Airport,Prefeito Renato Moreira Airport,-19.62444305,-43.9719429,-5.53129,-47.459999,1611.9011455017862,False
+AD,Azul,CNF,IPN,Tancredo Neves International Airport,Usiminas Airport,-19.62444305,-43.9719429,-19.47069931,-42.48759842,156.47479637209483,False
+AD,Azul,CNF,IZA,Tancredo Neves International Airport,Zona da Mata Regional Airport,-19.62444305,-43.9719429,-21.5130558,-43.17305756,225.871502148445,False
+AD,Azul,CNF,MAO,Tancredo Neves International Airport,Eduardo Gomes International Airport,-19.62444305,-43.9719429,-3.038609982,-60.04970169,2539.5075430140796,True
+AD,Azul,CNF,MOC,Tancredo Neves International Airport,M�rio Ribeiro Airport,-19.62444305,-43.9719429,-16.70689964,-43.81890106,324.8186099157868,False
+AD,Azul,CNF,POA,Tancredo Neves International Airport,Salgado Filho Airport,-19.62444305,-43.9719429,-29.99440002,-51.17139816,1362.0392296988464,True
+AD,Azul,CNF,RAO,Tancredo Neves International Airport,Leite Lopes Airport,-19.62444305,-43.9719429,-21.13638878,-47.77666855,430.72321605034847,False
+AD,Azul,CNF,REC,Tancredo Neves International Airport,Guararapes - Gilberto Freyre International Airport,-19.62444305,-43.9719429,-8.126489639,-34.92359924,1607.7220328616143,True
+AD,Azul,CNF,SDU,Tancredo Neves International Airport,Santos Dumont Airport,-19.62444305,-43.9719429,-22.91049957,-43.1631012,374.8784847118262,True
+AD,Azul,CNF,SLZ,Tancredo Neves International Airport,Marechal Cunha Machado International Airport,-19.62444305,-43.9719429,-2.58536005,-44.23410034,1894.8737244281958,False
+AD,Azul,CNF,SSA,Tancredo Neves International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-19.62444305,-43.9719429,-12.9086113,-38.32249832,959.5698351953182,True
+AD,Azul,CNF,UBA,Tancredo Neves International Airport,M�rio de Almeida Franco Airport,-19.62444305,-43.9719429,-19.76472282,-47.96611023,418.43161908218275,False
+AD,Azul,CNF,UDI,Tancredo Neves International Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-19.62444305,-43.9719429,-18.883612,-48.225277,454.01551347438834,False
+AD,Azul,CNF,VCP,Tancredo Neves International Airport,Viracopos International Airport,-19.62444305,-43.9719429,-23.00740051,-47.1344986,498.7754467547607,True
+AD,Azul,CNF,VDC,Tancredo Neves International Airport,Vit�ria da Conquista Airport,-19.62444305,-43.9719429,-14.86279964,-40.86309814,623.9030112442703,True
+AD,Azul,CNF,VIX,Tancredo Neves International Airport,Eurico de Aguiar Salles Airport,-19.62444305,-43.9719429,-20.258057,-40.286388,391.6228668703334,False
+AD,Azul,CPV,PNZ,Presidente Jo�o Suassuna Airport,Senador Nilo Coelho Airport,-7.26992,-35.8964,-9.362409592,-40.56909943,564.2865840666963,False
+AD,Azul,CWB,CAC,Afonso Pena Airport,Cascavel Airport,-25.5284996,-49.17580032,-25.00029945,-53.50080109,438.8440014037486,False
+AD,Azul,CWB,CNF,Afonso Pena Airport,Tancredo Neves International Airport,-25.5284996,-49.17580032,-19.62444305,-43.9719429,846.2017638590553,True
+AD,Azul,CWB,CXJ,Afonso Pena Airport,Hugo Cantergiani Regional Airport,-25.5284996,-49.17580032,-29.19709969,-51.1875,453.7052280675272,False
+AD,Azul,CWB,GRU,Afonso Pena Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-25.5284996,-49.17580032,-23.43555641,-46.47305679,359.10047571296775,True
+AD,Azul,CWB,IGU,Afonso Pena Airport,Cataratas International Airport,-25.5284996,-49.17580032,-25.60027885,-54.48500061,532.5850520319774,False
+AD,Azul,CWB,LDB,Afonso Pena Airport,Governador Jos� Richa Airport,-25.5284996,-49.17580032,-23.33359909,-51.13010025,314.1695982463111,False
+AD,Azul,CWB,MGF,Afonso Pena Airport,Regional de Maring� - S�lvio Nane Junior Airport,-25.5284996,-49.17580032,-23.4794445,-52.01222229,366.4131221460486,False
+AD,Azul,CWB,POA,Afonso Pena Airport,Salgado Filho Airport,-25.5284996,-49.17580032,-29.99440002,-51.17139816,533.9636266400217,True
+AD,Azul,CWB,SDU,Afonso Pena Airport,Santos Dumont Airport,-25.5284996,-49.17580032,-22.91049957,-43.1631012,675.5423657187097,True
+AD,Azul,CWB,VCP,Afonso Pena Airport,Viracopos International Airport,-25.5284996,-49.17580032,-23.00740051,-47.1344986,348.41466908810753,True
+AD,Azul,CXJ,CWB,Hugo Cantergiani Regional Airport,Afonso Pena Airport,-29.19709969,-51.1875,-25.5284996,-49.17580032,453.7052280675272,False
+AD,Azul,CXJ,VCP,Hugo Cantergiani Regional Airport,Viracopos International Airport,-29.19709969,-51.1875,-23.00740051,-47.1344986,798.2532600886674,False
+AD,Azul,DOU,VCP,Dourados Airport,Viracopos International Airport,-22.2019,-54.926601,-23.00740051,-47.1344986,804.7798052733823,False
+AD,Azul,ERN,TFF,Eirunep� Airport,Tef� Airport,-6.639530182,-69.87979889,-3.382940054,-64.72409821,676.1566416817892,False
+AD,Azul,FEN,NAT,Fernando de Noronha Airport,Governador Alu�zio Alves International Airport,-3.85493,-32.423302,-5.768056,-35.376111,390.2443606355626,False
+AD,Azul,FEN,REC,Fernando de Noronha Airport,Guararapes - Gilberto Freyre International Airport,-3.85493,-32.423302,-8.126489639,-34.92359924,549.5622252962162,False
+AD,Azul,FLN,VCP,Herc�lio Luz International Airport,Viracopos International Airport,-27.67027855,-48.55250168,-23.00740051,-47.1344986,537.6978822062481,True
+AD,Azul,FOR,BEL,Pinto Martins International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-3.776279926,-38.5326004,-1.37925005,-48.47629929,1136.191822278624,True
+AD,Azul,FOR,CNF,Pinto Martins International Airport,Tancredo Neves International Airport,-3.776279926,-38.5326004,-19.62444305,-43.9719429,1858.414643153522,True
+AD,Azul,FOR,JPA,Pinto Martins International Airport,Presidente Castro Pinto International Airport,-3.776279926,-38.5326004,-7.145833015,-34.94861221,545.6342299578266,True
+AD,Azul,FOR,NAT,Pinto Martins International Airport,Governador Alu�zio Alves International Airport,-3.776279926,-38.5326004,-5.768056,-35.376111,413.9768406130197,True
+AD,Azul,FOR,PHB,Pinto Martins International Airport,Prefeito Doutor Jo�o Silva Filho Airport,-3.776279926,-38.5326004,-2.893749952,-41.73199844,368.4589956113969,False
+AD,Azul,FOR,REC,Pinto Martins International Airport,Guararapes - Gilberto Freyre International Airport,-3.776279926,-38.5326004,-8.126489639,-34.92359924,627.0718715431292,True
+AD,Azul,FOR,SLZ,Pinto Martins International Airport,Marechal Cunha Machado International Airport,-3.776279926,-38.5326004,-2.58536005,-44.23410034,646.6924046382641,False
+AD,Azul,FOR,THE,Pinto Martins International Airport,Senador Petr�nio Portela Airport,-3.776279926,-38.5326004,-5.059939861,-42.82350159,496.65092968857795,True
+AD,Azul,FOR,VCP,Pinto Martins International Airport,Viracopos International Airport,-3.776279926,-38.5326004,-23.00740051,-47.1344986,2330.006209673429,True
+AD,Azul,GIG,VCP,Rio Gale�o � Tom Jobim International Airport,Viracopos International Airport,-22.80999947,-43.25055695,-23.00740051,-47.1344986,398.404339155782,True
+AD,Azul,GRU,ARU,Guarulhos - Governador Andr� Franco Montoro International Airport,Ara�atuba Airport,-23.43555641,-46.47305679,-21.1413002,-50.42470169,479.9377707300868,False
+AD,Azul,GRU,BSB,Guarulhos - Governador Andr� Franco Montoro International Airport,Presidente Juscelino Kubistschek International Airport,-23.43555641,-46.47305679,-15.86916733,-47.92083359,854.8675497783695,True
+AD,Azul,GRU,CGB,Guarulhos - Governador Andr� Franco Montoro International Airport,Marechal Rondon Airport,-23.43555641,-46.47305679,-15.65289974,-56.11669922,1329.5332204425008,True
+AD,Azul,GRU,CGR,Guarulhos - Governador Andr� Franco Montoro International Airport,Campo Grande Airport,-23.43555641,-46.47305679,-20.46870041,-54.67250061,907.4796116340016,True
+AD,Azul,GRU,CNF,Guarulhos - Governador Andr� Franco Montoro International Airport,Tancredo Neves International Airport,-23.43555641,-46.47305679,-19.62444305,-43.9719429,496.4652199750041,True
+AD,Azul,GRU,CWB,Guarulhos - Governador Andr� Franco Montoro International Airport,Afonso Pena Airport,-23.43555641,-46.47305679,-25.5284996,-49.17580032,359.10047571296775,True
+AD,Azul,GRU,GYN,Guarulhos - Governador Andr� Franco Montoro International Airport,Santa Genoveva Airport,-23.43555641,-46.47305679,-16.63199997,-49.22069931,809.0592030534062,False
+AD,Azul,GRU,IOS,Guarulhos - Governador Andr� Franco Montoro International Airport,Bahia - Jorge Amado Airport,-23.43555641,-46.47305679,-14.81599998,-39.03319931,1236.0747294566665,True
+AD,Azul,GRU,IPN,Guarulhos - Governador Andr� Franco Montoro International Airport,Usiminas Airport,-23.43555641,-46.47305679,-19.47069931,-42.48759842,603.6407161815492,False
+AD,Azul,GRU,NVT,Guarulhos - Governador Andr� Franco Montoro International Airport,Ministro Victor Konder International Airport,-23.43555641,-46.47305679,-26.879999,-48.651402,441.28822879764647,False
+AD,Azul,GRU,PLU,Guarulhos - Governador Andr� Franco Montoro International Airport,Pampulha - Carlos Drummond de Andrade Airport,-23.43555641,-46.47305679,-19.8512001,-43.95059967,476.2218037653159,True
+AD,Azul,GRU,POA,Guarulhos - Governador Andr� Franco Montoro International Airport,Salgado Filho Airport,-23.43555641,-46.47305679,-29.99440002,-51.17139816,865.5779719954362,True
+AD,Azul,GRU,REC,Guarulhos - Governador Andr� Franco Montoro International Airport,Guararapes - Gilberto Freyre International Airport,-23.43555641,-46.47305679,-8.126489639,-34.92359924,2100.8097788331606,True
+AD,Azul,GRU,SDU,Guarulhos - Governador Andr� Franco Montoro International Airport,Santos Dumont Airport,-23.43555641,-46.47305679,-22.91049957,-43.1631012,343.3473657265558,True
+AD,Azul,GRU,SSA,Guarulhos - Governador Andr� Franco Montoro International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-23.43555641,-46.47305679,-12.9086113,-38.32249832,1452.1620368852286,True
+AD,Azul,GVR,PLU,Coronel Altino Machado de Oliveira Airport,Pampulha - Carlos Drummond de Andrade Airport,-18.89520073,-41.98220062,-19.8512001,-43.95059967,232.23585685833456,False
+AD,Azul,GYN,CGB,Santa Genoveva Airport,Marechal Rondon Airport,-16.63199997,-49.22069931,-15.65289974,-56.11669922,744.5253177876455,False
+AD,Azul,GYN,CNF,Santa Genoveva Airport,Tancredo Neves International Airport,-16.63199997,-49.22069931,-19.62444305,-43.9719429,646.7293176195027,False
+AD,Azul,GYN,GRU,Santa Genoveva Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-16.63199997,-49.22069931,-23.43555641,-46.47305679,809.0592030534062,False
+AD,Azul,GYN,PMW,Santa Genoveva Airport,Brigadeiro Lysias Rodrigues Airport,-16.63199997,-49.22069931,-10.29150009,-48.35699844,711.1838832613433,False
+AD,Azul,GYN,SDU,Santa Genoveva Airport,Santos Dumont Airport,-16.63199997,-49.22069931,-22.91049957,-43.1631012,942.6465088398348,False
+AD,Azul,GYN,VCP,Santa Genoveva Airport,Viracopos International Airport,-16.63199997,-49.22069931,-23.00740051,-47.1344986,741.6963890293144,False
+AD,Azul,IGU,CWB,Cataratas International Airport,Afonso Pena Airport,-25.60027885,-54.48500061,-25.5284996,-49.17580032,532.5850520319774,False
+AD,Azul,IGU,POA,Cataratas International Airport,Salgado Filho Airport,-25.60027885,-54.48500061,-29.99440002,-51.17139816,587.2536006919514,False
+AD,Azul,IGU,VCP,Cataratas International Airport,Viracopos International Airport,-25.60027885,-54.48500061,-23.00740051,-47.1344986,798.5758617839092,False
+AD,Azul,IMP,BEL,Prefeito Renato Moreira Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-5.53129,-47.459999,-1.37925005,-48.47629929,475.26036950179065,False
+AD,Azul,IMP,CNF,Prefeito Renato Moreira Airport,Tancredo Neves International Airport,-5.53129,-47.459999,-19.62444305,-43.9719429,1611.9011455017862,False
+AD,Azul,IOS,GRU,Bahia - Jorge Amado Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-14.81599998,-39.03319931,-23.43555641,-46.47305679,1236.0747294566665,True
+AD,Azul,IOS,SSA,Bahia - Jorge Amado Airport,Deputado Luiz Eduardo Magalh�es International Airport,-14.81599998,-39.03319931,-12.9086113,-38.32249832,225.54160846614252,True
+AD,Azul,IOS,VCP,Bahia - Jorge Amado Airport,Viracopos International Airport,-14.81599998,-39.03319931,-23.00740051,-47.1344986,1246.6234621122192,True
+AD,Azul,IPN,CNF,Usiminas Airport,Tancredo Neves International Airport,-19.47069931,-42.48759842,-19.62444305,-43.9719429,156.47479637209483,False
+AD,Azul,IPN,GRU,Usiminas Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-19.47069931,-42.48759842,-23.43555641,-46.47305679,603.6407161815492,False
+AD,Azul,IPN,PLU,Usiminas Airport,Pampulha - Carlos Drummond de Andrade Airport,-19.47069931,-42.48759842,-19.8512001,-43.95059967,158.92863074984282,False
+AD,Azul,IRZ,TFF,Tapuruquara Airport,Tef� Airport,-0.3786,-64.9923,-3.382940054,-64.72409821,335.39415453910055,False
+AD,Azul,ITB,STM,Itaituba Airport,Maestro Wilson Fonseca Airport,-4.242340088,-56.0007019,-2.424721956,-54.78583145,242.96869318223514,False
+AD,Azul,IZA,CNF,Zona da Mata Regional Airport,Tancredo Neves International Airport,-21.5130558,-43.17305756,-19.62444305,-43.9719429,225.871502148445,False
+AD,Azul,IZA,VCP,Zona da Mata Regional Airport,Viracopos International Airport,-21.5130558,-43.17305756,-23.00740051,-47.1344986,440.20021244439715,False
+AD,Azul,JDO,VCP,Orlando Bezerra de Menezes Airport,Viracopos International Airport,-7.218959808,-39.27009964,-23.00740051,-47.1344986,1946.6016713441627,False
+AD,Azul,JOI,POA,Lauro Carneiro de Loyola Airport,Salgado Filho Airport,-26.22450066,-48.79740143,-29.99440002,-51.17139816,479.4787274992354,False
+AD,Azul,JOI,VCP,Lauro Carneiro de Loyola Airport,Viracopos International Airport,-26.22450066,-48.79740143,-23.00740051,-47.1344986,395.23815705640175,False
+AD,Azul,JPA,FOR,Presidente Castro Pinto International Airport,Pinto Martins International Airport,-7.145833015,-34.94861221,-3.776279926,-38.5326004,545.6342299578266,True
+AD,Azul,JPA,SSA,Presidente Castro Pinto International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-7.145833015,-34.94861221,-12.9086113,-38.32249832,739.5703926811128,True
+AD,Azul,JPA,VCP,Presidente Castro Pinto International Airport,Viracopos International Airport,-7.145833015,-34.94861221,-23.00740051,-47.1344986,2192.888980381369,True
+AD,Azul,JPR,CGB,Ji-Paran� Airport,Marechal Rondon Airport,-10.87080002,-61.8465004,-15.65289974,-56.11669922,816.7261325853135,False
+AD,Azul,JTC,MII,Bauru - Arealva Airport,Frank Miloye Milenkowichi�Mar�lia State Airport,-22.16685914,-49.05028667,-22.19689941,-49.92639923,90.27097103342635,False
+AD,Azul,JTC,VCP,Bauru - Arealva Airport,Viracopos International Airport,-22.16685914,-49.05028667,-23.00740051,-47.1344986,217.75981561486128,False
+AD,Azul,LDB,CGB,Governador Jos� Richa Airport,Marechal Rondon Airport,-23.33359909,-51.13010025,-15.65289974,-56.11669922,1001.02161071052,False
+AD,Azul,LDB,CWB,Governador Jos� Richa Airport,Afonso Pena Airport,-23.33359909,-51.13010025,-25.5284996,-49.17580032,314.1695982463111,False
+AD,Azul,LDB,MGF,Governador Jos� Richa Airport,Regional de Maring� - S�lvio Nane Junior Airport,-23.33359909,-51.13010025,-23.4794445,-52.01222229,91.46483058632836,False
+AD,Azul,LDB,POA,Governador Jos� Richa Airport,Salgado Filho Airport,-23.33359909,-51.13010025,-29.99440002,-51.17139816,740.658617233927,False
+AD,Azul,LDB,VCP,Governador Jos� Richa Airport,Viracopos International Airport,-23.33359909,-51.13010025,-23.00740051,-47.1344986,410.0470038880829,False
+AD,Azul,LEC,SSA,Coronel Hor�cio de Mattos Airport,Deputado Luiz Eduardo Magalh�es International Airport,-12.4822998,-41.27700043,-12.9086113,-38.32249832,323.9780338497433,False
+AD,Azul,MAB,AUX,Jo�o Correa da Rocha Airport,Aragua�na Airport,-5.368589878,-49.13800049,-7.22787,-48.240501,229.3059707052483,False
+AD,Azul,MAB,BEL,Jo�o Correa da Rocha Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-5.368589878,-49.13800049,-1.37925005,-48.47629929,449.6317256546013,False
+AD,Azul,MAB,BSB,Jo�o Correa da Rocha Airport,Presidente Juscelino Kubistschek International Airport,-5.368589878,-49.13800049,-15.86916733,-47.92083359,1175.1409010667264,False
+AD,Azul,MAB,CKS,Jo�o Correa da Rocha Airport,Caraj�s Airport,-5.368589878,-49.13800049,-6.115277767,-50.00138855,126.56255685042989,False
+AD,Azul,MAB,TUR,Jo�o Correa da Rocha Airport,Tucuru� Airport,-5.368589878,-49.13800049,-3.786010027,-49.72029877,187.43681858055268,False
+AD,Azul,MAO,BAZ,Eduardo Gomes International Airport,Barcelos Airport,-3.038609982,-60.04970169,-0.981292,-62.919601,392.4701826760239,False
+AD,Azul,MAO,BEL,Eduardo Gomes International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-3.038609982,-60.04970169,-1.37925005,-48.47629929,1299.0692327724514,True
+AD,Azul,MAO,BVB,Eduardo Gomes International Airport,Atlas Brasil Cantanhede Airport,-3.038609982,-60.04970169,2.841388941,-60.6922226,657.7145305753776,True
+AD,Azul,MAO,CIZ,Eduardo Gomes International Airport,Coari Airport,-3.038609982,-60.04970169,-4.134059906,-63.13259888,363.1629793877172,False
+AD,Azul,MAO,CNF,Eduardo Gomes International Airport,Tancredo Neves International Airport,-3.038609982,-60.04970169,-19.62444305,-43.9719429,2539.5075430140796,True
+AD,Azul,MAO,PIN,Eduardo Gomes International Airport,Parintins Airport,-3.038609982,-60.04970169,-2.673019886,-56.77719879,365.69953973925516,False
+AD,Azul,MAO,PVH,Eduardo Gomes International Airport,Governador Jorge Teixeira de Oliveira Airport,-3.038609982,-60.04970169,-8.709289551,-63.90230179,760.9442624338757,True
+AD,Azul,MAO,STM,Eduardo Gomes International Airport,Maestro Wilson Fonseca Airport,-3.038609982,-60.04970169,-2.424721956,-54.78583145,588.6187548837516,False
+AD,Azul,MAO,TBT,Eduardo Gomes International Airport,Tabatinga Airport,-3.038609982,-60.04970169,-4.255670071,-69.93579865,1105.3468326110278,False
+AD,Azul,MAO,TFF,Eduardo Gomes International Airport,Tef� Airport,-3.038609982,-60.04970169,-3.382940054,-64.72409821,520.3625288329175,False
+AD,Azul,MAO,VCP,Eduardo Gomes International Airport,Viracopos International Airport,-3.038609982,-60.04970169,-23.00740051,-47.1344986,2620.0108023046437,True
+AD,Azul,MCP,BEL,Alberto Alcolumbre Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,0.050664,-51.07220078,-1.37925005,-48.47629929,329.5218625777312,False
+AD,Azul,MCZ,AJU,Zumbi dos Palmares Airport,Santa Maria Airport,-9.510809898,-35.79169846,-10.98400021,-37.07030106,215.42212592172285,True
+AD,Azul,MCZ,REC,Zumbi dos Palmares Airport,Guararapes - Gilberto Freyre International Airport,-9.510809898,-35.79169846,-8.126489639,-34.92359924,181.0869451400601,True
+AD,Azul,MCZ,VCP,Zumbi dos Palmares Airport,Viracopos International Airport,-9.510809898,-35.79169846,-23.00740051,-47.1344986,1925.988355092138,True
+AD,Azul,MEA,SDU,Maca� Airport,Santos Dumont Airport,-22.34300041,-41.76599884,-22.91049957,-43.1631012,156.66291816301865,False
+AD,Azul,MEA,VCP,Maca� Airport,Viracopos International Airport,-22.34300041,-41.76599884,-23.00740051,-47.1344986,555.7067520887906,False
+AD,Azul,MGF,CGB,Regional de Maring� - S�lvio Nane Junior Airport,Marechal Rondon Airport,-23.4794445,-52.01222229,-15.65289974,-56.11669922,970.5175560009025,False
+AD,Azul,MGF,CWB,Regional de Maring� - S�lvio Nane Junior Airport,Afonso Pena Airport,-23.4794445,-52.01222229,-25.5284996,-49.17580032,366.4131221460486,False
+AD,Azul,MGF,LDB,Regional de Maring� - S�lvio Nane Junior Airport,Governador Jos� Richa Airport,-23.4794445,-52.01222229,-23.33359909,-51.13010025,91.46483058632836,False
+AD,Azul,MGF,POA,Regional de Maring� - S�lvio Nane Junior Airport,Salgado Filho Airport,-23.4794445,-52.01222229,-29.99440002,-51.17139816,729.2171462618109,False
+AD,Azul,MGF,VCP,Regional de Maring� - S�lvio Nane Junior Airport,Viracopos International Airport,-23.4794445,-52.01222229,-23.00740051,-47.1344986,501.0878757425253,False
+AD,Azul,MII,JTC,Frank Miloye Milenkowichi�Mar�lia State Airport,Bauru - Arealva Airport,-22.19689941,-49.92639923,-22.16685914,-49.05028667,90.27097103342635,False
+AD,Azul,MII,VCP,Frank Miloye Milenkowichi�Mar�lia State Airport,Viracopos International Airport,-22.19689941,-49.92639923,-23.00740051,-47.1344986,300.4302097237453,False
+AD,Azul,MOC,CNF,M�rio Ribeiro Airport,Tancredo Neves International Airport,-16.70689964,-43.81890106,-19.62444305,-43.9719429,324.8186099157868,False
+AD,Azul,MOC,PLU,M�rio Ribeiro Airport,Pampulha - Carlos Drummond de Andrade Airport,-16.70689964,-43.81890106,-19.8512001,-43.95059967,349.90657354415237,False
+AD,Azul,NAT,CNF,Governador Alu�zio Alves International Airport,Tancredo Neves International Airport,-5.768056,-35.376111,-19.62444305,-43.9719429,1799.5606318566947,True
+AD,Azul,NAT,FEN,Governador Alu�zio Alves International Airport,Fernando de Noronha Airport,-5.768056,-35.376111,-3.85493,-32.423302,390.2443606355626,False
+AD,Azul,NAT,REC,Governador Alu�zio Alves International Airport,Guararapes - Gilberto Freyre International Airport,-5.768056,-35.376111,-8.126489639,-34.92359924,266.959324960655,True
+AD,Azul,NAT,VCP,Governador Alu�zio Alves International Airport,Viracopos International Airport,-5.768056,-35.376111,-23.00740051,-47.1344986,2294.26682643242,True
+AD,Azul,NVT,GRU,Ministro Victor Konder International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-26.879999,-48.651402,-23.43555641,-46.47305679,441.28822879764647,False
+AD,Azul,NVT,POA,Ministro Victor Konder International Airport,Salgado Filho Airport,-26.879999,-48.651402,-29.99440002,-51.17139816,424.9828405153444,False
+AD,Azul,NVT,VCP,Ministro Victor Konder International Airport,Viracopos International Airport,-26.879999,-48.651402,-23.00740051,-47.1344986,456.94981125364984,False
+AD,Azul,OAL,CGB,Cacoal Airport,Marechal Rondon Airport,-11.496,-61.4508,-15.65289974,-56.11669922,738.8408212945691,False
+AD,Azul,OLC,TFF,Senadora Eunice Micheles Airport,Tef� Airport,-3.467929508,-68.92041206,-3.382940054,-64.72409821,465.87061610878044,False
+AD,Azul,OPS,CGB,Presidente Jo�o Batista Figueiredo Airport,Marechal Rondon Airport,-11.88500023,-55.58610916,-15.65289974,-56.11669922,422.8702527851591,False
+AD,Azul,PAV,SSA,Paulo Afonso Airport,Deputado Luiz Eduardo Magalh�es International Airport,-9.40087986,-38.25059891,-12.9086113,-38.32249832,390.12077492197386,False
+AD,Azul,PET,POA,Jo�o Sim�es Lopes Neto International Airport,Salgado Filho Airport,-31.718399,-52.327702,-29.99440002,-51.17139816,221.20063040770916,False
+AD,Azul,PFB,POA,Lauro Kurtz Airport,Salgado Filho Airport,-28.243999,-52.326599,-29.99440002,-51.17139816,224.663709962076,False
+AD,Azul,PFB,VCP,Lauro Kurtz Airport,Viracopos International Airport,-28.243999,-52.326599,-23.00740051,-47.1344986,780.8136520001196,False
+AD,Azul,PHB,FOR,Prefeito Doutor Jo�o Silva Filho Airport,Pinto Martins International Airport,-2.893749952,-41.73199844,-3.776279926,-38.5326004,368.4589956113969,False
+AD,Azul,PHB,THE,Prefeito Doutor Jo�o Silva Filho Airport,Senador Petr�nio Portela Airport,-2.893749952,-41.73199844,-5.059939861,-42.82350159,269.5848474793623,False
+AD,Azul,PIN,MAO,Parintins Airport,Eduardo Gomes International Airport,-2.673019886,-56.77719879,-3.038609982,-60.04970169,365.69953973925516,False
+AD,Azul,PLU,AAX,Pampulha - Carlos Drummond de Andrade Airport,Romeu Zema Airport,-19.8512001,-43.95059967,-19.5632,-46.96039963,316.6907318788252,False
+AD,Azul,PLU,CFB,Pampulha - Carlos Drummond de Andrade Airport,Cabo Frio Airport,-19.8512001,-43.95059967,-22.92169952,-42.07429886,392.80670250908696,False
+AD,Azul,PLU,GRU,Pampulha - Carlos Drummond de Andrade Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-19.8512001,-43.95059967,-23.43555641,-46.47305679,476.2218037653159,True
+AD,Azul,PLU,GVR,Pampulha - Carlos Drummond de Andrade Airport,Coronel Altino Machado de Oliveira Airport,-19.8512001,-43.95059967,-18.89520073,-41.98220062,232.23585685833456,False
+AD,Azul,PLU,IPN,Pampulha - Carlos Drummond de Andrade Airport,Usiminas Airport,-19.8512001,-43.95059967,-19.47069931,-42.48759842,158.92863074984282,False
+AD,Azul,PLU,MOC,Pampulha - Carlos Drummond de Andrade Airport,M�rio Ribeiro Airport,-19.8512001,-43.95059967,-16.70689964,-43.81890106,349.90657354415237,False
+AD,Azul,PLU,POJ,Pampulha - Carlos Drummond de Andrade Airport,Patos de Minas Airport,-19.8512001,-43.95059967,-18.67280006,-46.49119949,297.1310461685633,False
+AD,Azul,PLU,SJK,Pampulha - Carlos Drummond de Andrade Airport,Professor Urbano Ernesto Stumpf Airport,-19.8512001,-43.95059967,-23.22920036,-45.86149979,424.42110974675506,False
+AD,Azul,PLU,UDI,Pampulha - Carlos Drummond de Andrade Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-19.8512001,-43.95059967,-18.883612,-48.225277,461.13299024728093,False
+AD,Azul,PLU,VCP,Pampulha - Carlos Drummond de Andrade Airport,Viracopos International Airport,-19.8512001,-43.95059967,-23.00740051,-47.1344986,481.3869766706368,True
+AD,Azul,PLU,VDC,Pampulha - Carlos Drummond de Andrade Airport,Vit�ria da Conquista Airport,-19.8512001,-43.95059967,-14.86279964,-40.86309814,644.1741820702281,True
+AD,Azul,PMW,AUX,Brigadeiro Lysias Rodrigues Airport,Aragua�na Airport,-10.29150009,-48.35699844,-7.22787,-48.240501,340.9005573833891,False
+AD,Azul,PMW,BSB,Brigadeiro Lysias Rodrigues Airport,Presidente Juscelino Kubistschek International Airport,-10.29150009,-48.35699844,-15.86916733,-47.92083359,622.0032093595562,False
+AD,Azul,PMW,GYN,Brigadeiro Lysias Rodrigues Airport,Santa Genoveva Airport,-10.29150009,-48.35699844,-16.63199997,-49.22069931,711.1838832613433,False
+AD,Azul,PNZ,CNF,Senador Nilo Coelho Airport,Tancredo Neves International Airport,-9.362409592,-40.56909943,-19.62444305,-43.9719429,1198.2683408550818,False
+AD,Azul,POA,CNF,Salgado Filho Airport,Tancredo Neves International Airport,-29.99440002,-51.17139816,-19.62444305,-43.9719429,1362.0392296988464,True
+AD,Azul,POA,CWB,Salgado Filho Airport,Afonso Pena Airport,-29.99440002,-51.17139816,-25.5284996,-49.17580032,533.9636266400217,True
+AD,Azul,POA,GRU,Salgado Filho Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-29.99440002,-51.17139816,-23.43555641,-46.47305679,865.5779719954362,True
+AD,Azul,POA,IGU,Salgado Filho Airport,Cataratas International Airport,-29.99440002,-51.17139816,-25.60027885,-54.48500061,587.2536006919514,False
+AD,Azul,POA,JOI,Salgado Filho Airport,Lauro Carneiro de Loyola Airport,-29.99440002,-51.17139816,-26.22450066,-48.79740143,479.4787274992354,False
+AD,Azul,POA,LDB,Salgado Filho Airport,Governador Jos� Richa Airport,-29.99440002,-51.17139816,-23.33359909,-51.13010025,740.658617233927,False
+AD,Azul,POA,MGF,Salgado Filho Airport,Regional de Maring� - S�lvio Nane Junior Airport,-29.99440002,-51.17139816,-23.4794445,-52.01222229,729.2171462618109,False
+AD,Azul,POA,NVT,Salgado Filho Airport,Ministro Victor Konder International Airport,-29.99440002,-51.17139816,-26.879999,-48.651402,424.9828405153444,False
+AD,Azul,POA,PET,Salgado Filho Airport,Jo�o Sim�es Lopes Neto International Airport,-29.99440002,-51.17139816,-31.718399,-52.327702,221.20063040770916,False
+AD,Azul,POA,PFB,Salgado Filho Airport,Lauro Kurtz Airport,-29.99440002,-51.17139816,-28.243999,-52.326599,224.663709962076,False
+AD,Azul,POA,RIA,Salgado Filho Airport,Santa Maria Airport,-29.99440002,-51.17139816,-29.711399,-53.688202,244.74681644686365,False
+AD,Azul,POA,SDU,Salgado Filho Airport,Santos Dumont Airport,-29.99440002,-51.17139816,-22.91049957,-43.1631012,1120.0244588207638,True
+AD,Azul,POA,VCP,Salgado Filho Airport,Viracopos International Airport,-29.99440002,-51.17139816,-23.00740051,-47.1344986,874.4239153916837,True
+AD,Azul,POA,XAP,Salgado Filho Airport,Serafin Enoss Bertaso Airport,-29.99440002,-51.17139816,-27.13419914,-52.65660095,349.5411335535671,False
+AD,Azul,POJ,PLU,Patos de Minas Airport,Pampulha - Carlos Drummond de Andrade Airport,-18.67280006,-46.49119949,-19.8512001,-43.95059967,297.1310461685633,False
+AD,Azul,PPB,VCP,Presidente Prudente Airport,Viracopos International Airport,-22.17510033,-51.42459869,-23.00740051,-47.1344986,450.03153503835887,False
+AD,Azul,PVH,CGB,Governador Jorge Teixeira de Oliveira Airport,Marechal Rondon Airport,-8.709289551,-63.90230179,-15.65289974,-56.11669922,1145.069012788158,True
+AD,Azul,PVH,MAO,Governador Jorge Teixeira de Oliveira Airport,Eduardo Gomes International Airport,-8.709289551,-63.90230179,-3.038609982,-60.04970169,760.9442624338757,True
+AD,Azul,PVH,RBR,Governador Jorge Teixeira de Oliveira Airport,Pl�cido de Castro Airport,-8.709289551,-63.90230179,-9.868888855,-67.89805603,457.03668527501947,True
+AD,Azul,RAO,CNF,Leite Lopes Airport,Tancredo Neves International Airport,-21.13638878,-47.77666855,-19.62444305,-43.9719429,430.72321605034847,False
+AD,Azul,RAO,SJP,Leite Lopes Airport,Prof. Eribelto Manoel Reino State Airport,-21.13638878,-47.77666855,-20.8166008,-49.40650177,172.9133459499621,False
+AD,Azul,RAO,VCP,Leite Lopes Airport,Viracopos International Airport,-21.13638878,-47.77666855,-23.00740051,-47.1344986,218.3158853852667,False
+AD,Azul,RBR,PVH,Pl�cido de Castro Airport,Governador Jorge Teixeira de Oliveira Airport,-9.868888855,-67.89805603,-8.709289551,-63.90230179,457.03668527501947,True
+AD,Azul,REC,AJU,Guararapes - Gilberto Freyre International Airport,Santa Maria Airport,-8.126489639,-34.92359924,-10.98400021,-37.07030106,395.41779216820316,True
+AD,Azul,REC,CNF,Guararapes - Gilberto Freyre International Airport,Tancredo Neves International Airport,-8.126489639,-34.92359924,-19.62444305,-43.9719429,1607.7220328616143,True
+AD,Azul,REC,FEN,Guararapes - Gilberto Freyre International Airport,Fernando de Noronha Airport,-8.126489639,-34.92359924,-3.85493,-32.423302,549.5622252962162,False
+AD,Azul,REC,FOR,Guararapes - Gilberto Freyre International Airport,Pinto Martins International Airport,-8.126489639,-34.92359924,-3.776279926,-38.5326004,627.0718715431292,True
+AD,Azul,REC,GRU,Guararapes - Gilberto Freyre International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-8.126489639,-34.92359924,-23.43555641,-46.47305679,2100.8097788331606,True
+AD,Azul,REC,MCZ,Guararapes - Gilberto Freyre International Airport,Zumbi dos Palmares Airport,-8.126489639,-34.92359924,-9.510809898,-35.79169846,181.0869451400601,True
+AD,Azul,REC,NAT,Guararapes - Gilberto Freyre International Airport,Governador Alu�zio Alves International Airport,-8.126489639,-34.92359924,-5.768056,-35.376111,266.959324960655,True
+AD,Azul,REC,SSA,Guararapes - Gilberto Freyre International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-8.126489639,-34.92359924,-12.9086113,-38.32249832,648.6488418837492,True
+AD,Azul,REC,THE,Guararapes - Gilberto Freyre International Airport,Senador Petr�nio Portela Airport,-8.126489639,-34.92359924,-5.059939861,-42.82350159,936.7658578713325,True
+AD,Azul,REC,VCP,Guararapes - Gilberto Freyre International Airport,Viracopos International Airport,-8.126489639,-34.92359924,-23.00740051,-47.1344986,2106.2839698115313,True
+AD,Azul,RIA,POA,Santa Maria Airport,Salgado Filho Airport,-29.711399,-53.688202,-29.99440002,-51.17139816,244.74681644686365,False
+AD,Azul,ROO,CGB,Maestro Marinho Franco Airport,Marechal Rondon Airport,-16.586,-54.7248,-15.65289974,-56.11669922,181.30779573005412,False
+AD,Azul,RVD,VCP,General Leite de Castro Airport,Viracopos International Airport,-17.83472252,-50.95611191,-23.00740051,-47.1344986,699.4716562573967,False
+AD,Azul,SDU,BPS,Santos Dumont Airport,Porto Seguro Airport,-22.91049957,-43.1631012,-16.438601,-39.080898,836.8366930213704,False
+AD,Azul,SDU,CAW,Santos Dumont Airport,Bartolomeu Lisandro Airport,-22.91049957,-43.1631012,-21.69829941,-41.30170059,234.1693015390253,False
+AD,Azul,SDU,CGH,Santos Dumont Airport,Congonhas Airport,-22.91049957,-43.1631012,-23.62611008,-46.65638733,365.5946365783402,True
+AD,Azul,SDU,CNF,Santos Dumont Airport,Tancredo Neves International Airport,-22.91049957,-43.1631012,-19.62444305,-43.9719429,374.8784847118262,True
+AD,Azul,SDU,CWB,Santos Dumont Airport,Afonso Pena Airport,-22.91049957,-43.1631012,-25.5284996,-49.17580032,675.5423657187097,True
+AD,Azul,SDU,GRU,Santos Dumont Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-22.91049957,-43.1631012,-23.43555641,-46.47305679,343.3473657265558,True
+AD,Azul,SDU,GYN,Santos Dumont Airport,Santa Genoveva Airport,-22.91049957,-43.1631012,-16.63199997,-49.22069931,942.6465088398348,False
+AD,Azul,SDU,MEA,Santos Dumont Airport,Maca� Airport,-22.91049957,-43.1631012,-22.34300041,-41.76599884,156.66291816301865,False
+AD,Azul,SDU,POA,Santos Dumont Airport,Salgado Filho Airport,-22.91049957,-43.1631012,-29.99440002,-51.17139816,1120.0244588207638,True
+AD,Azul,SDU,SJK,Santos Dumont Airport,Professor Urbano Ernesto Stumpf Airport,-22.91049957,-43.1631012,-23.22920036,-45.86149979,278.3136449815263,False
+AD,Azul,SDU,VCP,Santos Dumont Airport,Viracopos International Airport,-22.91049957,-43.1631012,-23.00740051,-47.1344986,406.74803948816384,True
+AD,Azul,SDU,VIX,Santos Dumont Airport,Eurico de Aguiar Salles Airport,-22.91049957,-43.1631012,-20.258057,-40.286388,418.85145986747375,False
+AD,Azul,SJK,PLU,Professor Urbano Ernesto Stumpf Airport,Pampulha - Carlos Drummond de Andrade Airport,-23.22920036,-45.86149979,-19.8512001,-43.95059967,424.42110974675506,False
+AD,Azul,SJK,SDU,Professor Urbano Ernesto Stumpf Airport,Santos Dumont Airport,-23.22920036,-45.86149979,-22.91049957,-43.1631012,278.3136449815263,False
+AD,Azul,SJL,TFF,S�o Gabriel da Cachoeira Airport,Tef� Airport,-0.14835,-66.9855,-3.382940054,-64.72409821,438.76642312063524,False
+AD,Azul,SJP,CGB,Prof. Eribelto Manoel Reino State Airport,Marechal Rondon Airport,-20.8166008,-49.40650177,-15.65289974,-56.11669922,911.8039844010011,False
+AD,Azul,SJP,RAO,Prof. Eribelto Manoel Reino State Airport,Leite Lopes Airport,-20.8166008,-49.40650177,-21.13638878,-47.77666855,172.9133459499621,False
+AD,Azul,SJP,VCP,Prof. Eribelto Manoel Reino State Airport,Viracopos International Airport,-20.8166008,-49.40650177,-23.00740051,-47.1344986,338.0368087193899,False
+AD,Azul,SLZ,CNF,Marechal Cunha Machado International Airport,Tancredo Neves International Airport,-2.58536005,-44.23410034,-19.62444305,-43.9719429,1894.8737244281958,False
+AD,Azul,SLZ,FOR,Marechal Cunha Machado International Airport,Pinto Martins International Airport,-2.58536005,-44.23410034,-3.776279926,-38.5326004,646.6924046382641,False
+AD,Azul,SLZ,THE,Marechal Cunha Machado International Airport,Senador Petr�nio Portela Airport,-2.58536005,-44.23410034,-5.059939861,-42.82350159,316.5479081948352,False
+AD,Azul,SSA,AJU,Deputado Luiz Eduardo Magalh�es International Airport,Santa Maria Airport,-12.9086113,-38.32249832,-10.98400021,-37.07030106,253.6799440841737,True
+AD,Azul,SSA,BPS,Deputado Luiz Eduardo Magalh�es International Airport,Porto Seguro Airport,-12.9086113,-38.32249832,-16.438601,-39.080898,400.9018086766176,False
+AD,Azul,SSA,BRA,Deputado Luiz Eduardo Magalh�es International Airport,Barreiras Airport,-12.9086113,-38.32249832,-12.07890034,-45.00899887,731.711548931667,False
+AD,Azul,SSA,CNF,Deputado Luiz Eduardo Magalh�es International Airport,Tancredo Neves International Airport,-12.9086113,-38.32249832,-19.62444305,-43.9719429,959.5698351953182,True
+AD,Azul,SSA,GRU,Deputado Luiz Eduardo Magalh�es International Airport,Guarulhos - Governador Andr� Franco Montoro International Airport,-12.9086113,-38.32249832,-23.43555641,-46.47305679,1452.1620368852286,True
+AD,Azul,SSA,IOS,Deputado Luiz Eduardo Magalh�es International Airport,Bahia - Jorge Amado Airport,-12.9086113,-38.32249832,-14.81599998,-39.03319931,225.54160846614252,True
+AD,Azul,SSA,JPA,Deputado Luiz Eduardo Magalh�es International Airport,Presidente Castro Pinto International Airport,-12.9086113,-38.32249832,-7.145833015,-34.94861221,739.5703926811128,True
+AD,Azul,SSA,LEC,Deputado Luiz Eduardo Magalh�es International Airport,Coronel Hor�cio de Mattos Airport,-12.9086113,-38.32249832,-12.4822998,-41.27700043,323.9780338497433,False
+AD,Azul,SSA,PAV,Deputado Luiz Eduardo Magalh�es International Airport,Paulo Afonso Airport,-12.9086113,-38.32249832,-9.40087986,-38.25059891,390.12077492197386,False
+AD,Azul,SSA,REC,Deputado Luiz Eduardo Magalh�es International Airport,Guararapes - Gilberto Freyre International Airport,-12.9086113,-38.32249832,-8.126489639,-34.92359924,648.6488418837492,True
+AD,Azul,SSA,VCP,Deputado Luiz Eduardo Magalh�es International Airport,Viracopos International Airport,-12.9086113,-38.32249832,-23.00740051,-47.1344986,1458.3182078901052,True
+AD,Azul,SSA,VDC,Deputado Luiz Eduardo Magalh�es International Airport,Vit�ria da Conquista Airport,-12.9086113,-38.32249832,-14.86279964,-40.86309814,349.88434530402685,True
+AD,Azul,SSA,VIX,Deputado Luiz Eduardo Magalh�es International Airport,Eurico de Aguiar Salles Airport,-12.9086113,-38.32249832,-20.258057,-40.286388,843.5500903214066,False
+AD,Azul,STM,ATM,Maestro Wilson Fonseca Airport,Altamira Airport,-2.424721956,-54.78583145,-3.253910065,-52.25400162,295.9095566602816,False
+AD,Azul,STM,BEL,Maestro Wilson Fonseca Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-2.424721956,-54.78583145,-1.37925005,-48.47629929,710.7626553044258,False
+AD,Azul,STM,ITB,Maestro Wilson Fonseca Airport,Itaituba Airport,-2.424721956,-54.78583145,-4.242340088,-56.0007019,242.96869318223514,False
+AD,Azul,STM,MAO,Maestro Wilson Fonseca Airport,Eduardo Gomes International Airport,-2.424721956,-54.78583145,-3.038609982,-60.04970169,588.6187548837516,False
+AD,Azul,STM,TMT,Maestro Wilson Fonseca Airport,Trombetas Airport,-2.424721956,-54.78583145,-1.489599943,-56.39680099,207.0314294471384,False
+AD,Azul,TBT,MAO,Tabatinga Airport,Eduardo Gomes International Airport,-4.255670071,-69.93579865,-3.038609982,-60.04970169,1105.3468326110278,False
+AD,Azul,TFF,ERN,Tef� Airport,Eirunep� Airport,-3.382940054,-64.72409821,-6.639530182,-69.87979889,676.1566416817892,False
+AD,Azul,TFF,IRZ,Tef� Airport,Tapuruquara Airport,-3.382940054,-64.72409821,-0.3786,-64.9923,335.39415453910055,False
+AD,Azul,TFF,MAO,Tef� Airport,Eduardo Gomes International Airport,-3.382940054,-64.72409821,-3.038609982,-60.04970169,520.3625288329175,False
+AD,Azul,TFF,OLC,Tef� Airport,Senadora Eunice Micheles Airport,-3.382940054,-64.72409821,-3.467929508,-68.92041206,465.87061610878044,False
+AD,Azul,TFF,SJL,Tef� Airport,S�o Gabriel da Cachoeira Airport,-3.382940054,-64.72409821,-0.14835,-66.9855,438.76642312063524,False
+AD,Azul,THE,FOR,Senador Petr�nio Portela Airport,Pinto Martins International Airport,-5.059939861,-42.82350159,-3.776279926,-38.5326004,496.65092968857795,True
+AD,Azul,THE,PHB,Senador Petr�nio Portela Airport,Prefeito Doutor Jo�o Silva Filho Airport,-5.059939861,-42.82350159,-2.893749952,-41.73199844,269.5848474793623,False
+AD,Azul,THE,REC,Senador Petr�nio Portela Airport,Guararapes - Gilberto Freyre International Airport,-5.059939861,-42.82350159,-8.126489639,-34.92359924,936.7658578713325,True
+AD,Azul,THE,SLZ,Senador Petr�nio Portela Airport,Marechal Cunha Machado International Airport,-5.059939861,-42.82350159,-2.58536005,-44.23410034,316.5479081948352,False
+AD,Azul,THE,VCP,Senador Petr�nio Portela Airport,Viracopos International Airport,-5.059939861,-42.82350159,-23.00740051,-47.1344986,2048.6210588346485,True
+AD,Azul,TMT,STM,Trombetas Airport,Maestro Wilson Fonseca Airport,-1.489599943,-56.39680099,-2.424721956,-54.78583145,207.0314294471384,False
+AD,Azul,TUR,BEL,Tucuru� Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-3.786010027,-49.72029877,-1.37925005,-48.47629929,301.1855255998358,False
+AD,Azul,UBA,CNF,M�rio de Almeida Franco Airport,Tancredo Neves International Airport,-19.76472282,-47.96611023,-19.62444305,-43.9719429,418.43161908218275,False
+AD,Azul,UBA,VCP,M�rio de Almeida Franco Airport,Viracopos International Airport,-19.76472282,-47.96611023,-23.00740051,-47.1344986,370.70364694091757,False
+AD,Azul,UDI,BSB,Ten. Cel. Aviador C�sar Bombonato Airport,Presidente Juscelino Kubistschek International Airport,-18.883612,-48.225277,-15.86916733,-47.92083359,336.7438909221125,False
+AD,Azul,UDI,CNF,Ten. Cel. Aviador C�sar Bombonato Airport,Tancredo Neves International Airport,-18.883612,-48.225277,-19.62444305,-43.9719429,454.01551347438834,False
+AD,Azul,UDI,PLU,Ten. Cel. Aviador C�sar Bombonato Airport,Pampulha - Carlos Drummond de Andrade Airport,-18.883612,-48.225277,-19.8512001,-43.95059967,461.13299024728093,False
+AD,Azul,UDI,VCP,Ten. Cel. Aviador C�sar Bombonato Airport,Viracopos International Airport,-18.883612,-48.225277,-23.00740051,-47.1344986,472.3197900719233,False
+AD,Azul,VCP,AJU,Viracopos International Airport,Santa Maria Airport,-23.00740051,-47.1344986,-10.98400021,-37.07030106,1710.8839832744989,True
+AD,Azul,VCP,AQA,Viracopos International Airport,Araraquara Airport,-23.00740051,-47.1344986,-21.81200027,-48.13299942,167.9388464534254,False
+AD,Azul,VCP,ARU,Viracopos International Airport,Ara�atuba Airport,-23.00740051,-47.1344986,-21.1413002,-50.42470169,397.4697207372523,False
+AD,Azul,VCP,BPS,Viracopos International Airport,Porto Seguro Airport,-23.00740051,-47.1344986,-16.438601,-39.080898,1114.862487234181,False
+AD,Azul,VCP,BSB,Viracopos International Airport,Presidente Juscelino Kubistschek International Airport,-23.00740051,-47.1344986,-15.86916733,-47.92083359,797.9988021718684,True
+AD,Azul,VCP,BYO,Viracopos International Airport,Bonito Airport,-23.00740051,-47.1344986,-21.247299,-56.452499,979.3516386646619,False
+AD,Azul,VCP,CAC,Viracopos International Airport,Cascavel Airport,-23.00740051,-47.1344986,-25.00029945,-53.50080109,683.4933238653783,False
+AD,Azul,VCP,CCM,Viracopos International Airport,Diom�cio Freitas Airport,-23.00740051,-47.1344986,-28.72444344,-49.42139053,675.5762956553125,False
+AD,Azul,VCP,CFB,Viracopos International Airport,Cabo Frio Airport,-23.00740051,-47.1344986,-22.92169952,-42.07429886,518.1369671491478,False
+AD,Azul,VCP,CGB,Viracopos International Airport,Marechal Rondon Airport,-23.00740051,-47.1344986,-15.65289974,-56.11669922,1247.0564005020165,True
+AD,Azul,VCP,CGR,Viracopos International Airport,Campo Grande Airport,-23.00740051,-47.1344986,-20.46870041,-54.67250061,828.0158844236255,True
+AD,Azul,VCP,CLV,Viracopos International Airport,Nelson Ribeiro Guimar�es Airport,-23.00740051,-47.1344986,-17.72529984,-48.60749817,607.0631770346209,False
+AD,Azul,VCP,CNF,Viracopos International Airport,Tancredo Neves International Airport,-23.00740051,-47.1344986,-19.62444305,-43.9719429,498.7754467547607,True
+AD,Azul,VCP,CWB,Viracopos International Airport,Afonso Pena Airport,-23.00740051,-47.1344986,-25.5284996,-49.17580032,348.41466908810753,True
+AD,Azul,VCP,CXJ,Viracopos International Airport,Hugo Cantergiani Regional Airport,-23.00740051,-47.1344986,-29.19709969,-51.1875,798.2532600886674,False
+AD,Azul,VCP,DOU,Viracopos International Airport,Dourados Airport,-23.00740051,-47.1344986,-22.2019,-54.926601,804.7798052733823,False
+AD,Azul,VCP,FLN,Viracopos International Airport,Herc�lio Luz International Airport,-23.00740051,-47.1344986,-27.67027855,-48.55250168,537.6978822062481,True
+AD,Azul,VCP,FOR,Viracopos International Airport,Pinto Martins International Airport,-23.00740051,-47.1344986,-3.776279926,-38.5326004,2330.006209673429,True
+AD,Azul,VCP,GIG,Viracopos International Airport,Rio Gale�o � Tom Jobim International Airport,-23.00740051,-47.1344986,-22.80999947,-43.25055695,398.404339155782,True
+AD,Azul,VCP,GYN,Viracopos International Airport,Santa Genoveva Airport,-23.00740051,-47.1344986,-16.63199997,-49.22069931,741.6963890293144,False
+AD,Azul,VCP,IGU,Viracopos International Airport,Cataratas International Airport,-23.00740051,-47.1344986,-25.60027885,-54.48500061,798.5758617839092,False
+AD,Azul,VCP,IOS,Viracopos International Airport,Bahia - Jorge Amado Airport,-23.00740051,-47.1344986,-14.81599998,-39.03319931,1246.6234621122192,True
+AD,Azul,VCP,IZA,Viracopos International Airport,Zona da Mata Regional Airport,-23.00740051,-47.1344986,-21.5130558,-43.17305756,440.20021244439715,False
+AD,Azul,VCP,JDO,Viracopos International Airport,Orlando Bezerra de Menezes Airport,-23.00740051,-47.1344986,-7.218959808,-39.27009964,1946.6016713441627,False
+AD,Azul,VCP,JOI,Viracopos International Airport,Lauro Carneiro de Loyola Airport,-23.00740051,-47.1344986,-26.22450066,-48.79740143,395.23815705640175,False
+AD,Azul,VCP,JPA,Viracopos International Airport,Presidente Castro Pinto International Airport,-23.00740051,-47.1344986,-7.145833015,-34.94861221,2192.888980381369,True
+AD,Azul,VCP,JTC,Viracopos International Airport,Bauru - Arealva Airport,-23.00740051,-47.1344986,-22.16685914,-49.05028667,217.75981561486128,False
+AD,Azul,VCP,LDB,Viracopos International Airport,Governador Jos� Richa Airport,-23.00740051,-47.1344986,-23.33359909,-51.13010025,410.0470038880829,False
+AD,Azul,VCP,MAO,Viracopos International Airport,Eduardo Gomes International Airport,-23.00740051,-47.1344986,-3.038609982,-60.04970169,2620.0108023046437,True
+AD,Azul,VCP,MCZ,Viracopos International Airport,Zumbi dos Palmares Airport,-23.00740051,-47.1344986,-9.510809898,-35.79169846,1925.988355092138,True
+AD,Azul,VCP,MEA,Viracopos International Airport,Maca� Airport,-23.00740051,-47.1344986,-22.34300041,-41.76599884,555.7067520887906,False
+AD,Azul,VCP,MGF,Viracopos International Airport,Regional de Maring� - S�lvio Nane Junior Airport,-23.00740051,-47.1344986,-23.4794445,-52.01222229,501.0878757425253,False
+AD,Azul,VCP,MII,Viracopos International Airport,Frank Miloye Milenkowichi�Mar�lia State Airport,-23.00740051,-47.1344986,-22.19689941,-49.92639923,300.4302097237453,False
+AD,Azul,VCP,NAT,Viracopos International Airport,Governador Alu�zio Alves International Airport,-23.00740051,-47.1344986,-5.768056,-35.376111,2294.26682643242,True
+AD,Azul,VCP,NVT,Viracopos International Airport,Ministro Victor Konder International Airport,-23.00740051,-47.1344986,-26.879999,-48.651402,456.94981125364984,False
+AD,Azul,VCP,PFB,Viracopos International Airport,Lauro Kurtz Airport,-23.00740051,-47.1344986,-28.243999,-52.326599,780.8136520001196,False
+AD,Azul,VCP,PLU,Viracopos International Airport,Pampulha - Carlos Drummond de Andrade Airport,-23.00740051,-47.1344986,-19.8512001,-43.95059967,481.3869766706368,True
+AD,Azul,VCP,POA,Viracopos International Airport,Salgado Filho Airport,-23.00740051,-47.1344986,-29.99440002,-51.17139816,874.4239153916837,True
+AD,Azul,VCP,PPB,Viracopos International Airport,Presidente Prudente Airport,-23.00740051,-47.1344986,-22.17510033,-51.42459869,450.03153503835887,False
+AD,Azul,VCP,RAO,Viracopos International Airport,Leite Lopes Airport,-23.00740051,-47.1344986,-21.13638878,-47.77666855,218.3158853852667,False
+AD,Azul,VCP,REC,Viracopos International Airport,Guararapes - Gilberto Freyre International Airport,-23.00740051,-47.1344986,-8.126489639,-34.92359924,2106.2839698115313,True
+AD,Azul,VCP,RVD,Viracopos International Airport,General Leite de Castro Airport,-23.00740051,-47.1344986,-17.83472252,-50.95611191,699.4716562573967,False
+AD,Azul,VCP,SDU,Viracopos International Airport,Santos Dumont Airport,-23.00740051,-47.1344986,-22.91049957,-43.1631012,406.74803948816384,True
+AD,Azul,VCP,SJP,Viracopos International Airport,Prof. Eribelto Manoel Reino State Airport,-23.00740051,-47.1344986,-20.8166008,-49.40650177,338.0368087193899,False
+AD,Azul,VCP,SSA,Viracopos International Airport,Deputado Luiz Eduardo Magalh�es International Airport,-23.00740051,-47.1344986,-12.9086113,-38.32249832,1458.3182078901052,True
+AD,Azul,VCP,THE,Viracopos International Airport,Senador Petr�nio Portela Airport,-23.00740051,-47.1344986,-5.059939861,-42.82350159,2048.6210588346485,True
+AD,Azul,VCP,UBA,Viracopos International Airport,M�rio de Almeida Franco Airport,-23.00740051,-47.1344986,-19.76472282,-47.96611023,370.70364694091757,False
+AD,Azul,VCP,UDI,Viracopos International Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-23.00740051,-47.1344986,-18.883612,-48.225277,472.3197900719233,False
+AD,Azul,VCP,VIX,Viracopos International Airport,Eurico de Aguiar Salles Airport,-23.00740051,-47.1344986,-20.258057,-40.286388,770.8938159510607,False
+AD,Azul,VCP,XAP,Viracopos International Airport,Serafin Enoss Bertaso Airport,-23.00740051,-47.1344986,-27.13419914,-52.65660095,720.860800115278,False
+AD,Azul,VDC,CNF,Vit�ria da Conquista Airport,Tancredo Neves International Airport,-14.86279964,-40.86309814,-19.62444305,-43.9719429,623.9030112442703,True
+AD,Azul,VDC,PLU,Vit�ria da Conquista Airport,Pampulha - Carlos Drummond de Andrade Airport,-14.86279964,-40.86309814,-19.8512001,-43.95059967,644.1741820702281,True
+AD,Azul,VDC,SSA,Vit�ria da Conquista Airport,Deputado Luiz Eduardo Magalh�es International Airport,-14.86279964,-40.86309814,-12.9086113,-38.32249832,349.88434530402685,True
+AD,Azul,VIX,CNF,Eurico de Aguiar Salles Airport,Tancredo Neves International Airport,-20.258057,-40.286388,-19.62444305,-43.9719429,391.6228668703334,False
+AD,Azul,VIX,SDU,Eurico de Aguiar Salles Airport,Santos Dumont Airport,-20.258057,-40.286388,-22.91049957,-43.1631012,418.85145986747375,False
+AD,Azul,VIX,SSA,Eurico de Aguiar Salles Airport,Deputado Luiz Eduardo Magalh�es International Airport,-20.258057,-40.286388,-12.9086113,-38.32249832,843.5500903214066,False
+AD,Azul,VIX,VCP,Eurico de Aguiar Salles Airport,Viracopos International Airport,-20.258057,-40.286388,-23.00740051,-47.1344986,770.8938159510607,False
+AD,Azul,XAP,POA,Serafin Enoss Bertaso Airport,Salgado Filho Airport,-27.13419914,-52.65660095,-29.99440002,-51.17139816,349.5411335535671,False
+AD,Azul,XAP,VCP,Serafin Enoss Bertaso Airport,Viracopos International Airport,-27.13419914,-52.65660095,-23.00740051,-47.1344986,720.860800115278,False
+AD,Azul,AAX,CNF,Romeu Zema Airport,Tancredo Neves International Airport,-19.5632,-46.96039963,-19.62444305,-43.9719429,313.1289133169562,False
+AD,Azul,AAX,UBA,Romeu Zema Airport,M�rio de Almeida Franco Airport,-19.5632,-46.96039963,-19.76472282,-47.96611023,107.66575476851992,False
+AD,Azul,BEL,CAY,Val de Cans/J�lio Cezar Ribeiro International Airport,Cayenne-Rochambeau Airport,-1.37925005,-48.47629929,4.819809914,-52.36040115,813.2162000825944,False
+AD,Azul,BEL,CGB,Val de Cans/J�lio Cezar Ribeiro International Airport,Marechal Rondon Airport,-1.37925005,-48.47629929,-15.65289974,-56.11669922,1794.7395117091926,True
+AD,Azul,BEL,FLL,Val de Cans/J�lio Cezar Ribeiro International Airport,Fort Lauderdale Hollywood International Airport,-1.37925005,-48.47629929,26.072599,-80.152702,4569.518679462498,False
+AD,Azul,BEL,REC,Val de Cans/J�lio Cezar Ribeiro International Airport,Guararapes - Gilberto Freyre International Airport,-1.37925005,-48.47629929,-8.126489639,-34.92359924,1677.9700831459868,True
+AD,Azul,BEL,SLZ,Val de Cans/J�lio Cezar Ribeiro International Airport,Marechal Cunha Machado International Airport,-1.37925005,-48.47629929,-2.58536005,-44.23410034,490.1255449163156,False
+AD,Azul,BPS,PPB,Porto Seguro Airport,Presidente Prudente Airport,-16.438601,-39.080898,-22.17510033,-51.42459869,1442.989505473491,False
+AD,Azul,BPS,SJP,Porto Seguro Airport,Prof. Eribelto Manoel Reino State Airport,-16.438601,-39.080898,-20.8166008,-49.40650177,1191.4892044089222,False
+AD,Azul,BPS,UDI,Porto Seguro Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-16.438601,-39.080898,-18.883612,-48.225277,1006.1218951683333,False
+AD,Azul,BYO,CMG,Bonito Airport,Corumb� International Airport,-21.247299,-56.452499,-19.01194382,-57.67139053,279.2367991717206,False
+AD,Azul,CGB,BPG,Marechal Rondon Airport,Barra do Gar�as Airport,-15.65289974,-56.11669922,-15.86130047,-52.38890076,399.602575804607,False
+AD,Azul,CGB,REC,Marechal Rondon Airport,Guararapes - Gilberto Freyre International Airport,-15.65289974,-56.11669922,-8.126489639,-34.92359924,2450.871705083942,True
+AD,Azul,CGB,SMT,Marechal Rondon Airport,Adolino Bedin Regional Airport,-15.65289974,-56.11669922,-12.479177,-55.672341,356.1407107798722,False
+AD,Azul,CNF,BRA,Tancredo Neves International Airport,Barreiras Airport,-19.62444305,-43.9719429,-12.07890034,-45.00899887,846.3144327432132,False
+AD,Azul,CNF,CFB,Tancredo Neves International Airport,Cabo Frio Airport,-19.62444305,-43.9719429,-22.92169952,-42.07429886,416.0182600532211,False
+AD,Azul,CNF,CGH,Tancredo Neves International Airport,Congonhas Airport,-19.62444305,-43.9719429,-23.62611008,-46.65638733,524.3517493285782,True
+AD,Azul,CNF,CLV,Tancredo Neves International Airport,Nelson Ribeiro Guimar�es Airport,-19.62444305,-43.9719429,-17.72529984,-48.60749817,531.9784278978069,False
+AD,Azul,CNF,EZE,Tancredo Neves International Airport,Ministro Pistarini International Airport,-19.62444305,-43.9719429,-34.8222,-58.5358,2214.785590093338,False
+AD,Azul,CNF,GIG,Tancredo Neves International Airport,Rio Gale�o � Tom Jobim International Airport,-19.62444305,-43.9719429,-22.80999947,-43.25055695,362.0216910774585,True
+AD,Azul,CNF,GVR,Tancredo Neves International Airport,Coronel Altino Machado de Oliveira Airport,-19.62444305,-43.9719429,-18.89520073,-41.98220062,224.05176830994054,False
+AD,Azul,CNF,IGU,Tancredo Neves International Airport,Cataratas International Airport,-19.62444305,-43.9719429,-25.60027885,-54.48500061,1266.4822791616814,False
+AD,Azul,CNF,IOS,Tancredo Neves International Airport,Bahia - Jorge Amado Airport,-19.62444305,-43.9719429,-14.81599998,-39.03319931,748.8675944348071,True
+AD,Azul,CNF,JJD,Tancredo Neves International Airport,Jericoacoara,-19.62444305,-43.9719429,-2.5424,-40.2129,1942.863912770741,False
+AD,Azul,CNF,JPA,Tancredo Neves International Airport,Presidente Castro Pinto International Airport,-19.62444305,-43.9719429,-7.145833015,-34.94861221,1695.1568929430507,True
+AD,Azul,CNF,MCO,Tancredo Neves International Airport,Orlando International Airport,-19.62444305,-43.9719429,28.42939949,-81.30899811,6681.306092740403,False
+AD,Azul,CNF,MCZ,Tancredo Neves International Airport,Zumbi dos Palmares Airport,-19.62444305,-43.9719429,-9.510809898,-35.79169846,1427.3109537857595,True
+AD,Azul,CNF,NAT,Tancredo Neves International Airport,Governador Alu�zio Alves International Airport,-19.62444305,-43.9719429,-5.768056,-35.376111,1799.5606318566947,True
+AD,Azul,CNF,PVH,Tancredo Neves International Airport,Governador Jorge Teixeira de Oliveira Airport,-19.62444305,-43.9719429,-8.709289551,-63.90230179,2463.8846245525856,True
+AD,Azul,CNF,TXF,Tancredo Neves International Airport,9 de Maio - Teixeira de Freitas Airport,-19.62444305,-43.9719429,-17.52449989,-39.66849899,510.1289865998857,False
+AD,Azul,CNF,VAG,Tancredo Neves International Airport,Major Brigadeiro Trompowsky Airport,-19.62444305,-43.9719429,-21.59009933,-45.47330093,268.6770508258094,False
+AD,Azul,CNF,VAL,Tancredo Neves International Airport,Valen�a Airport,-19.62444305,-43.9719429,-13.2965,-38.992401,881.3026633784442,False
+AD,Azul,CWB,CGH,Afonso Pena Airport,Congonhas Airport,-25.5284996,-49.17580032,-23.62611008,-46.65638733,331.12110524686204,True
+AD,Azul,CWB,CGR,Afonso Pena Airport,Campo Grande Airport,-25.5284996,-49.17580032,-20.46870041,-54.67250061,795.4473267554047,True
+AD,Azul,CWB,PTO,Afonso Pena Airport,PATO BRANCO,-25.5284996,-49.17580032,-26.2172,-52.6936,360.1744662459549,False
+AD,Azul,CWB,TOW,Afonso Pena Airport,Toledo Airport,-25.5284996,-49.17580032,-24.6863,-53.697498,464.78733852023885,False
+AD,Azul,FLN,XAP,Herc�lio Luz International Airport,Serafin Enoss Bertaso Airport,-27.67027855,-48.55250168,-27.13419914,-52.65660095,409.491641946421,False
+AD,Azul,FOR,CAY,Pinto Martins International Airport,Cayenne-Rochambeau Airport,-3.776279926,-38.5326004,4.819809914,-52.36040115,1809.1851919150092,False
+AD,Azul,GRU,BPS,Guarulhos - Governador Andr� Franco Montoro International Airport,Porto Seguro Airport,-23.43555641,-46.47305679,-16.438601,-39.080898,1096.02446909689,False
+AD,Azul,GRU,FLN,Guarulhos - Governador Andr� Franco Montoro International Airport,Herc�lio Luz International Airport,-23.43555641,-46.47305679,-27.67027855,-48.55250168,514.9856745349628,True
+AD,Azul,GRU,VIX,Guarulhos - Governador Andr� Franco Montoro International Airport,Eurico de Aguiar Salles Airport,-23.43555641,-46.47305679,-20.258057,-40.286388,729.6130887036134,False
+AD,Azul,GYN,BPG,Santa Genoveva Airport,Barra do Gar�as Airport,-16.63199997,-49.22069931,-15.86130047,-52.38890076,348.90151838711853,False
+AD,Azul,GYN,BPS,Santa Genoveva Airport,Porto Seguro Airport,-16.63199997,-49.22069931,-16.438601,-39.080898,1080.9651493461556,False
+AD,Azul,GYN,RAO,Santa Genoveva Airport,Leite Lopes Airport,-16.63199997,-49.22069931,-21.13638878,-47.77666855,523.3844820782108,False
+AD,Azul,GYN,REC,Santa Genoveva Airport,Guararapes - Gilberto Freyre International Airport,-16.63199997,-49.22069931,-8.126489639,-34.92359924,1816.5961801254848,False
+AD,Azul,GYN,SSA,Santa Genoveva Airport,Deputado Luiz Eduardo Magalh�es International Airport,-16.63199997,-49.22069931,-12.9086113,-38.32249832,1242.4289504118494,False
+AD,Azul,MAO,REC,Eduardo Gomes International Airport,Guararapes - Gilberto Freyre International Airport,-3.038609982,-60.04970169,-8.126489639,-34.92359924,2836.478285242483,True
+AD,Azul,POA,CGH,Salgado Filho Airport,Congonhas Airport,-29.99440002,-51.17139816,-23.62611008,-46.65638733,837.7495680979364,True
+AD,Azul,POA,COR,Salgado Filho Airport,Ingeniero Ambrosio Taravella Airport,-29.99440002,-51.17139816,-31.323601,-64.208,1254.9489373888914,False
+AD,Azul,POA,FLN,Salgado Filho Airport,Herc�lio Luz International Airport,-29.99440002,-51.17139816,-27.67027855,-48.55250168,363.10728340053413,True
+AD,Azul,POA,GEL,Salgado Filho Airport,Santo �ngelo Airport,-29.99440002,-51.17139816,-28.2817,-54.169102,347.8766055759036,False
+AD,Azul,POA,MVD,Salgado Filho Airport,Carrasco International /General C L Berisso Airport,-29.99440002,-51.17139816,-34.838402,-56.0308,705.6034572246162,False
+AD,Azul,POA,PDP,Salgado Filho Airport,Capitan Corbeta CA Curbelo International Airport,-29.99440002,-51.17139816,-34.85509872,-55.09429932,653.8353302062364,False
+AD,Azul,POA,ROS,Salgado Filho Airport,Islas Malvinas Airport,-29.99440002,-51.17139816,-32.9036,-60.785,967.1585466874174,False
+AD,Azul,POA,URG,Salgado Filho Airport,Rubem Berta Airport,-29.99440002,-51.17139816,-29.78219986,-57.03820038,566.023957907636,False
+AD,Azul,RAO,BPS,Leite Lopes Airport,Porto Seguro Airport,-21.13638878,-47.77666855,-16.438601,-39.080898,1053.5849140883397,False
+AD,Azul,REC,COR,Guararapes - Gilberto Freyre International Airport,Ingeniero Ambrosio Taravella Airport,-8.126489639,-34.92359924,-31.323601,-64.208,3980.590371427588,False
+AD,Azul,REC,CPV,Guararapes - Gilberto Freyre International Airport,Presidente Jo�o Suassuna Airport,-8.126489639,-34.92359924,-7.26992,-35.8964,143.3963271727553,False
+AD,Azul,REC,FLL,Guararapes - Gilberto Freyre International Airport,Fort Lauderdale Hollywood International Airport,-8.126489639,-34.92359924,26.072599,-80.152702,6188.942255803705,False
+AD,Azul,REC,GIG,Guararapes - Gilberto Freyre International Airport,Rio Gale�o � Tom Jobim International Airport,-8.126489639,-34.92359924,-22.80999947,-43.25055695,1859.2143854426683,True
+AD,Azul,REC,JDO,Guararapes - Gilberto Freyre International Airport,Orlando Bezerra de Menezes Airport,-8.126489639,-34.92359924,-7.218959808,-39.27009964,489.48931778862857,False
+AD,Azul,REC,JPA,Guararapes - Gilberto Freyre International Airport,Presidente Castro Pinto International Airport,-8.126489639,-34.92359924,-7.145833015,-34.94861221,109.07887918149474,True
+AD,Azul,REC,MCO,Guararapes - Gilberto Freyre International Airport,Orlando International Airport,-8.126489639,-34.92359924,28.42939949,-81.30899811,6424.419698427336,False
+AD,Azul,REC,MVF,Guararapes - Gilberto Freyre International Airport,Dix-Sept Rosado Airport,-8.126489639,-34.92359924,-5.201920032,-37.36429977,422.3732968632979,False
+AD,Azul,REC,PNZ,Guararapes - Gilberto Freyre International Airport,Senador Nilo Coelho Airport,-8.126489639,-34.92359924,-9.362409592,-40.56909943,635.4735444636977,False
+AD,Azul,REC,RAO,Guararapes - Gilberto Freyre International Airport,Leite Lopes Airport,-8.126489639,-34.92359924,-21.13638878,-47.77666855,1998.6462039345033,False
+AD,Azul,REC,ROS,Guararapes - Gilberto Freyre International Airport,Islas Malvinas Airport,-8.126489639,-34.92359924,-32.9036,-60.785,3829.694511001546,False
+AD,Azul,REC,UDI,Guararapes - Gilberto Freyre International Airport,Ten. Cel. Aviador C�sar Bombonato Airport,-8.126489639,-34.92359924,-18.883612,-48.225277,1868.544939054007,False
+AD,Azul,REC,VIX,Guararapes - Gilberto Freyre International Airport,Eurico de Aguiar Salles Airport,-8.126489639,-34.92359924,-20.258057,-40.286388,1467.1155291247617,False
+AD,Azul,SDU,NVT,Santos Dumont Airport,Ministro Victor Konder International Airport,-22.91049957,-43.1631012,-26.879999,-48.651402,707.8230092084932,False
+AD,Azul,SDU,RAO,Santos Dumont Airport,Leite Lopes Airport,-22.91049957,-43.1631012,-21.13638878,-47.77666855,514.8207872187579,False
+AD,Azul,SLZ,IMP,Marechal Cunha Machado International Airport,Prefeito Renato Moreira Airport,-2.58536005,-44.23410034,-5.53129,-47.459999,485.0759824878667,False
+AD,Azul,SLZ,REC,Marechal Cunha Machado International Airport,Guararapes - Gilberto Freyre International Airport,-2.58536005,-44.23410034,-8.126489639,-34.92359924,1200.513064004494,False
+AD,Azul,SSA,FEC,Deputado Luiz Eduardo Magalh�es International Airport,FEIRA DE SANTANA/J.D.CARNEIRO,-12.9086113,-38.32249832,-12.2025,-38.9061,100.88046094967675,False
+AD,Azul,SSA,GYN,Deputado Luiz Eduardo Magalh�es International Airport,Santa Genoveva Airport,-12.9086113,-38.32249832,-16.63199997,-49.22069931,1242.4289504118494,False
+AD,Azul,VCP,BEL,Viracopos International Airport,Val de Cans/J�lio Cezar Ribeiro International Airport,-23.00740051,-47.1344986,-1.37925005,-48.47629929,2409.298302683827,True
+AD,Azul,VCP,CMG,Viracopos International Airport,Corumb� International Airport,-23.00740051,-47.1344986,-19.01194382,-57.67139053,1180.0639798296468,False
+AD,Azul,VCP,EZE,Viracopos International Airport,Ministro Pistarini International Airport,-23.00740051,-47.1344986,-34.8222,-58.5358,1716.9995350299728,False
+AD,Azul,VCP,FLL,Viracopos International Airport,Fort Lauderdale Hollywood International Airport,-23.00740051,-47.1344986,26.072599,-80.152702,6512.537738220617,False
+AD,Azul,VCP,JJD,Viracopos International Airport,Jericoacoara,-23.00740051,-47.1344986,-2.5424,-40.2129,2394.7433543970624,False
+AD,Azul,VCP,JJG,Viracopos International Airport,Humberto Ghizzo Bortoluzzi Regional Airport,-23.00740051,-47.1344986,-28.6753,-49.0596,658.9907123760895,False
+AD,Azul,VCP,LAJ,Viracopos International Airport,Lages Airport,-23.00740051,-47.1344986,-27.78210068,-50.28150177,617.8252190896286,False
+AD,Azul,VCP,LIS,Viracopos International Airport,Humberto Delgado Airport (Lisbon Portela Airport),-23.00740051,-47.1344986,38.7813,-9.13592,7928.1095047596455,False
+AD,Azul,VCP,MCO,Viracopos International Airport,Orlando International Airport,-23.00740051,-47.1344986,28.42939949,-81.30899811,6791.625391061228,False
+AD,Azul,VCP,PGZ,Viracopos International Airport,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,-23.00740051,-47.1344986,-25.1847,-50.1441,389.7668753850598,False
+AD,Azul,VCP,PHB,Viracopos International Airport,Prefeito Doutor Jo�o Silva Filho Airport,-23.00740051,-47.1344986,-2.893749952,-41.73199844,2311.0040961144305,False
+AD,Azul,VCP,PNZ,Viracopos International Airport,Senador Nilo Coelho Airport,-23.00740051,-47.1344986,-9.362409592,-40.56909943,1670.523876009804,False
+AD,Azul,VCP,ROO,Viracopos International Airport,Maestro Marinho Franco Airport,-23.00740051,-47.1344986,-16.586,-54.7248,1067.4465781127822,False
+AD,Azul,VCP,TJL,Viracopos International Airport,Pl�nio Alarcom Airport,-23.00740051,-47.1344986,-20.75419998,-51.68420029,532.0771322548289,False

@@ -282,3 +282,78 @@ For questions, suggestions, or collaboration opportunities:
 
 **Made with ❤️ by [Manus AI](https://github.com/manus-ai) | Powered by NetworkX and Python**
 
+
+
+## 🆕 Análise com Dados Reais do Kaggle
+
+### Novo Notebook: `Complete_Gol_Azul_Codeshare_Analysis.ipynb`
+
+**Análise completa e autocontida usando dados reais do Kaggle:**
+
+- 🔄 **Clonagem automática** do repositório
+- 📊 **Processamento completo** dos dados do Kaggle
+- 🧮 **Implementação do algoritmo Johnson** do zero
+- 🤝 **10.693 oportunidades** de codeshare identificadas
+- 🗺️ **Visualizações interativas** e mapas geográficos
+- 📈 **Insights estratégicos** baseados em dados reais
+
+### Como usar:
+1. Abra o notebook no Google Colab
+2. Execute todas as células sequencialmente
+3. O notebook faz tudo automaticamente!
+
+### Principais descobertas:
+- **944 rotas reais** da Gol (458) e Azul (486)
+- **145 aeroportos** únicos mapeados
+- **60% das rotas** apresentam oportunidades de codeshare
+- **Complementaridade perfeita** das malhas aéreas
+
+
+## 🆕 Análise com Dados Reais do Kaggle
+
+### Novo Notebook: `Complete_Gol_Azul_Codeshare_Analysis.ipynb`
+
+**Análise completa e autocontida usando dados reais do Kaggle:**
+
+- 🔄 **Clonagem automática** do repositório
+- 📊 **Processamento completo** dos dados do Kaggle
+- 🧮 **Implementação do algoritmo Johnson** do zero
+- 🤝 **10.693 oportunidades** de codeshare identificadas
+- 🗺️ **Visualizações interativas** e mapas geográficos
+- 📈 **Insights estratégicos** baseados em dados reais
+
+### Como usar:
+1. Abra o notebook no Google Colab
+2. Execute todas as células sequencialmente
+3. O notebook faz tudo automaticamente!
+
+### Principais descobertas:
+- **944 rotas reais** da Gol (458) e Azul (486)
+- **145 aeroportos** únicos mapeados
+- **60% das rotas** apresentam oportunidades de codeshare
+- **Complementaridade perfeita** das malhas aéreas
+
+
+## 🆕 Análise com Dados Reais do Kaggle
+
+### Novo Notebook: `Complete_Gol_Azul_Codeshare_Analysis.ipynb`
+
+**Análise completa e autocontida usando dados reais do Kaggle:**
+
+- 🔄 **Clonagem automática** do repositório
+- 📊 **Processamento completo** dos dados do Kaggle
+- 🧮 **Implementação do algoritmo Johnson** do zero
+- 🤝 **10.693 oportunidades** de codeshare identificadas
+- 🗺️ **Visualizações interativas** e mapas geográficos
+- 📈 **Insights estratégicos** baseados em dados reais
+
+### Como usar:
+1. Abra o notebook no Google Colab
+2. Execute todas as células sequencialmente
+3. O notebook faz tudo automaticamente!
+
+### Principais descobertas:
+- **944 rotas reais** da Gol (458) e Azul (486)
+- **145 aeroportos** únicos mapeados
+- **60% das rotas** apresentam oportunidades de codeshare
+- **Complementaridade perfeita** das malhas aéreas

@@ -1,0 +1,5996 @@
+{
+  "nodes": [
+    {
+      "id": "LIS",
+      "lat": 38.7813,
+      "lon": -9.13592,
+      "label": "Humberto Delgado Airport (Lisbon Portela Airport)",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PUJ",
+      "lat": 18.56739998,
+      "lon": -68.36340332,
+      "label": "Punta Cana International Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.006753990241267259
+    },
+    {
+      "id": "SDQ",
+      "lat": 18.42970085,
+      "lon": -69.66889954,
+      "label": "Las Am\ufffdricas International Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0050979112354902325
+    },
+    {
+      "id": "CUN",
+      "lat": 21.03650093,
+      "lon": -86.87709808,
+      "label": "Canc\ufffdn International Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "ROS",
+      "lat": -32.9036,
+      "lon": -60.785,
+      "label": "Islas Malvinas Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "AEP",
+      "lat": -34.5592,
+      "lon": -58.4156,
+      "label": "Jorge Newbery Airpark",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "COR",
+      "lat": -31.323601,
+      "lon": -64.208,
+      "label": "Ingeniero Ambrosio Taravella Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MDZ",
+      "lat": -32.83169937,
+      "lon": -68.79290009,
+      "label": "El Plumerillo Airport",
+      "degree_centrality": 0.020833333333333332,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "AQA",
+      "lat": -21.81200027,
+      "lon": -48.13299942,
+      "label": "Araraquara Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "AJU",
+      "lat": -10.98400021,
+      "lon": -37.07030106,
+      "label": "Santa Maria Airport",
+      "degree_centrality": 0.1111111111111111,
+      "betweenness_centrality": 0.0003531908242028459
+    },
+    {
+      "id": "AFL",
+      "lat": -9.866389275,
+      "lon": -56.10499954,
+      "label": "Piloto Osvaldo Marques Dias Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "ARU",
+      "lat": -21.1413002,
+      "lon": -50.42470169,
+      "label": "Ara\ufffdatuba Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0002466469982503261
+    },
+    {
+      "id": "BEL",
+      "lat": -1.37925005,
+      "lon": -48.47629929,
+      "label": "Val de Cans/J\ufffdlio Cezar Ribeiro International Airport",
+      "degree_centrality": 0.2361111111111111,
+      "betweenness_centrality": 0.0729383437023831
+    },
+    {
+      "id": "PLU",
+      "lat": -19.8512001,
+      "lon": -43.95059967,
+      "label": "Pampulha - Carlos Drummond de Andrade Airport",
+      "degree_centrality": 0.14583333333333331,
+      "betweenness_centrality": 0.040333977638165625
+    },
+    {
+      "id": "BSB",
+      "lat": -15.86916733,
+      "lon": -47.92083359,
+      "label": "Presidente Juscelino Kubistschek International Airport",
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.1000758108334214
+    },
+    {
+      "id": "BVB",
+      "lat": 2.841388941,
+      "lon": -60.6922226,
+      "label": "Atlas Brasil Cantanhede Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "BPG",
+      "lat": -15.86130047,
+      "lon": -52.38890076,
+      "label": "Barra do Gar\ufffdas Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CAC",
+      "lat": -25.00029945,
+      "lon": -53.50080109,
+      "label": "Cascavel Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.0002466469982503261
+    },
+    {
+      "id": "CNF",
+      "lat": -19.62444305,
+      "lon": -43.9719429,
+      "label": "Tancredo Neves International Airport",
+      "degree_centrality": 0.5208333333333333,
+      "betweenness_centrality": 0.10675840123688554
+    },
+    {
+      "id": "CGR",
+      "lat": -20.46870041,
+      "lon": -54.67250061,
+      "label": "Campo Grande Airport",
+      "degree_centrality": 0.11805555555555555,
+      "betweenness_centrality": 0.012206695446302512
+    },
+    {
+      "id": "XAP",
+      "lat": -27.13419914,
+      "lon": -52.65660095,
+      "label": "Serafin Enoss Bertaso Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0002441805282678228
+    },
+    {
+      "id": "CCM",
+      "lat": -28.72444344,
+      "lon": -49.42139053,
+      "label": "Diom\ufffdcio Freitas Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CAW",
+      "lat": -21.69829941,
+      "lon": -41.30170059,
+      "label": "Bartolomeu Lisandro Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CMG",
+      "lat": -19.01194382,
+      "lon": -57.67139053,
+      "label": "Corumb\ufffd International Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CWB",
+      "lat": -25.5284996,
+      "lon": -49.17580032,
+      "label": "Afonso Pena Airport",
+      "degree_centrality": 0.21527777777777776,
+      "betweenness_centrality": 0.015235862492958305
+    },
+    {
+      "id": "CXJ",
+      "lat": -29.19709969,
+      "lon": -51.1875,
+      "label": "Hugo Cantergiani Regional Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0003531908242028459
+    },
+    {
+      "id": "CGB",
+      "lat": -15.65289974,
+      "lon": -56.11669922,
+      "label": "Marechal Rondon Airport",
+      "degree_centrality": 0.2847222222222222,
+      "betweenness_centrality": 0.07619425924551798
+    },
+    {
+      "id": "CZS",
+      "lat": -7.599909782,
+      "lon": -72.76950073,
+      "label": "Cruzeiro do Sul Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PPB",
+      "lat": -22.17510033,
+      "lon": -51.42459869,
+      "label": "Presidente Prudente Airport",
+      "degree_centrality": 0.034722222222222224,
+      "betweenness_centrality": 3.114045394434424e-05
+    },
+    {
+      "id": "MAO",
+      "lat": -3.038609982,
+      "lon": -60.04970169,
+      "label": "Eduardo Gomes International Airport",
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.15345642566055342
+    },
+    {
+      "id": "IGU",
+      "lat": -25.60027885,
+      "lon": -54.48500061,
+      "label": "Cataratas International Airport",
+      "degree_centrality": 0.10416666666666666,
+      "betweenness_centrality": 0.0005464025735834948
+    },
+    {
+      "id": "FLN",
+      "lat": -27.67027855,
+      "lon": -48.55250168,
+      "label": "Herc\ufffdlio Luz International Airport",
+      "degree_centrality": 0.1111111111111111,
+      "betweenness_centrality": 0.0006237181900200916
+    },
+    {
+      "id": "FEN",
+      "lat": -3.85493,
+      "lon": -32.423302,
+      "label": "Fernando de Noronha Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "FOR",
+      "lat": -3.776279926,
+      "lon": -38.5326004,
+      "label": "Pinto Martins International Airport",
+      "degree_centrality": 0.2569444444444444,
+      "betweenness_centrality": 0.0203328446467172
+    },
+    {
+      "id": "GIG",
+      "lat": -22.80999947,
+      "lon": -43.25055695,
+      "label": "Rio Gale\ufffdo \ufffd Tom Jobim International Airport",
+      "degree_centrality": 0.4097222222222222,
+      "betweenness_centrality": 0.036413203712294326
+    },
+    {
+      "id": "GYN",
+      "lat": -16.63199997,
+      "lon": -49.22069931,
+      "label": "Santa Genoveva Airport",
+      "degree_centrality": 0.16666666666666666,
+      "betweenness_centrality": 0.007789590406771297
+    },
+    {
+      "id": "GRU",
+      "lat": -23.43555641,
+      "lon": -46.47305679,
+      "label": "Guarulhos - Governador Andr\ufffd Franco Montoro International Airport",
+      "degree_centrality": 0.8541666666666666,
+      "betweenness_centrality": 0.28451428329259837
+    },
+    {
+      "id": "ATM",
+      "lat": -3.253910065,
+      "lon": -52.25400162,
+      "label": "Altamira Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "ITB",
+      "lat": -4.242340088,
+      "lon": -56.0007019,
+      "label": "Itaituba Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "IOS",
+      "lat": -14.81599998,
+      "lon": -39.03319931,
+      "label": "Bahia - Jorge Amado Airport",
+      "degree_centrality": 0.06944444444444445,
+      "betweenness_centrality": 0.0003496589159608175
+    },
+    {
+      "id": "IPN",
+      "lat": -19.47069931,
+      "lon": -42.48759842,
+      "label": "Usiminas Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.00024357279602034844
+    },
+    {
+      "id": "IMP",
+      "lat": -5.53129,
+      "lon": -47.459999,
+      "label": "Prefeito Renato Moreira Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "JPA",
+      "lat": -7.145833015,
+      "lon": -34.94861221,
+      "label": "Presidente Castro Pinto International Airport",
+      "degree_centrality": 0.11805555555555555,
+      "betweenness_centrality": 0.00032986826614009665
+    },
+    {
+      "id": "JOI",
+      "lat": -26.22450066,
+      "lon": -48.79740143,
+      "label": "Lauro Carneiro de Loyola Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0003531908242028459
+    },
+    {
+      "id": "CPV",
+      "lat": -7.26992,
+      "lon": -35.8964,
+      "label": "Presidente Jo\ufffdo Suassuna Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 6.763973706122467e-05
+    },
+    {
+      "id": "VCP",
+      "lat": -23.00740051,
+      "lon": -47.1344986,
+      "label": "Viracopos International Airport",
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.2089367584755582
+    },
+    {
+      "id": "LAJ",
+      "lat": -27.78210068,
+      "lon": -50.28150177,
+      "label": "Lages Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "LDB",
+      "lat": -23.33359909,
+      "lon": -51.13010025,
+      "label": "Governador Jos\ufffd Richa Airport",
+      "degree_centrality": 0.09722222222222221,
+      "betweenness_centrality": 0.0008295540208559225
+    },
+    {
+      "id": "MAB",
+      "lat": -5.368589878,
+      "lon": -49.13800049,
+      "label": "Jo\ufffdo Correa da Rocha Airport",
+      "degree_centrality": 0.0625,
+      "betweenness_centrality": 0.006472250748474526
+    },
+    {
+      "id": "MGF",
+      "lat": -23.4794445,
+      "lon": -52.01222229,
+      "label": "Regional de Maring\ufffd - S\ufffdlvio Nane Junior Airport",
+      "degree_centrality": 0.1111111111111111,
+      "betweenness_centrality": 0.001098279069291091
+    },
+    {
+      "id": "MOC",
+      "lat": -16.70689964,
+      "lon": -43.81890106,
+      "label": "M\ufffdrio Ribeiro Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.00024357279602034844
+    },
+    {
+      "id": "MCZ",
+      "lat": -9.510809898,
+      "lon": -35.79169846,
+      "label": "Zumbi dos Palmares Airport",
+      "degree_centrality": 0.13194444444444445,
+      "betweenness_centrality": 0.00045301923085959395
+    },
+    {
+      "id": "MCP",
+      "lat": 0.050664,
+      "lon": -51.07220078,
+      "label": "Alberto Alcolumbre Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MVF",
+      "lat": -5.201920032,
+      "lon": -37.36429977,
+      "label": "Dix-Sept Rosado Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "NVT",
+      "lat": -26.879999,
+      "lon": -48.651402,
+      "label": "Ministro Victor Konder International Airport",
+      "degree_centrality": 0.07638888888888888,
+      "betweenness_centrality": 0.0003604814267833283
+    },
+    {
+      "id": "GEL",
+      "lat": -28.2817,
+      "lon": -54.169102,
+      "label": "Santo \ufffdngelo Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "NAT",
+      "lat": -5.768056,
+      "lon": -35.376111,
+      "label": "Governador Alu\ufffdzio Alves International Airport",
+      "degree_centrality": 0.1388888888888889,
+      "betweenness_centrality": 0.006250747641513054
+    },
+    {
+      "id": "POA",
+      "lat": -29.99440002,
+      "lon": -51.17139816,
+      "label": "Salgado Filho Airport",
+      "degree_centrality": 0.3263888888888889,
+      "betweenness_centrality": 0.04530593095039697
+    },
+    {
+      "id": "PHB",
+      "lat": -2.893749952,
+      "lon": -41.73199844,
+      "label": "Prefeito Doutor Jo\ufffdo Silva Filho Airport",
+      "degree_centrality": 0.034722222222222224,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PFB",
+      "lat": -28.243999,
+      "lon": -52.326599,
+      "label": "Lauro Kurtz Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.0002466469982503261
+    },
+    {
+      "id": "PET",
+      "lat": -31.718399,
+      "lon": -52.327702,
+      "label": "Jo\ufffdo Sim\ufffdes Lopes Neto International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PNZ",
+      "lat": -9.362409592,
+      "lon": -40.56909943,
+      "label": "Senador Nilo Coelho Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 0.00033567965193240647
+    },
+    {
+      "id": "PVH",
+      "lat": -8.709289551,
+      "lon": -63.90230179,
+      "label": "Governador Jorge Teixeira de Oliveira Airport",
+      "degree_centrality": 0.06944444444444445,
+      "betweenness_centrality": 0.002816192072390419
+    },
+    {
+      "id": "RBR",
+      "lat": -9.868888855,
+      "lon": -67.89805603,
+      "label": "Pl\ufffdcido de Castro Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.006004096913187822
+    },
+    {
+      "id": "REC",
+      "lat": -8.126489639,
+      "lon": -34.92359924,
+      "label": "Guararapes - Gilberto Freyre International Airport",
+      "degree_centrality": 0.35416666666666663,
+      "betweenness_centrality": 0.032381550828453405
+    },
+    {
+      "id": "SDU",
+      "lat": -22.91049957,
+      "lon": -43.1631012,
+      "label": "Santos Dumont Airport",
+      "degree_centrality": 0.21527777777777776,
+      "betweenness_centrality": 0.019810253193874923
+    },
+    {
+      "id": "RAO",
+      "lat": -21.13638878,
+      "lon": -47.77666855,
+      "label": "Leite Lopes Airport",
+      "degree_centrality": 0.06944444444444445,
+      "betweenness_centrality": 0.0004971765302343815
+    },
+    {
+      "id": "SJK",
+      "lat": -23.22920036,
+      "lon": -45.86149979,
+      "label": "Professor Urbano Ernesto Stumpf Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.00021190930281839369
+    },
+    {
+      "id": "SLZ",
+      "lat": -2.58536005,
+      "lon": -44.23410034,
+      "label": "Marechal Cunha Machado International Airport",
+      "degree_centrality": 0.11805555555555555,
+      "betweenness_centrality": 0.0011841781867210981
+    },
+    {
+      "id": "CGH",
+      "lat": -23.62611008,
+      "lon": -46.65638733,
+      "label": "Congonhas Airport",
+      "degree_centrality": 0.40277777777777773,
+      "betweenness_centrality": 0.021634499367735816
+    },
+    {
+      "id": "SJP",
+      "lat": -20.8166008,
+      "lon": -49.40650177,
+      "label": "Prof. Eribelto Manoel Reino State Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 0.0003225687374871524
+    },
+    {
+      "id": "SSA",
+      "lat": -12.9086113,
+      "lon": -38.32249832,
+      "label": "Deputado Luiz Eduardo Magalh\ufffdes International Airport",
+      "degree_centrality": 0.34027777777777773,
+      "betweenness_centrality": 0.03641863889394781
+    },
+    {
+      "id": "TMT",
+      "lat": -1.489599943,
+      "lon": -56.39680099,
+      "label": "Trombetas Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "THE",
+      "lat": -5.059939861,
+      "lon": -42.82350159,
+      "label": "Senador Petr\ufffdnio Portela Airport",
+      "degree_centrality": 0.09722222222222221,
+      "betweenness_centrality": 0.004222004086582954
+    },
+    {
+      "id": "TFF",
+      "lat": -3.382940054,
+      "lon": -64.72409821,
+      "label": "Tef\ufffd Airport",
+      "degree_centrality": 0.06944444444444445,
+      "betweenness_centrality": 0.053471780744508014
+    },
+    {
+      "id": "TBT",
+      "lat": -4.255670071,
+      "lon": -69.93579865,
+      "label": "Tabatinga Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "TUR",
+      "lat": -3.786010027,
+      "lon": -49.72029877,
+      "label": "Tucuru\ufffd Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "SJL",
+      "lat": -0.14835,
+      "lon": -66.9855,
+      "label": "S\ufffdo Gabriel da Cachoeira Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PAV",
+      "lat": -9.40087986,
+      "lon": -38.25059891,
+      "label": "Paulo Afonso Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "URG",
+      "lat": -29.78219986,
+      "lon": -57.03820038,
+      "label": "Rubem Berta Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "UDI",
+      "lat": -18.883612,
+      "lon": -48.225277,
+      "label": "Ten. Cel. Aviador C\ufffdsar Bombonato Airport",
+      "degree_centrality": 0.09722222222222221,
+      "betweenness_centrality": 0.0020277358656750778
+    },
+    {
+      "id": "UBA",
+      "lat": -19.76472282,
+      "lon": -47.96611023,
+      "label": "M\ufffdrio de Almeida Franco Airport",
+      "degree_centrality": 0.034722222222222224,
+      "betweenness_centrality": 0.0008029288332318632
+    },
+    {
+      "id": "VAG",
+      "lat": -21.59009933,
+      "lon": -45.47330093,
+      "label": "Major Brigadeiro Trompowsky Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "BVH",
+      "lat": -12.69439983,
+      "lon": -60.09830093,
+      "label": "Brigadeiro Camar\ufffdo Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "VIX",
+      "lat": -20.258057,
+      "lon": -40.286388,
+      "label": "Eurico de Aguiar Salles Airport",
+      "degree_centrality": 0.10416666666666666,
+      "betweenness_centrality": 0.000423036518750185
+    },
+    {
+      "id": "SCL",
+      "lat": -33.39300156,
+      "lon": -70.78579712,
+      "label": "Comodoro Arturo Merino Ben\ufffdtez International Airport",
+      "degree_centrality": 0.034722222222222224,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "UIO",
+      "lat": -0.129166667,
+      "lon": -78.3575,
+      "label": "Mariscal Sucre International Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "ASU",
+      "lat": -25.23999977,
+      "lon": -57.52000046,
+      "label": "Silvio Pettirossi International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "VVI",
+      "lat": -17.6448,
+      "lon": -63.135399,
+      "label": "Viru Viru International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PBM",
+      "lat": 5.452829838,
+      "lon": -55.18780136,
+      "label": "Johan Adolf Pengel International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CAY",
+      "lat": 4.819809914,
+      "lon": -52.36040115,
+      "label": "Cayenne-Rochambeau Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "LIM",
+      "lat": -12.0219,
+      "lon": -77.114305,
+      "label": "Jorge Ch\ufffdvez International Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MVD",
+      "lat": -34.838402,
+      "lon": -56.0308,
+      "label": "Carrasco International /General C L Berisso Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.00012737262737262737
+    },
+    {
+      "id": "CCS",
+      "lat": 10.601194,
+      "lon": -66.991222,
+      "label": "Sim\ufffdn Bol\ufffdvar International Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.016034470579925124
+    },
+    {
+      "id": "BGI",
+      "lat": 13.07460022,
+      "lon": -59.49250031,
+      "label": "Sir Grantley Adams International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "AUA",
+      "lat": 12.5014,
+      "lon": -70.015198,
+      "label": "Queen Beatrix International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "FLL",
+      "lat": 26.072599,
+      "lon": -80.152702,
+      "label": "Fort Lauderdale Hollywood International Airport",
+      "degree_centrality": 0.020833333333333332,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MIA",
+      "lat": 25.79319954,
+      "lon": -80.29060364,
+      "label": "Miami International Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.00022009670770001345
+    },
+    {
+      "id": "DTW",
+      "lat": 42.21239853,
+      "lon": -83.35340118,
+      "label": "Detroit Metropolitan Wayne County Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "JFK",
+      "lat": 40.63980103,
+      "lon": -73.77890015,
+      "label": "John F Kennedy International Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MCO",
+      "lat": 28.42939949,
+      "lon": -81.30899811,
+      "label": "Orlando International Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 0.00040024369569824115
+    },
+    {
+      "id": "EZE",
+      "lat": -34.8222,
+      "lon": -58.5358,
+      "label": "Ministro Pistarini International Airport",
+      "degree_centrality": 0.18055555555555555,
+      "betweenness_centrality": 0.003435429732995485
+    },
+    {
+      "id": "STM",
+      "lat": -2.424721956,
+      "lon": -54.78583145,
+      "label": "Maestro Wilson Fonseca Airport",
+      "degree_centrality": 0.06944444444444445,
+      "betweenness_centrality": 0.02289364499313641
+    },
+    {
+      "id": "BPS",
+      "lat": -16.438601,
+      "lon": -39.080898,
+      "label": "Porto Seguro Airport",
+      "degree_centrality": 0.14583333333333331,
+      "betweenness_centrality": 0.003726011562990951
+    },
+    {
+      "id": "PMW",
+      "lat": -10.29150009,
+      "lon": -48.35699844,
+      "label": "Brigadeiro Lysias Rodrigues Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 0.0001665842574933484
+    },
+    {
+      "id": "CLV",
+      "lat": -17.72529984,
+      "lon": -48.60749817,
+      "label": "Nelson Ribeiro Guimar\ufffdes Airport",
+      "degree_centrality": 0.048611111111111105,
+      "betweenness_centrality": 0.0003531908242028459
+    },
+    {
+      "id": "JDO",
+      "lat": -7.218959808,
+      "lon": -39.27009964,
+      "label": "Orlando Bezerra de Menezes Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0002466469982503261
+    },
+    {
+      "id": "LEC",
+      "lat": -12.4822998,
+      "lon": -41.27700043,
+      "label": "Coronel Hor\ufffdcio de Mattos Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MEA",
+      "lat": -22.34300041,
+      "lon": -41.76599884,
+      "label": "Maca\ufffd Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "MII",
+      "lat": -22.19689941,
+      "lon": -49.92639923,
+      "label": "Frank Miloye Milenkowichi\ufffdMar\ufffdlia State Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "VDC",
+      "lat": -14.86279964,
+      "lon": -40.86309814,
+      "label": "Vit\ufffdria da Conquista Airport",
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.000613055682985753
+    },
+    {
+      "id": "RIA",
+      "lat": -29.711399,
+      "lon": -53.688202,
+      "label": "Santa Maria Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "TOW",
+      "lat": -24.6863,
+      "lon": -53.697498,
+      "label": "Toledo Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "JPR",
+      "lat": -10.87080002,
+      "lon": -61.8465004,
+      "label": "Ji-Paran\ufffd Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "GVR",
+      "lat": -18.89520073,
+      "lon": -41.98220062,
+      "label": "Coronel Altino Machado de Oliveira Airport",
+      "degree_centrality": 0.020833333333333332,
+      "betweenness_centrality": 6.633485654464675e-05
+    },
+    {
+      "id": "PDP",
+      "lat": -34.85509872,
+      "lon": -55.09429932,
+      "label": "Capitan Corbeta CA Curbelo International Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CFB",
+      "lat": -22.92169952,
+      "lon": -42.07429886,
+      "label": "Cabo Frio Airport",
+      "degree_centrality": 0.034722222222222224,
+      "betweenness_centrality": 6.567150797920029e-05
+    },
+    {
+      "id": "OPS",
+      "lat": -11.88500023,
+      "lon": -55.58610916,
+      "label": "Presidente Jo\ufffdo Batista Figueiredo Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PIN",
+      "lat": -2.673019886,
+      "lon": -56.77719879,
+      "label": "Parintins Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "BRA",
+      "lat": -12.07890034,
+      "lon": -45.00899887,
+      "label": "Barreiras Airport",
+      "degree_centrality": 0.034722222222222224,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "AUX",
+      "lat": -7.22787,
+      "lon": -48.240501,
+      "label": "Aragua\ufffdna Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 9.557109557109558e-05
+    },
+    {
+      "id": "DOU",
+      "lat": -22.2019,
+      "lon": -54.926601,
+      "label": "Dourados Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "ROO",
+      "lat": -16.586,
+      "lon": -54.7248,
+      "label": "Maestro Marinho Franco Airport",
+      "degree_centrality": 0.020833333333333332,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "RVD",
+      "lat": -17.83472252,
+      "lon": -50.95611191,
+      "label": "General Leite de Castro Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "AAX",
+      "lat": -19.5632,
+      "lon": -46.96039963,
+      "label": "Romeu Zema Airport",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 0.000300851699453098
+    },
+    {
+      "id": "CIZ",
+      "lat": -4.134059906,
+      "lon": -63.13259888,
+      "label": "Coari Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "BAZ",
+      "lat": -0.981292,
+      "lon": -62.919601,
+      "label": "Barcelos Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "CKS",
+      "lat": -6.115277767,
+      "lon": -50.00138855,
+      "label": "Caraj\ufffds Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.00027312754585481856
+    },
+    {
+      "id": "VAL",
+      "lat": -13.2965,
+      "lon": -38.992401,
+      "label": "Valen\ufffda Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "IZA",
+      "lat": -21.5130558,
+      "lon": -43.17305756,
+      "label": "Zona da Mata Regional Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 3.114045394434424e-05
+    },
+    {
+      "id": "POJ",
+      "lat": -18.67280006,
+      "lon": -46.49119949,
+      "label": "Patos de Minas Airport",
+      "degree_centrality": 0.020833333333333332,
+      "betweenness_centrality": 0.00010595465140919686
+    },
+    {
+      "id": "JTC",
+      "lat": -22.16685914,
+      "lon": -49.05028667,
+      "label": "Bauru - Arealva Airport",
+      "degree_centrality": 0.041666666666666664,
+      "betweenness_centrality": 0.00019399921257506395
+    },
+    {
+      "id": "BYO",
+      "lat": -21.247299,
+      "lon": -56.452499,
+      "label": "Bonito Airport",
+      "degree_centrality": 0.020833333333333332,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "ERN",
+      "lat": -6.639530182,
+      "lon": -69.87979889,
+      "label": "Eirunep\ufffd Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "OLC",
+      "lat": -3.467929508,
+      "lon": -68.92041206,
+      "label": "Senadora Eunice Micheles Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "IRZ",
+      "lat": -0.3786,
+      "lon": -64.9923,
+      "label": "Tapuruquara Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "TJL",
+      "lat": -20.75419998,
+      "lon": -51.68420029,
+      "label": "Pl\ufffdnio Alarcom Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "OAL",
+      "lat": -11.496,
+      "lon": -61.4508,
+      "label": "Cacoal Airport",
+      "degree_centrality": 0.013888888888888888,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "JJG",
+      "lat": -28.6753,
+      "lon": -49.0596,
+      "label": "Humberto Ghizzo Bortoluzzi Regional Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "TXF",
+      "lat": -17.52449989,
+      "lon": -39.66849899,
+      "label": "9 de Maio - Teixeira de Freitas Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "PGZ",
+      "lat": -25.1847,
+      "lon": -50.1441,
+      "label": "Ponta Grossa Airport - Comandante Antonio Amilton Beraldo",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "SMT",
+      "lat": -12.479177,
+      "lon": -55.672341,
+      "label": "Adolino Bedin Regional Airport",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "FEC",
+      "lat": -12.2025,
+      "lon": -38.9061,
+      "label": "FEIRA DE SANTANA/J.D.CARNEIRO",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    },
+    {
+      "id": "JJD",
+      "lat": -2.5424,
+      "lon": -40.2129,
+      "label": "Jericoacoara",
+      "degree_centrality": 0.027777777777777776,
+      "betweenness_centrality": 5.021366398707976e-05
+    },
+    {
+      "id": "PTO",
+      "lat": -26.2172,
+      "lon": -52.6936,
+      "label": "PATO BRANCO",
+      "degree_centrality": 0.006944444444444444,
+      "betweenness_centrality": 0.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "PUJ",
+      "target": "CCS",
+      "weight": 898.0,
+      "airline": "G3"
+    },
+    {
+      "source": "PUJ",
+      "target": "GRU",
+      "weight": 5240.07,
+      "airline": "G3"
+    },
+    {
+      "source": "PUJ",
+      "target": "BSB",
+      "weight": 4435.05,
+      "airline": "G3"
+    },
+    {
+      "source": "PUJ",
+      "target": "MIA",
+      "weight": 1466.3,
+      "airline": "G3"
+    },
+    {
+      "source": "SDQ",
+      "target": "GIG",
+      "weight": 5409.85,
+      "airline": "G3"
+    },
+    {
+      "source": "SDQ",
+      "target": "GRU",
+      "weight": 5292.45,
+      "airline": "G3"
+    },
+    {
+      "source": "SDQ",
+      "target": "MCO",
+      "weight": 1624.92,
+      "airline": "G3"
+    },
+    {
+      "source": "SDQ",
+      "target": "MIA",
+      "weight": 1365.56,
+      "airline": "G3"
+    },
+    {
+      "source": "ROS",
+      "target": "GRU",
+      "weight": 1750.98,
+      "airline": "G3"
+    },
+    {
+      "source": "ROS",
+      "target": "GIG",
+      "weight": 2052.29,
+      "airline": "G3"
+    },
+    {
+      "source": "AEP",
+      "target": "GRU",
+      "weight": 1694.0,
+      "airline": "G3"
+    },
+    {
+      "source": "COR",
+      "target": "GRU",
+      "weight": 1954.94,
+      "airline": "G3"
+    },
+    {
+      "source": "COR",
+      "target": "GIG",
+      "weight": 2275.55,
+      "airline": "G3"
+    },
+    {
+      "source": "MDZ",
+      "target": "GRU",
+      "weight": 2418.27,
+      "airline": "G3"
+    },
+    {
+      "source": "AQA",
+      "target": "VCP",
+      "weight": 167.94,
+      "airline": "AD"
+    },
+    {
+      "source": "AJU",
+      "target": "MCZ",
+      "weight": 215.42,
+      "airline": "AD"
+    },
+    {
+      "source": "AJU",
+      "target": "REC",
+      "weight": 395.42,
+      "airline": "AD"
+    },
+    {
+      "source": "AJU",
+      "target": "SSA",
+      "weight": 253.68,
+      "airline": "G3"
+    },
+    {
+      "source": "AJU",
+      "target": "VCP",
+      "weight": 1710.88,
+      "airline": "AD"
+    },
+    {
+      "source": "AJU",
+      "target": "GIG",
+      "weight": 1469.55,
+      "airline": "G3"
+    },
+    {
+      "source": "AJU",
+      "target": "GRU",
+      "weight": 1705.63,
+      "airline": "G3"
+    },
+    {
+      "source": "AJU",
+      "target": "CGH",
+      "weight": 1733.81,
+      "airline": "G3"
+    },
+    {
+      "source": "AJU",
+      "target": "BSB",
+      "weight": 1292.71,
+      "airline": "G3"
+    },
+    {
+      "source": "AFL",
+      "target": "CGB",
+      "weight": 643.43,
+      "airline": "AD"
+    },
+    {
+      "source": "ARU",
+      "target": "GRU",
+      "weight": 479.94,
+      "airline": "AD"
+    },
+    {
+      "source": "ARU",
+      "target": "VCP",
+      "weight": 397.47,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "ATM",
+      "weight": 468.61,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "CKS",
+      "weight": 553.13,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "CNF",
+      "weight": 2087.15,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "FOR",
+      "weight": 1136.19,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "IMP",
+      "weight": 475.26,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "MAB",
+      "weight": 449.63,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "MAO",
+      "weight": 1299.07,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "MCP",
+      "weight": 329.52,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "STM",
+      "weight": 710.76,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "BSB",
+      "weight": 1612.36,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "GIG",
+      "weight": 2448.91,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "GRU",
+      "weight": 2462.04,
+      "airline": "G3"
+    },
+    {
+      "source": "BEL",
+      "target": "SLZ",
+      "weight": 490.13,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "CAY",
+      "weight": 813.22,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "CGB",
+      "weight": 1794.74,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "FLL",
+      "weight": 4569.52,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "REC",
+      "weight": 1677.97,
+      "airline": "AD"
+    },
+    {
+      "source": "BEL",
+      "target": "PBM",
+      "weight": 1064.29,
+      "airline": "G3"
+    },
+    {
+      "source": "PLU",
+      "target": "AAX",
+      "weight": 316.69,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "CFB",
+      "weight": 392.81,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "GRU",
+      "weight": 476.22,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "GVR",
+      "weight": 232.24,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "IPN",
+      "weight": 158.93,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "MOC",
+      "weight": 349.91,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "POJ",
+      "weight": 297.13,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "SJK",
+      "weight": 424.42,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "UDI",
+      "weight": 461.13,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "VCP",
+      "weight": 481.39,
+      "airline": "AD"
+    },
+    {
+      "source": "PLU",
+      "target": "VDC",
+      "weight": 644.17,
+      "airline": "AD"
+    },
+    {
+      "source": "BSB",
+      "target": "AUX",
+      "weight": 961.5,
+      "airline": "AD"
+    },
+    {
+      "source": "BSB",
+      "target": "BRA",
+      "weight": 525.65,
+      "airline": "AD"
+    },
+    {
+      "source": "BSB",
+      "target": "CGB",
+      "weight": 877.35,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "CNF",
+      "weight": 590.9,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "GRU",
+      "weight": 854.87,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "MAB",
+      "weight": 1175.14,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "PMW",
+      "weight": 622.0,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "UDI",
+      "weight": 336.74,
+      "airline": "AD"
+    },
+    {
+      "source": "BSB",
+      "target": "VCP",
+      "weight": 798.0,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "BEL",
+      "weight": 1612.36,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "CGH",
+      "weight": 872.6,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "CGR",
+      "weight": 877.49,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "CWB",
+      "weight": 1081.95,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "FOR",
+      "weight": 1691.7,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "GIG",
+      "weight": 913.97,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "GYN",
+      "weight": 162.63,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "IMP",
+      "weight": 1150.62,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "JPA",
+      "weight": 1712.9,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "MAO",
+      "weight": 1948.61,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "MCZ",
+      "weight": 1492.89,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "NAT",
+      "weight": 1770.06,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "POA",
+      "weight": 1605.27,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "PVH",
+      "weight": 1908.75,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "RBR",
+      "weight": 2264.4,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "REC",
+      "weight": 1654.03,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "SDU",
+      "weight": 928.23,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "SLZ",
+      "weight": 1531.25,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "SSA",
+      "weight": 1084.75,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "THE",
+      "weight": 1324.49,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "BPS",
+      "weight": 946.19,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "BVB",
+      "weight": 2510.14,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "EZE",
+      "weight": 2358.24,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "MCO",
+      "weight": 6096.03,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "MCP",
+      "weight": 1803.68,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "MIA",
+      "weight": 5807.66,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "AJU",
+      "weight": 1292.71,
+      "airline": "G3"
+    },
+    {
+      "source": "BSB",
+      "target": "PUJ",
+      "weight": 4435.05,
+      "airline": "G3"
+    },
+    {
+      "source": "BVB",
+      "target": "MAO",
+      "weight": 657.71,
+      "airline": "G3"
+    },
+    {
+      "source": "BVB",
+      "target": "BSB",
+      "weight": 2510.14,
+      "airline": "G3"
+    },
+    {
+      "source": "CAC",
+      "target": "CWB",
+      "weight": 438.84,
+      "airline": "AD"
+    },
+    {
+      "source": "CAC",
+      "target": "VCP",
+      "weight": 683.49,
+      "airline": "AD"
+    },
+    {
+      "source": "CAC",
+      "target": "GRU",
+      "weight": 733.5,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "BEL",
+      "weight": 2087.15,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "BPS",
+      "weight": 626.76,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "BSB",
+      "weight": 590.9,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "CGB",
+      "weight": 1360.08,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "CKS",
+      "weight": 1637.48,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "CPV",
+      "weight": 1626.78,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "CWB",
+      "weight": 846.2,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "FOR",
+      "weight": 1858.41,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "GRU",
+      "weight": 496.47,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "GYN",
+      "weight": 646.73,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "IMP",
+      "weight": 1611.9,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "IPN",
+      "weight": 156.47,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "IZA",
+      "weight": 225.87,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "MAO",
+      "weight": 2539.51,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "MOC",
+      "weight": 324.82,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "POA",
+      "weight": 1362.04,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "RAO",
+      "weight": 430.72,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "REC",
+      "weight": 1607.72,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "SDU",
+      "weight": 374.88,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "SLZ",
+      "weight": 1894.87,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "SSA",
+      "weight": 959.57,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "UBA",
+      "weight": 418.43,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "UDI",
+      "weight": 454.02,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "VCP",
+      "weight": 498.78,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "VDC",
+      "weight": 623.9,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "VIX",
+      "weight": 391.62,
+      "airline": "G3"
+    },
+    {
+      "source": "CNF",
+      "target": "CGH",
+      "weight": 524.35,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "GIG",
+      "weight": 362.02,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "IOS",
+      "weight": 748.87,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "BRA",
+      "weight": 846.31,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "CFB",
+      "weight": 416.02,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "CLV",
+      "weight": 531.98,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "EZE",
+      "weight": 2214.79,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "GVR",
+      "weight": 224.05,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "IGU",
+      "weight": 1266.48,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "JJD",
+      "weight": 1942.86,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "JPA",
+      "weight": 1695.16,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "MCO",
+      "weight": 6681.31,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "MCZ",
+      "weight": 1427.31,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "NAT",
+      "weight": 1799.56,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "PVH",
+      "weight": 2463.88,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "TXF",
+      "weight": 510.13,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "VAG",
+      "weight": 268.68,
+      "airline": "AD"
+    },
+    {
+      "source": "CNF",
+      "target": "VAL",
+      "weight": 881.3,
+      "airline": "AD"
+    },
+    {
+      "source": "CGR",
+      "target": "CGB",
+      "weight": 556.82,
+      "airline": "G3"
+    },
+    {
+      "source": "CGR",
+      "target": "CMG",
+      "weight": 353.19,
+      "airline": "AD"
+    },
+    {
+      "source": "CGR",
+      "target": "GRU",
+      "weight": 907.48,
+      "airline": "G3"
+    },
+    {
+      "source": "CGR",
+      "target": "VCP",
+      "weight": 828.02,
+      "airline": "AD"
+    },
+    {
+      "source": "CGR",
+      "target": "BSB",
+      "weight": 877.49,
+      "airline": "G3"
+    },
+    {
+      "source": "CGR",
+      "target": "CGH",
+      "weight": 897.44,
+      "airline": "G3"
+    },
+    {
+      "source": "CGR",
+      "target": "GIG",
+      "weight": 1208.54,
+      "airline": "G3"
+    },
+    {
+      "source": "CGR",
+      "target": "MGF",
+      "weight": 432.78,
+      "airline": "G3"
+    },
+    {
+      "source": "XAP",
+      "target": "POA",
+      "weight": 349.54,
+      "airline": "AD"
+    },
+    {
+      "source": "XAP",
+      "target": "VCP",
+      "weight": 720.86,
+      "airline": "AD"
+    },
+    {
+      "source": "XAP",
+      "target": "FLN",
+      "weight": 409.49,
+      "airline": "G3"
+    },
+    {
+      "source": "XAP",
+      "target": "GRU",
+      "weight": 745.23,
+      "airline": "G3"
+    },
+    {
+      "source": "CCM",
+      "target": "VCP",
+      "weight": 675.58,
+      "airline": "AD"
+    },
+    {
+      "source": "CAW",
+      "target": "SDU",
+      "weight": 234.17,
+      "airline": "AD"
+    },
+    {
+      "source": "CMG",
+      "target": "CGR",
+      "weight": 353.19,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "CAC",
+      "weight": 438.84,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "CNF",
+      "weight": 846.2,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "CXJ",
+      "weight": 453.71,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "GRU",
+      "weight": 359.1,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "IGU",
+      "weight": 532.59,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "LDB",
+      "weight": 314.17,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "MGF",
+      "weight": 366.41,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "POA",
+      "weight": 533.96,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "SDU",
+      "weight": 675.54,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "VCP",
+      "weight": 348.41,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "BSB",
+      "weight": 1081.95,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "CGH",
+      "weight": 331.12,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "EZE",
+      "weight": 1368.74,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "GIG",
+      "weight": 672.71,
+      "airline": "G3"
+    },
+    {
+      "source": "CWB",
+      "target": "CGR",
+      "weight": 795.45,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "PTO",
+      "weight": 360.17,
+      "airline": "AD"
+    },
+    {
+      "source": "CWB",
+      "target": "TOW",
+      "weight": 464.79,
+      "airline": "AD"
+    },
+    {
+      "source": "CXJ",
+      "target": "CWB",
+      "weight": 453.71,
+      "airline": "AD"
+    },
+    {
+      "source": "CXJ",
+      "target": "VCP",
+      "weight": 798.25,
+      "airline": "AD"
+    },
+    {
+      "source": "CXJ",
+      "target": "CGH",
+      "weight": 766.2,
+      "airline": "G3"
+    },
+    {
+      "source": "CXJ",
+      "target": "GRU",
+      "weight": 794.29,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "AFL",
+      "weight": 643.43,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "BSB",
+      "weight": 877.35,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "BVH",
+      "weight": 540.77,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "CGR",
+      "weight": 556.82,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "CNF",
+      "weight": 1360.08,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "GRU",
+      "weight": 1329.53,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "GYN",
+      "weight": 744.53,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "JPR",
+      "weight": 816.73,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "LDB",
+      "weight": 1001.02,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "MGF",
+      "weight": 970.52,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "OAL",
+      "weight": 738.84,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "OPS",
+      "weight": 422.87,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "PVH",
+      "weight": 1145.07,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "ROO",
+      "weight": 181.31,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "SJP",
+      "weight": 911.8,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "VCP",
+      "weight": 1247.06,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "CGH",
+      "weight": 1328.59,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "GIG",
+      "weight": 1566.51,
+      "airline": "G3"
+    },
+    {
+      "source": "CGB",
+      "target": "BPG",
+      "weight": 399.6,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "REC",
+      "weight": 2450.87,
+      "airline": "AD"
+    },
+    {
+      "source": "CGB",
+      "target": "SMT",
+      "weight": 356.14,
+      "airline": "AD"
+    },
+    {
+      "source": "CZS",
+      "target": "RBR",
+      "weight": 591.83,
+      "airline": "G3"
+    },
+    {
+      "source": "PPB",
+      "target": "VCP",
+      "weight": 450.03,
+      "airline": "AD"
+    },
+    {
+      "source": "PPB",
+      "target": "CGH",
+      "weight": 514.33,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "BAZ",
+      "weight": 392.47,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "BEL",
+      "weight": 1299.07,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "BVB",
+      "weight": 657.71,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "CIZ",
+      "weight": 363.16,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "CNF",
+      "weight": 2539.51,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "PIN",
+      "weight": 365.7,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "PVH",
+      "weight": 760.94,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "STM",
+      "weight": 588.62,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "TBT",
+      "weight": 1105.35,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "TFF",
+      "weight": 520.36,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "VCP",
+      "weight": 2620.01,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "BSB",
+      "weight": 1948.61,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "GIG",
+      "weight": 2847.57,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "GRU",
+      "weight": 2697.46,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "REC",
+      "weight": 2836.48,
+      "airline": "AD"
+    },
+    {
+      "source": "MAO",
+      "target": "EZE",
+      "weight": 3537.63,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "RBR",
+      "weight": 1152.33,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "FOR",
+      "weight": 2389.7,
+      "airline": "G3"
+    },
+    {
+      "source": "MAO",
+      "target": "CUN",
+      "weight": 3962.97,
+      "airline": "G3"
+    },
+    {
+      "source": "IGU",
+      "target": "CWB",
+      "weight": 532.59,
+      "airline": "G3"
+    },
+    {
+      "source": "IGU",
+      "target": "POA",
+      "weight": 587.25,
+      "airline": "AD"
+    },
+    {
+      "source": "IGU",
+      "target": "VCP",
+      "weight": 798.58,
+      "airline": "AD"
+    },
+    {
+      "source": "IGU",
+      "target": "GIG",
+      "weight": 1180.4,
+      "airline": "G3"
+    },
+    {
+      "source": "IGU",
+      "target": "GRU",
+      "weight": 845.36,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "VCP",
+      "weight": 537.7,
+      "airline": "AD"
+    },
+    {
+      "source": "FLN",
+      "target": "CGH",
+      "weight": 488.18,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "EZE",
+      "weight": 1236.97,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "GIG",
+      "weight": 759.03,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "GRU",
+      "weight": 514.99,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "POA",
+      "weight": 363.11,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "XAP",
+      "weight": 409.49,
+      "airline": "AD"
+    },
+    {
+      "source": "FLN",
+      "target": "MVD",
+      "weight": 1067.26,
+      "airline": "G3"
+    },
+    {
+      "source": "FLN",
+      "target": "ROS",
+      "weight": 1309.54,
+      "airline": "G3"
+    },
+    {
+      "source": "FEN",
+      "target": "NAT",
+      "weight": 390.24,
+      "airline": "AD"
+    },
+    {
+      "source": "FEN",
+      "target": "REC",
+      "weight": 549.56,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "BEL",
+      "weight": 1136.19,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "CNF",
+      "weight": 1858.41,
+      "airline": "AD"
+    },
+    {
+      "source": "FOR",
+      "target": "JPA",
+      "weight": 545.63,
+      "airline": "AD"
+    },
+    {
+      "source": "FOR",
+      "target": "NAT",
+      "weight": 413.98,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "PHB",
+      "weight": 368.46,
+      "airline": "AD"
+    },
+    {
+      "source": "FOR",
+      "target": "REC",
+      "weight": 627.07,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "SLZ",
+      "weight": 646.69,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "THE",
+      "weight": 496.65,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "VCP",
+      "weight": 2330.01,
+      "airline": "AD"
+    },
+    {
+      "source": "FOR",
+      "target": "BSB",
+      "weight": 1691.7,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "EZE",
+      "weight": 4021.18,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "GIG",
+      "weight": 2176.52,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "GRU",
+      "weight": 2346.59,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "SSA",
+      "weight": 1015.73,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "CAY",
+      "weight": 1809.19,
+      "airline": "AD"
+    },
+    {
+      "source": "FOR",
+      "target": "IGU",
+      "weight": 2964.58,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "MAO",
+      "weight": 2389.7,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "MCO",
+      "weight": 5805.76,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "MIA",
+      "weight": 5570.21,
+      "airline": "G3"
+    },
+    {
+      "source": "FOR",
+      "target": "JDO",
+      "weight": 391.41,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "VCP",
+      "weight": 398.4,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "AJU",
+      "weight": 1469.55,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "BEL",
+      "weight": 2448.91,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "BSB",
+      "weight": 913.97,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "CGB",
+      "weight": 1566.51,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "CGH",
+      "weight": 359.66,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "CGR",
+      "weight": 1208.54,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "CNF",
+      "weight": 362.02,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "CWB",
+      "weight": 672.71,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "EZE",
+      "weight": 1995.77,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "FLN",
+      "weight": 759.03,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "FOR",
+      "weight": 2176.52,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "GRU",
+      "weight": 336.79,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "GYN",
+      "weight": 928.37,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "IGU",
+      "weight": 1180.4,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "JPA",
+      "weight": 1955.23,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "MAO",
+      "weight": 2847.57,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "MCZ",
+      "weight": 1678.63,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "NAT",
+      "weight": 2074.72,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "NVT",
+      "weight": 708.21,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "POA",
+      "weight": 1122.02,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "REC",
+      "weight": 1859.21,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "SDQ",
+      "weight": 5409.85,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "SLZ",
+      "weight": 2251.38,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "SSA",
+      "weight": 1217.91,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "VIX",
+      "weight": 417.73,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "COR",
+      "weight": 2275.55,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "MDZ",
+      "weight": 2738.36,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "MVD",
+      "weight": 1823.9,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "ROS",
+      "weight": 2052.29,
+      "airline": "G3"
+    },
+    {
+      "source": "GIG",
+      "target": "SCL",
+      "weight": 2934.1,
+      "airline": "G3"
+    },
+    {
+      "source": "GYN",
+      "target": "CGB",
+      "weight": 744.53,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "CNF",
+      "weight": 646.73,
+      "airline": "G3"
+    },
+    {
+      "source": "GYN",
+      "target": "GRU",
+      "weight": 809.06,
+      "airline": "G3"
+    },
+    {
+      "source": "GYN",
+      "target": "PMW",
+      "weight": 711.18,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "SDU",
+      "weight": 942.65,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "VCP",
+      "weight": 741.7,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "BSB",
+      "weight": 162.63,
+      "airline": "G3"
+    },
+    {
+      "source": "GYN",
+      "target": "CGH",
+      "weight": 822.42,
+      "airline": "G3"
+    },
+    {
+      "source": "GYN",
+      "target": "GIG",
+      "weight": 928.37,
+      "airline": "G3"
+    },
+    {
+      "source": "GYN",
+      "target": "BPG",
+      "weight": 348.9,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "BPS",
+      "weight": 1080.97,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "RAO",
+      "weight": 523.38,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "REC",
+      "weight": 1816.6,
+      "airline": "AD"
+    },
+    {
+      "source": "GYN",
+      "target": "SSA",
+      "weight": 1242.43,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "ARU",
+      "weight": 479.94,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "BSB",
+      "weight": 854.87,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CGB",
+      "weight": 1329.53,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CGR",
+      "weight": 907.48,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CNF",
+      "weight": 496.47,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CWB",
+      "weight": 359.1,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "GYN",
+      "weight": 809.06,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "IOS",
+      "weight": 1236.07,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "IPN",
+      "weight": 603.64,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "NVT",
+      "weight": 441.29,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "PLU",
+      "weight": 476.22,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "POA",
+      "weight": 865.58,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "REC",
+      "weight": 2100.81,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "SDU",
+      "weight": 343.35,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "SSA",
+      "weight": 1452.16,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "AEP",
+      "weight": 1694.0,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "AJU",
+      "weight": 1705.63,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "ASU",
+      "weight": 1136.68,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "BEL",
+      "weight": 2462.04,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "BGI",
+      "weight": 4299.71,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "BPS",
+      "weight": 1096.02,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "CCS",
+      "weight": 4393.78,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "COR",
+      "weight": 1954.94,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "DTW",
+      "weight": 8223.66,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "EZE",
+      "weight": 1722.2,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "FLN",
+      "weight": 514.99,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "FOR",
+      "weight": 2346.59,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "GIG",
+      "weight": 336.79,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "IGU",
+      "weight": 845.36,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "JFK",
+      "weight": 7663.98,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "JPA",
+      "weight": 2189.95,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "LDB",
+      "weight": 475.42,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "MAO",
+      "weight": 2697.46,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "MCZ",
+      "weight": 1919.97,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "MGF",
+      "weight": 565.01,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "MVD",
+      "weight": 1569.52,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "NAT",
+      "weight": 2295.93,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "ROS",
+      "weight": 1750.98,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "SDQ",
+      "weight": 5292.45,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "SLZ",
+      "weight": 2330.93,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "THE",
+      "weight": 2080.41,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "UDI",
+      "weight": 537.76,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "VIX",
+      "weight": 729.61,
+      "airline": "AD"
+    },
+    {
+      "source": "GRU",
+      "target": "VVI",
+      "weight": 1848.92,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CPV",
+      "weight": 2122.87,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CXJ",
+      "weight": 794.29,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "JDO",
+      "weight": 1960.42,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "JJD",
+      "weight": 2418.97,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "LIM",
+      "weight": 3474.66,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "MDZ",
+      "weight": 2418.27,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "PNZ",
+      "weight": 1686.08,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "PUJ",
+      "weight": 5240.07,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "PVH",
+      "weight": 2474.57,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "SCL",
+      "weight": 2614.08,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "UIO",
+      "weight": 4307.99,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "XAP",
+      "weight": 745.23,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "VDC",
+      "weight": 1120.28,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "PFB",
+      "weight": 792.87,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "MOC",
+      "weight": 797.82,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "JOI",
+      "weight": 388.81,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CAC",
+      "weight": 733.5,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "OPS",
+      "weight": 1605.49,
+      "airline": "G3"
+    },
+    {
+      "source": "GRU",
+      "target": "CLV",
+      "weight": 672.66,
+      "airline": "G3"
+    },
+    {
+      "source": "ATM",
+      "target": "BEL",
+      "weight": 468.61,
+      "airline": "AD"
+    },
+    {
+      "source": "ATM",
+      "target": "STM",
+      "weight": 295.91,
+      "airline": "AD"
+    },
+    {
+      "source": "ITB",
+      "target": "STM",
+      "weight": 242.97,
+      "airline": "AD"
+    },
+    {
+      "source": "IOS",
+      "target": "GRU",
+      "weight": 1236.07,
+      "airline": "AD"
+    },
+    {
+      "source": "IOS",
+      "target": "SSA",
+      "weight": 225.54,
+      "airline": "G3"
+    },
+    {
+      "source": "IOS",
+      "target": "VCP",
+      "weight": 1246.62,
+      "airline": "AD"
+    },
+    {
+      "source": "IOS",
+      "target": "CNF",
+      "weight": 748.87,
+      "airline": "G3"
+    },
+    {
+      "source": "IOS",
+      "target": "CGH",
+      "weight": 1264.33,
+      "airline": "G3"
+    },
+    {
+      "source": "IPN",
+      "target": "CNF",
+      "weight": 156.47,
+      "airline": "AD"
+    },
+    {
+      "source": "IPN",
+      "target": "GRU",
+      "weight": 603.64,
+      "airline": "AD"
+    },
+    {
+      "source": "IPN",
+      "target": "PLU",
+      "weight": 158.93,
+      "airline": "AD"
+    },
+    {
+      "source": "IMP",
+      "target": "BEL",
+      "weight": 475.26,
+      "airline": "AD"
+    },
+    {
+      "source": "IMP",
+      "target": "CNF",
+      "weight": 1611.9,
+      "airline": "AD"
+    },
+    {
+      "source": "IMP",
+      "target": "BSB",
+      "weight": 1150.62,
+      "airline": "G3"
+    },
+    {
+      "source": "IMP",
+      "target": "SLZ",
+      "weight": 485.08,
+      "airline": "G3"
+    },
+    {
+      "source": "JPA",
+      "target": "FOR",
+      "weight": 545.63,
+      "airline": "AD"
+    },
+    {
+      "source": "JPA",
+      "target": "SSA",
+      "weight": 739.57,
+      "airline": "G3"
+    },
+    {
+      "source": "JPA",
+      "target": "VCP",
+      "weight": 2192.89,
+      "airline": "AD"
+    },
+    {
+      "source": "JPA",
+      "target": "BSB",
+      "weight": 1712.9,
+      "airline": "G3"
+    },
+    {
+      "source": "JPA",
+      "target": "GIG",
+      "weight": 1955.23,
+      "airline": "G3"
+    },
+    {
+      "source": "JPA",
+      "target": "GRU",
+      "weight": 2189.95,
+      "airline": "G3"
+    },
+    {
+      "source": "JPA",
+      "target": "MCZ",
+      "weight": 278.85,
+      "airline": "G3"
+    },
+    {
+      "source": "JOI",
+      "target": "POA",
+      "weight": 479.48,
+      "airline": "AD"
+    },
+    {
+      "source": "JOI",
+      "target": "VCP",
+      "weight": 395.24,
+      "airline": "AD"
+    },
+    {
+      "source": "JOI",
+      "target": "CGH",
+      "weight": 360.66,
+      "airline": "G3"
+    },
+    {
+      "source": "JOI",
+      "target": "GRU",
+      "weight": 388.81,
+      "airline": "G3"
+    },
+    {
+      "source": "CPV",
+      "target": "PNZ",
+      "weight": 564.29,
+      "airline": "AD"
+    },
+    {
+      "source": "CPV",
+      "target": "SSA",
+      "weight": 680.88,
+      "airline": "G3"
+    },
+    {
+      "source": "CPV",
+      "target": "GRU",
+      "weight": 2122.87,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "AJU",
+      "weight": 1710.88,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "AQA",
+      "weight": 167.94,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "ARU",
+      "weight": 397.47,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "BPS",
+      "weight": 1114.86,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "BSB",
+      "weight": 798.0,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "BYO",
+      "weight": 979.35,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CAC",
+      "weight": 683.49,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CCM",
+      "weight": 675.58,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CFB",
+      "weight": 518.14,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CGB",
+      "weight": 1247.06,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CGR",
+      "weight": 828.02,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CLV",
+      "weight": 607.06,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CNF",
+      "weight": 498.78,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "CWB",
+      "weight": 348.41,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "CXJ",
+      "weight": 798.25,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "DOU",
+      "weight": 804.78,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "FLN",
+      "weight": 537.7,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "FOR",
+      "weight": 2330.01,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "GIG",
+      "weight": 398.4,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "GYN",
+      "weight": 741.7,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "IGU",
+      "weight": 798.58,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "IOS",
+      "weight": 1246.62,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "IZA",
+      "weight": 440.2,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "JDO",
+      "weight": 1946.6,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "JOI",
+      "weight": 395.24,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "JPA",
+      "weight": 2192.89,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "JTC",
+      "weight": 217.76,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "LDB",
+      "weight": 410.05,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "MAO",
+      "weight": 2620.01,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "MCZ",
+      "weight": 1925.99,
+      "airline": "G3"
+    },
+    {
+      "source": "VCP",
+      "target": "MEA",
+      "weight": 555.71,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "MGF",
+      "weight": 501.09,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "MII",
+      "weight": 300.43,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "NAT",
+      "weight": 2294.27,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "NVT",
+      "weight": 456.95,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "PFB",
+      "weight": 780.81,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "PLU",
+      "weight": 481.39,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "POA",
+      "weight": 874.42,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "PPB",
+      "weight": 450.03,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "RAO",
+      "weight": 218.32,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "REC",
+      "weight": 2106.28,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "RVD",
+      "weight": 699.47,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "SDU",
+      "weight": 406.75,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "SJP",
+      "weight": 338.04,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "SSA",
+      "weight": 1458.32,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "THE",
+      "weight": 2048.62,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "UBA",
+      "weight": 370.7,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "UDI",
+      "weight": 472.32,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "VIX",
+      "weight": 770.89,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "XAP",
+      "weight": 720.86,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "BEL",
+      "weight": 2409.3,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "CMG",
+      "weight": 1180.06,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "EZE",
+      "weight": 1717.0,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "FLL",
+      "weight": 6512.54,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "JJD",
+      "weight": 2394.74,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "JJG",
+      "weight": 658.99,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "LAJ",
+      "weight": 617.83,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "LIS",
+      "weight": 7928.11,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "MCO",
+      "weight": 6791.63,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "PGZ",
+      "weight": 389.77,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "PHB",
+      "weight": 2311.0,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "PNZ",
+      "weight": 1670.52,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "ROO",
+      "weight": 1067.45,
+      "airline": "AD"
+    },
+    {
+      "source": "VCP",
+      "target": "TJL",
+      "weight": 532.08,
+      "airline": "AD"
+    },
+    {
+      "source": "LDB",
+      "target": "CGB",
+      "weight": 1001.02,
+      "airline": "AD"
+    },
+    {
+      "source": "LDB",
+      "target": "CWB",
+      "weight": 314.17,
+      "airline": "G3"
+    },
+    {
+      "source": "LDB",
+      "target": "MGF",
+      "weight": 91.46,
+      "airline": "AD"
+    },
+    {
+      "source": "LDB",
+      "target": "POA",
+      "weight": 740.66,
+      "airline": "AD"
+    },
+    {
+      "source": "LDB",
+      "target": "VCP",
+      "weight": 410.05,
+      "airline": "AD"
+    },
+    {
+      "source": "LDB",
+      "target": "CGH",
+      "weight": 457.4,
+      "airline": "G3"
+    },
+    {
+      "source": "LDB",
+      "target": "GRU",
+      "weight": 475.42,
+      "airline": "G3"
+    },
+    {
+      "source": "MAB",
+      "target": "AUX",
+      "weight": 229.31,
+      "airline": "AD"
+    },
+    {
+      "source": "MAB",
+      "target": "BEL",
+      "weight": 449.63,
+      "airline": "G3"
+    },
+    {
+      "source": "MAB",
+      "target": "BSB",
+      "weight": 1175.14,
+      "airline": "G3"
+    },
+    {
+      "source": "MAB",
+      "target": "CKS",
+      "weight": 126.56,
+      "airline": "AD"
+    },
+    {
+      "source": "MAB",
+      "target": "TUR",
+      "weight": 187.44,
+      "airline": "AD"
+    },
+    {
+      "source": "MGF",
+      "target": "CGB",
+      "weight": 970.52,
+      "airline": "AD"
+    },
+    {
+      "source": "MGF",
+      "target": "CWB",
+      "weight": 366.41,
+      "airline": "G3"
+    },
+    {
+      "source": "MGF",
+      "target": "LDB",
+      "weight": 91.46,
+      "airline": "AD"
+    },
+    {
+      "source": "MGF",
+      "target": "POA",
+      "weight": 729.22,
+      "airline": "AD"
+    },
+    {
+      "source": "MGF",
+      "target": "VCP",
+      "weight": 501.09,
+      "airline": "AD"
+    },
+    {
+      "source": "MGF",
+      "target": "CGH",
+      "weight": 546.14,
+      "airline": "G3"
+    },
+    {
+      "source": "MGF",
+      "target": "CGR",
+      "weight": 432.78,
+      "airline": "G3"
+    },
+    {
+      "source": "MGF",
+      "target": "GRU",
+      "weight": 565.01,
+      "airline": "G3"
+    },
+    {
+      "source": "MOC",
+      "target": "CNF",
+      "weight": 324.82,
+      "airline": "G3"
+    },
+    {
+      "source": "MOC",
+      "target": "PLU",
+      "weight": 349.91,
+      "airline": "AD"
+    },
+    {
+      "source": "MOC",
+      "target": "GRU",
+      "weight": 797.82,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "AJU",
+      "weight": 215.42,
+      "airline": "AD"
+    },
+    {
+      "source": "MCZ",
+      "target": "REC",
+      "weight": 181.09,
+      "airline": "AD"
+    },
+    {
+      "source": "MCZ",
+      "target": "VCP",
+      "weight": 1925.99,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "BSB",
+      "weight": 1492.89,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "GIG",
+      "weight": 1678.63,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "GRU",
+      "weight": 1919.97,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "SSA",
+      "weight": 467.89,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "CGH",
+      "weight": 1948.17,
+      "airline": "G3"
+    },
+    {
+      "source": "MCZ",
+      "target": "EZE",
+      "weight": 3641.62,
+      "airline": "G3"
+    },
+    {
+      "source": "MCP",
+      "target": "BEL",
+      "weight": 329.52,
+      "airline": "G3"
+    },
+    {
+      "source": "MCP",
+      "target": "BSB",
+      "weight": 1803.68,
+      "airline": "G3"
+    },
+    {
+      "source": "NVT",
+      "target": "GRU",
+      "weight": 441.29,
+      "airline": "G3"
+    },
+    {
+      "source": "NVT",
+      "target": "POA",
+      "weight": 424.98,
+      "airline": "AD"
+    },
+    {
+      "source": "NVT",
+      "target": "VCP",
+      "weight": 456.95,
+      "airline": "AD"
+    },
+    {
+      "source": "NVT",
+      "target": "CGH",
+      "weight": 413.7,
+      "airline": "G3"
+    },
+    {
+      "source": "NVT",
+      "target": "GIG",
+      "weight": 708.21,
+      "airline": "G3"
+    },
+    {
+      "source": "NAT",
+      "target": "CNF",
+      "weight": 1799.56,
+      "airline": "AD"
+    },
+    {
+      "source": "NAT",
+      "target": "FEN",
+      "weight": 390.24,
+      "airline": "AD"
+    },
+    {
+      "source": "NAT",
+      "target": "REC",
+      "weight": 266.96,
+      "airline": "AD"
+    },
+    {
+      "source": "NAT",
+      "target": "VCP",
+      "weight": 2294.27,
+      "airline": "AD"
+    },
+    {
+      "source": "NAT",
+      "target": "BSB",
+      "weight": 1770.06,
+      "airline": "G3"
+    },
+    {
+      "source": "NAT",
+      "target": "FOR",
+      "weight": 413.98,
+      "airline": "G3"
+    },
+    {
+      "source": "NAT",
+      "target": "GIG",
+      "weight": 2074.72,
+      "airline": "G3"
+    },
+    {
+      "source": "NAT",
+      "target": "GRU",
+      "weight": 2295.93,
+      "airline": "G3"
+    },
+    {
+      "source": "NAT",
+      "target": "SSA",
+      "weight": 857.2,
+      "airline": "G3"
+    },
+    {
+      "source": "NAT",
+      "target": "EZE",
+      "weight": 4010.36,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "CNF",
+      "weight": 1362.04,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "CWB",
+      "weight": 533.96,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "GRU",
+      "weight": 865.58,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "IGU",
+      "weight": 587.25,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "JOI",
+      "weight": 479.48,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "LDB",
+      "weight": 740.66,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "MGF",
+      "weight": 729.22,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "NVT",
+      "weight": 424.98,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "PET",
+      "weight": 221.2,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "PFB",
+      "weight": 224.66,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "RIA",
+      "weight": 244.75,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "SDU",
+      "weight": 1120.02,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "VCP",
+      "weight": 874.42,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "XAP",
+      "weight": 349.54,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "BSB",
+      "weight": 1605.27,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "CGH",
+      "weight": 837.75,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "EZE",
+      "weight": 874.83,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "FLN",
+      "weight": 363.11,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "GIG",
+      "weight": 1122.02,
+      "airline": "G3"
+    },
+    {
+      "source": "POA",
+      "target": "MVD",
+      "weight": 705.6,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "COR",
+      "weight": 1254.95,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "GEL",
+      "weight": 347.88,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "PDP",
+      "weight": 653.84,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "ROS",
+      "weight": 967.16,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "URG",
+      "weight": 566.02,
+      "airline": "AD"
+    },
+    {
+      "source": "POA",
+      "target": "BPS",
+      "weight": 1945.93,
+      "airline": "G3"
+    },
+    {
+      "source": "PHB",
+      "target": "FOR",
+      "weight": 368.46,
+      "airline": "AD"
+    },
+    {
+      "source": "PHB",
+      "target": "THE",
+      "weight": 269.58,
+      "airline": "AD"
+    },
+    {
+      "source": "PFB",
+      "target": "POA",
+      "weight": 224.66,
+      "airline": "AD"
+    },
+    {
+      "source": "PFB",
+      "target": "VCP",
+      "weight": 780.81,
+      "airline": "AD"
+    },
+    {
+      "source": "PFB",
+      "target": "GRU",
+      "weight": 792.87,
+      "airline": "G3"
+    },
+    {
+      "source": "PET",
+      "target": "POA",
+      "weight": 221.2,
+      "airline": "AD"
+    },
+    {
+      "source": "PNZ",
+      "target": "CNF",
+      "weight": 1198.27,
+      "airline": "AD"
+    },
+    {
+      "source": "PNZ",
+      "target": "REC",
+      "weight": 635.47,
+      "airline": "G3"
+    },
+    {
+      "source": "PNZ",
+      "target": "GRU",
+      "weight": 1686.08,
+      "airline": "G3"
+    },
+    {
+      "source": "PVH",
+      "target": "CGB",
+      "weight": 1145.07,
+      "airline": "G3"
+    },
+    {
+      "source": "PVH",
+      "target": "MAO",
+      "weight": 760.94,
+      "airline": "G3"
+    },
+    {
+      "source": "PVH",
+      "target": "RBR",
+      "weight": 457.04,
+      "airline": "G3"
+    },
+    {
+      "source": "PVH",
+      "target": "BSB",
+      "weight": 1908.75,
+      "airline": "G3"
+    },
+    {
+      "source": "RBR",
+      "target": "PVH",
+      "weight": 457.04,
+      "airline": "G3"
+    },
+    {
+      "source": "RBR",
+      "target": "BSB",
+      "weight": 2264.4,
+      "airline": "G3"
+    },
+    {
+      "source": "RBR",
+      "target": "CZS",
+      "weight": 591.83,
+      "airline": "G3"
+    },
+    {
+      "source": "RBR",
+      "target": "MAO",
+      "weight": 1152.33,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "AJU",
+      "weight": 395.42,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "CNF",
+      "weight": 1607.72,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "FEN",
+      "weight": 549.56,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "FOR",
+      "weight": 627.07,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "GRU",
+      "weight": 2100.81,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "MCZ",
+      "weight": 181.09,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "NAT",
+      "weight": 266.96,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "SSA",
+      "weight": 648.65,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "THE",
+      "weight": 936.77,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "VCP",
+      "weight": 2106.28,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "BSB",
+      "weight": 1654.03,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "GIG",
+      "weight": 1859.21,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "JDO",
+      "weight": 489.49,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "PNZ",
+      "weight": 635.47,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "COR",
+      "weight": 3980.59,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "CPV",
+      "weight": 143.4,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "FLL",
+      "weight": 6188.94,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "JPA",
+      "weight": 109.08,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "MCO",
+      "weight": 6424.42,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "MVF",
+      "weight": 422.37,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "RAO",
+      "weight": 1998.65,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "ROS",
+      "weight": 3829.69,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "UDI",
+      "weight": 1868.54,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "VIX",
+      "weight": 1467.12,
+      "airline": "AD"
+    },
+    {
+      "source": "REC",
+      "target": "EZE",
+      "weight": 3822.27,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "MVD",
+      "weight": 3668.34,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "CGH",
+      "weight": 2129.01,
+      "airline": "G3"
+    },
+    {
+      "source": "REC",
+      "target": "SCL",
+      "weight": 4627.18,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "BPS",
+      "weight": 836.84,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "CAW",
+      "weight": 234.17,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "CGH",
+      "weight": 365.59,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "CNF",
+      "weight": 374.88,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "CWB",
+      "weight": 675.54,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "GRU",
+      "weight": 343.35,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "GYN",
+      "weight": 942.65,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "MEA",
+      "weight": 156.66,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "POA",
+      "weight": 1120.02,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "SJK",
+      "weight": 278.31,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "VCP",
+      "weight": 406.75,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "VIX",
+      "weight": 418.85,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "BSB",
+      "weight": 928.23,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "NVT",
+      "weight": 707.82,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "RAO",
+      "weight": 514.82,
+      "airline": "AD"
+    },
+    {
+      "source": "SDU",
+      "target": "IGU",
+      "weight": 1185.66,
+      "airline": "G3"
+    },
+    {
+      "source": "SDU",
+      "target": "SSA",
+      "weight": 1224.06,
+      "airline": "G3"
+    },
+    {
+      "source": "RAO",
+      "target": "CNF",
+      "weight": 430.72,
+      "airline": "AD"
+    },
+    {
+      "source": "RAO",
+      "target": "SJP",
+      "weight": 172.91,
+      "airline": "AD"
+    },
+    {
+      "source": "RAO",
+      "target": "VCP",
+      "weight": 218.32,
+      "airline": "AD"
+    },
+    {
+      "source": "RAO",
+      "target": "BPS",
+      "weight": 1053.58,
+      "airline": "G3"
+    },
+    {
+      "source": "SJK",
+      "target": "PLU",
+      "weight": 424.42,
+      "airline": "AD"
+    },
+    {
+      "source": "SJK",
+      "target": "SDU",
+      "weight": 278.31,
+      "airline": "AD"
+    },
+    {
+      "source": "SLZ",
+      "target": "CNF",
+      "weight": 1894.87,
+      "airline": "AD"
+    },
+    {
+      "source": "SLZ",
+      "target": "FOR",
+      "weight": 646.69,
+      "airline": "G3"
+    },
+    {
+      "source": "SLZ",
+      "target": "THE",
+      "weight": 316.55,
+      "airline": "AD"
+    },
+    {
+      "source": "SLZ",
+      "target": "BEL",
+      "weight": 490.13,
+      "airline": "G3"
+    },
+    {
+      "source": "SLZ",
+      "target": "BSB",
+      "weight": 1531.25,
+      "airline": "G3"
+    },
+    {
+      "source": "SLZ",
+      "target": "GIG",
+      "weight": 2251.38,
+      "airline": "G3"
+    },
+    {
+      "source": "SLZ",
+      "target": "GRU",
+      "weight": 2330.93,
+      "airline": "G3"
+    },
+    {
+      "source": "SLZ",
+      "target": "IMP",
+      "weight": 485.08,
+      "airline": "AD"
+    },
+    {
+      "source": "SLZ",
+      "target": "REC",
+      "weight": 1200.51,
+      "airline": "AD"
+    },
+    {
+      "source": "CGH",
+      "target": "SDU",
+      "weight": 365.59,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "BSB",
+      "weight": 872.6,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "CGB",
+      "weight": 1328.59,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "CGR",
+      "weight": 897.44,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "CLV",
+      "weight": 686.78,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "CNF",
+      "weight": 524.35,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "CWB",
+      "weight": 331.12,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "CXJ",
+      "weight": 766.2,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "FLN",
+      "weight": 488.18,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "GIG",
+      "weight": 359.66,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "GYN",
+      "weight": 822.42,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "JOI",
+      "weight": 360.66,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "JTC",
+      "weight": 294.03,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "LDB",
+      "weight": 457.4,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "MGF",
+      "weight": 546.14,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "NVT",
+      "weight": 413.7,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "POA",
+      "weight": 837.75,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "PPB",
+      "weight": 514.33,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "SSA",
+      "weight": 1480.36,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "UDI",
+      "weight": 551.82,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "VIX",
+      "weight": 756.08,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "AJU",
+      "weight": 1733.81,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "BPS",
+      "weight": 1124.18,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "FOR",
+      "weight": 2373.34,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "IGU",
+      "weight": 821.12,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "IOS",
+      "weight": 1264.33,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "IZA",
+      "weight": 427.91,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "JPA",
+      "weight": 2218.08,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "MCZ",
+      "weight": 1948.17,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "PMW",
+      "weight": 1493.67,
+      "airline": "G3"
+    },
+    {
+      "source": "CGH",
+      "target": "REC",
+      "weight": 2129.01,
+      "airline": "G3"
+    },
+    {
+      "source": "SJP",
+      "target": "CGB",
+      "weight": 911.8,
+      "airline": "AD"
+    },
+    {
+      "source": "SJP",
+      "target": "RAO",
+      "weight": 172.91,
+      "airline": "AD"
+    },
+    {
+      "source": "SJP",
+      "target": "VCP",
+      "weight": 338.04,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "AJU",
+      "weight": 253.68,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "BPS",
+      "weight": 400.9,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "BRA",
+      "weight": 731.71,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "CNF",
+      "weight": 959.57,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "GRU",
+      "weight": 1452.16,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "IOS",
+      "weight": 225.54,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "JPA",
+      "weight": 739.57,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "LEC",
+      "weight": 323.98,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "PAV",
+      "weight": 390.12,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "REC",
+      "weight": 648.65,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "VCP",
+      "weight": 1458.32,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "VDC",
+      "weight": 349.88,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "VIX",
+      "weight": 843.55,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "BSB",
+      "weight": 1084.75,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "CGH",
+      "weight": 1480.36,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "CPV",
+      "weight": 680.88,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "FOR",
+      "weight": 1015.73,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "GIG",
+      "weight": 1217.91,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "MCZ",
+      "weight": 467.89,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "NAT",
+      "weight": 857.2,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "FEC",
+      "weight": 100.88,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "GYN",
+      "weight": 1242.43,
+      "airline": "AD"
+    },
+    {
+      "source": "SSA",
+      "target": "CGB",
+      "weight": 1940.93,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "EZE",
+      "weight": 3173.73,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "IGU",
+      "weight": 2202.74,
+      "airline": "G3"
+    },
+    {
+      "source": "SSA",
+      "target": "SDU",
+      "weight": 1224.06,
+      "airline": "G3"
+    },
+    {
+      "source": "TMT",
+      "target": "STM",
+      "weight": 207.03,
+      "airline": "AD"
+    },
+    {
+      "source": "THE",
+      "target": "FOR",
+      "weight": 496.65,
+      "airline": "G3"
+    },
+    {
+      "source": "THE",
+      "target": "PHB",
+      "weight": 269.58,
+      "airline": "AD"
+    },
+    {
+      "source": "THE",
+      "target": "REC",
+      "weight": 936.77,
+      "airline": "AD"
+    },
+    {
+      "source": "THE",
+      "target": "SLZ",
+      "weight": 316.55,
+      "airline": "AD"
+    },
+    {
+      "source": "THE",
+      "target": "VCP",
+      "weight": 2048.62,
+      "airline": "AD"
+    },
+    {
+      "source": "THE",
+      "target": "BSB",
+      "weight": 1324.49,
+      "airline": "G3"
+    },
+    {
+      "source": "THE",
+      "target": "GRU",
+      "weight": 2080.41,
+      "airline": "G3"
+    },
+    {
+      "source": "TFF",
+      "target": "ERN",
+      "weight": 676.16,
+      "airline": "AD"
+    },
+    {
+      "source": "TFF",
+      "target": "IRZ",
+      "weight": 335.39,
+      "airline": "AD"
+    },
+    {
+      "source": "TFF",
+      "target": "MAO",
+      "weight": 520.36,
+      "airline": "AD"
+    },
+    {
+      "source": "TFF",
+      "target": "OLC",
+      "weight": 465.87,
+      "airline": "AD"
+    },
+    {
+      "source": "TFF",
+      "target": "SJL",
+      "weight": 438.77,
+      "airline": "AD"
+    },
+    {
+      "source": "TBT",
+      "target": "MAO",
+      "weight": 1105.35,
+      "airline": "AD"
+    },
+    {
+      "source": "TUR",
+      "target": "BEL",
+      "weight": 301.19,
+      "airline": "AD"
+    },
+    {
+      "source": "SJL",
+      "target": "TFF",
+      "weight": 438.77,
+      "airline": "AD"
+    },
+    {
+      "source": "PAV",
+      "target": "SSA",
+      "weight": 390.12,
+      "airline": "AD"
+    },
+    {
+      "source": "UDI",
+      "target": "BSB",
+      "weight": 336.74,
+      "airline": "AD"
+    },
+    {
+      "source": "UDI",
+      "target": "CNF",
+      "weight": 454.02,
+      "airline": "G3"
+    },
+    {
+      "source": "UDI",
+      "target": "PLU",
+      "weight": 461.13,
+      "airline": "AD"
+    },
+    {
+      "source": "UDI",
+      "target": "VCP",
+      "weight": 472.32,
+      "airline": "AD"
+    },
+    {
+      "source": "UDI",
+      "target": "CGH",
+      "weight": 551.82,
+      "airline": "G3"
+    },
+    {
+      "source": "UDI",
+      "target": "GRU",
+      "weight": 537.76,
+      "airline": "G3"
+    },
+    {
+      "source": "UBA",
+      "target": "CNF",
+      "weight": 418.43,
+      "airline": "AD"
+    },
+    {
+      "source": "UBA",
+      "target": "VCP",
+      "weight": 370.7,
+      "airline": "AD"
+    },
+    {
+      "source": "BVH",
+      "target": "CGB",
+      "weight": 540.77,
+      "airline": "AD"
+    },
+    {
+      "source": "VIX",
+      "target": "CNF",
+      "weight": 391.62,
+      "airline": "G3"
+    },
+    {
+      "source": "VIX",
+      "target": "SDU",
+      "weight": 418.85,
+      "airline": "G3"
+    },
+    {
+      "source": "VIX",
+      "target": "SSA",
+      "weight": 843.55,
+      "airline": "G3"
+    },
+    {
+      "source": "VIX",
+      "target": "VCP",
+      "weight": 770.89,
+      "airline": "AD"
+    },
+    {
+      "source": "VIX",
+      "target": "CGH",
+      "weight": 756.08,
+      "airline": "G3"
+    },
+    {
+      "source": "VIX",
+      "target": "GIG",
+      "weight": 417.73,
+      "airline": "G3"
+    },
+    {
+      "source": "VIX",
+      "target": "GRU",
+      "weight": 729.61,
+      "airline": "G3"
+    },
+    {
+      "source": "SCL",
+      "target": "GRU",
+      "weight": 2614.08,
+      "airline": "G3"
+    },
+    {
+      "source": "SCL",
+      "target": "REC",
+      "weight": 4627.18,
+      "airline": "G3"
+    },
+    {
+      "source": "ASU",
+      "target": "GRU",
+      "weight": 1136.68,
+      "airline": "G3"
+    },
+    {
+      "source": "VVI",
+      "target": "GRU",
+      "weight": 1848.92,
+      "airline": "G3"
+    },
+    {
+      "source": "PBM",
+      "target": "BEL",
+      "weight": 1064.29,
+      "airline": "G3"
+    },
+    {
+      "source": "MVD",
+      "target": "GRU",
+      "weight": 1569.52,
+      "airline": "G3"
+    },
+    {
+      "source": "MVD",
+      "target": "POA",
+      "weight": 705.6,
+      "airline": "G3"
+    },
+    {
+      "source": "MVD",
+      "target": "REC",
+      "weight": 3668.34,
+      "airline": "G3"
+    },
+    {
+      "source": "CCS",
+      "target": "AUA",
+      "weight": 391.36,
+      "airline": "G3"
+    },
+    {
+      "source": "CCS",
+      "target": "GRU",
+      "weight": 4393.78,
+      "airline": "G3"
+    },
+    {
+      "source": "CCS",
+      "target": "PUJ",
+      "weight": 898.0,
+      "airline": "G3"
+    },
+    {
+      "source": "BGI",
+      "target": "GRU",
+      "weight": 4299.71,
+      "airline": "G3"
+    },
+    {
+      "source": "AUA",
+      "target": "CCS",
+      "weight": 391.36,
+      "airline": "G3"
+    },
+    {
+      "source": "MIA",
+      "target": "SDQ",
+      "weight": 1365.56,
+      "airline": "G3"
+    },
+    {
+      "source": "MIA",
+      "target": "PUJ",
+      "weight": 1466.3,
+      "airline": "G3"
+    },
+    {
+      "source": "DTW",
+      "target": "GRU",
+      "weight": 8223.66,
+      "airline": "G3"
+    },
+    {
+      "source": "JFK",
+      "target": "GRU",
+      "weight": 7663.98,
+      "airline": "G3"
+    },
+    {
+      "source": "MCO",
+      "target": "SDQ",
+      "weight": 1624.92,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "CWB",
+      "weight": 1368.74,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "FLN",
+      "weight": 1236.97,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "FOR",
+      "weight": 4021.18,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "GIG",
+      "weight": 1995.77,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "GRU",
+      "weight": 1722.2,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "POA",
+      "weight": 874.83,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "JPA",
+      "weight": 3909.79,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "NAT",
+      "weight": 4010.36,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "BSB",
+      "weight": 2358.24,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "SSA",
+      "weight": 3173.73,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "MAO",
+      "weight": 3537.63,
+      "airline": "G3"
+    },
+    {
+      "source": "EZE",
+      "target": "REC",
+      "weight": 3822.27,
+      "airline": "G3"
+    },
+    {
+      "source": "STM",
+      "target": "ATM",
+      "weight": 295.91,
+      "airline": "AD"
+    },
+    {
+      "source": "STM",
+      "target": "BEL",
+      "weight": 710.76,
+      "airline": "G3"
+    },
+    {
+      "source": "STM",
+      "target": "ITB",
+      "weight": 242.97,
+      "airline": "AD"
+    },
+    {
+      "source": "STM",
+      "target": "MAO",
+      "weight": 588.62,
+      "airline": "G3"
+    },
+    {
+      "source": "STM",
+      "target": "TMT",
+      "weight": 207.03,
+      "airline": "AD"
+    },
+    {
+      "source": "BPS",
+      "target": "CNF",
+      "weight": 626.76,
+      "airline": "G3"
+    },
+    {
+      "source": "BPS",
+      "target": "SDU",
+      "weight": 836.84,
+      "airline": "AD"
+    },
+    {
+      "source": "BPS",
+      "target": "SSA",
+      "weight": 400.9,
+      "airline": "G3"
+    },
+    {
+      "source": "BPS",
+      "target": "VCP",
+      "weight": 1114.86,
+      "airline": "G3"
+    },
+    {
+      "source": "BPS",
+      "target": "GRU",
+      "weight": 1096.02,
+      "airline": "G3"
+    },
+    {
+      "source": "BPS",
+      "target": "PPB",
+      "weight": 1442.99,
+      "airline": "AD"
+    },
+    {
+      "source": "BPS",
+      "target": "SJP",
+      "weight": 1191.49,
+      "airline": "AD"
+    },
+    {
+      "source": "BPS",
+      "target": "UDI",
+      "weight": 1006.12,
+      "airline": "AD"
+    },
+    {
+      "source": "BPS",
+      "target": "BSB",
+      "weight": 946.19,
+      "airline": "G3"
+    },
+    {
+      "source": "BPS",
+      "target": "CGH",
+      "weight": 1124.18,
+      "airline": "G3"
+    },
+    {
+      "source": "BPS",
+      "target": "POA",
+      "weight": 1945.93,
+      "airline": "G3"
+    },
+    {
+      "source": "PMW",
+      "target": "AUX",
+      "weight": 340.9,
+      "airline": "AD"
+    },
+    {
+      "source": "PMW",
+      "target": "BSB",
+      "weight": 622.0,
+      "airline": "G3"
+    },
+    {
+      "source": "PMW",
+      "target": "GYN",
+      "weight": 711.18,
+      "airline": "AD"
+    },
+    {
+      "source": "CLV",
+      "target": "VCP",
+      "weight": 607.06,
+      "airline": "AD"
+    },
+    {
+      "source": "CLV",
+      "target": "CGH",
+      "weight": 686.78,
+      "airline": "G3"
+    },
+    {
+      "source": "CLV",
+      "target": "GRU",
+      "weight": 672.66,
+      "airline": "G3"
+    },
+    {
+      "source": "JDO",
+      "target": "VCP",
+      "weight": 1946.6,
+      "airline": "AD"
+    },
+    {
+      "source": "JDO",
+      "target": "REC",
+      "weight": 489.49,
+      "airline": "G3"
+    },
+    {
+      "source": "JDO",
+      "target": "GRU",
+      "weight": 1960.42,
+      "airline": "G3"
+    },
+    {
+      "source": "JDO",
+      "target": "FOR",
+      "weight": 391.41,
+      "airline": "G3"
+    },
+    {
+      "source": "LEC",
+      "target": "SSA",
+      "weight": 323.98,
+      "airline": "AD"
+    },
+    {
+      "source": "MEA",
+      "target": "SDU",
+      "weight": 156.66,
+      "airline": "AD"
+    },
+    {
+      "source": "MEA",
+      "target": "VCP",
+      "weight": 555.71,
+      "airline": "AD"
+    },
+    {
+      "source": "MII",
+      "target": "JTC",
+      "weight": 90.27,
+      "airline": "AD"
+    },
+    {
+      "source": "MII",
+      "target": "VCP",
+      "weight": 300.43,
+      "airline": "AD"
+    },
+    {
+      "source": "VDC",
+      "target": "CNF",
+      "weight": 623.9,
+      "airline": "AD"
+    },
+    {
+      "source": "VDC",
+      "target": "PLU",
+      "weight": 644.17,
+      "airline": "AD"
+    },
+    {
+      "source": "VDC",
+      "target": "SSA",
+      "weight": 349.88,
+      "airline": "AD"
+    },
+    {
+      "source": "VDC",
+      "target": "GRU",
+      "weight": 1120.28,
+      "airline": "G3"
+    },
+    {
+      "source": "RIA",
+      "target": "POA",
+      "weight": 244.75,
+      "airline": "AD"
+    },
+    {
+      "source": "JPR",
+      "target": "CGB",
+      "weight": 816.73,
+      "airline": "AD"
+    },
+    {
+      "source": "GVR",
+      "target": "PLU",
+      "weight": 232.24,
+      "airline": "AD"
+    },
+    {
+      "source": "CFB",
+      "target": "PLU",
+      "weight": 392.81,
+      "airline": "AD"
+    },
+    {
+      "source": "CFB",
+      "target": "VCP",
+      "weight": 518.14,
+      "airline": "AD"
+    },
+    {
+      "source": "OPS",
+      "target": "CGB",
+      "weight": 422.87,
+      "airline": "AD"
+    },
+    {
+      "source": "OPS",
+      "target": "GRU",
+      "weight": 1605.49,
+      "airline": "G3"
+    },
+    {
+      "source": "PIN",
+      "target": "MAO",
+      "weight": 365.7,
+      "airline": "AD"
+    },
+    {
+      "source": "BRA",
+      "target": "BSB",
+      "weight": 525.65,
+      "airline": "AD"
+    },
+    {
+      "source": "BRA",
+      "target": "SSA",
+      "weight": 731.71,
+      "airline": "AD"
+    },
+    {
+      "source": "AUX",
+      "target": "BSB",
+      "weight": 961.5,
+      "airline": "AD"
+    },
+    {
+      "source": "AUX",
+      "target": "MAB",
+      "weight": 229.31,
+      "airline": "AD"
+    },
+    {
+      "source": "AUX",
+      "target": "PMW",
+      "weight": 340.9,
+      "airline": "AD"
+    },
+    {
+      "source": "DOU",
+      "target": "VCP",
+      "weight": 804.78,
+      "airline": "AD"
+    },
+    {
+      "source": "ROO",
+      "target": "CGB",
+      "weight": 181.31,
+      "airline": "AD"
+    },
+    {
+      "source": "RVD",
+      "target": "VCP",
+      "weight": 699.47,
+      "airline": "AD"
+    },
+    {
+      "source": "AAX",
+      "target": "POJ",
+      "weight": 110.6,
+      "airline": "AD"
+    },
+    {
+      "source": "AAX",
+      "target": "CNF",
+      "weight": 313.13,
+      "airline": "AD"
+    },
+    {
+      "source": "AAX",
+      "target": "UBA",
+      "weight": 107.67,
+      "airline": "AD"
+    },
+    {
+      "source": "CIZ",
+      "target": "MAO",
+      "weight": 363.16,
+      "airline": "AD"
+    },
+    {
+      "source": "BAZ",
+      "target": "MAO",
+      "weight": 392.47,
+      "airline": "AD"
+    },
+    {
+      "source": "CKS",
+      "target": "BEL",
+      "weight": 553.13,
+      "airline": "G3"
+    },
+    {
+      "source": "CKS",
+      "target": "CNF",
+      "weight": 1637.48,
+      "airline": "G3"
+    },
+    {
+      "source": "CKS",
+      "target": "MAB",
+      "weight": 126.56,
+      "airline": "AD"
+    },
+    {
+      "source": "IZA",
+      "target": "CNF",
+      "weight": 225.87,
+      "airline": "AD"
+    },
+    {
+      "source": "IZA",
+      "target": "VCP",
+      "weight": 440.2,
+      "airline": "AD"
+    },
+    {
+      "source": "IZA",
+      "target": "CGH",
+      "weight": 427.91,
+      "airline": "G3"
+    },
+    {
+      "source": "POJ",
+      "target": "PLU",
+      "weight": 297.13,
+      "airline": "AD"
+    },
+    {
+      "source": "JTC",
+      "target": "MII",
+      "weight": 90.27,
+      "airline": "AD"
+    },
+    {
+      "source": "JTC",
+      "target": "VCP",
+      "weight": 217.76,
+      "airline": "AD"
+    },
+    {
+      "source": "JTC",
+      "target": "CGH",
+      "weight": 294.03,
+      "airline": "G3"
+    },
+    {
+      "source": "BYO",
+      "target": "VCP",
+      "weight": 979.35,
+      "airline": "AD"
+    },
+    {
+      "source": "BYO",
+      "target": "CMG",
+      "weight": 279.24,
+      "airline": "AD"
+    },
+    {
+      "source": "ERN",
+      "target": "TFF",
+      "weight": 676.16,
+      "airline": "AD"
+    },
+    {
+      "source": "OLC",
+      "target": "TFF",
+      "weight": 465.87,
+      "airline": "AD"
+    },
+    {
+      "source": "IRZ",
+      "target": "TFF",
+      "weight": 335.39,
+      "airline": "AD"
+    },
+    {
+      "source": "OAL",
+      "target": "CGB",
+      "weight": 738.84,
+      "airline": "AD"
+    },
+    {
+      "source": "JJD",
+      "target": "GRU",
+      "weight": 2418.97,
+      "airline": "G3"
+    }
+  ]
+}
