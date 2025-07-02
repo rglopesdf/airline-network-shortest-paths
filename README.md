@@ -269,8 +269,7 @@ For questions, suggestions, or collaboration opportunities:
 
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 - **Discussions**: Join our GitHub Discussions for general questions and ideas
-- **Email**: [Your contact email]
-- **LinkedIn**: [Your LinkedIn profile]
+
 
 ## 🔗 Related Projects
 
@@ -278,7 +277,5 @@ For questions, suggestions, or collaboration opportunities:
 - [Aviation Data Analytics](https://github.com/example/aviation-analytics) - Comprehensive aviation data analysis
 - [Graph Algorithms Collection](https://github.com/example/graph-algorithms) - Implementation of various graph algorithms
 
----
 
-**Made with ❤️ by [Manus AI](https://github.com/manus-ai) | Powered by NetworkX and Python**
 
